@@ -1,0 +1,342 @@
+{
+  "seo": {
+    "title": "Marketing en salud para clínicas, medspas y urgencias en Texas",
+    "description": "Marketing en salud para clínicas, medspas, urgencias y emergencias. SEO compatible con HIPAA, anuncios pagados, sitios web, automatización. Más de 200 prácticas en Texas. Auditoría gratuita de 5 días."
+  },
+  "hero": {
+    "eyebrow": "Tu socio de crecimiento en salud",
+    "titleLine1": "Hacemos marketing en salud.",
+    "titleAccent": "Sin descanso.",
+    "lede": "SEO, anuncios pagados, branding, contenido y sitios web hechos para clínicas, medspas, centros de urgencias y marcas de salud que buscan crecimiento medible.",
+    "ctaPrimary": "Obtener auditoría gratuita",
+    "ctaSecondary": "Ver nuestro trabajo",
+    "hubName": "TheNextGen",
+    "hubTag": "Healthcare",
+    "pills": {
+      "seoLocal": "SEO y Local",
+      "paidMedia": "Anuncios pagados",
+      "branding": "Branding",
+      "automation": "Automatización",
+      "webDesign": "Diseño web",
+      "content": "Contenido"
+    }
+  },
+  "certStrip": {
+    "title": "Más de 200 prácticas de salud confían en nosotros",
+    "subtitle": "Compatible por diseño. Medible por defecto.",
+    "ariaLabel": "Capacidades y cumplimiento",
+    "label": "Confiable y certificado",
+    "items": {
+      "hipaa": "Compatible con HIPAA",
+      "google": "Certificación Google",
+      "meta": "Certificación Meta",
+      "seo": "SEO",
+      "paidAds": "Anuncios pagados",
+      "webDesign": "Diseño web"
+    }
+  },
+  "aboutUs": {
+    "eyebrow": "Sobre nosotros",
+    "title": "Diseñado para las prácticas de salud listas para crecer.",
+    "partnerStat": {
+      "value": "200+",
+      "label": "Prácticas aliadas"
+    },
+    "introText": "Ayudamos a las prácticas de salud a crecer más rápido con sistemas de marketing diseñados específicamente para clínicas, medspas y marcas de bienestar — compatibles con HIPAA, con ROI medido y pensados para acumular resultados mes a mes para que tu flujo de pacientes nunca se enfríe.",
+    "feature": {
+      "title": "Healthcare Growth Engine",
+      "desc": "SEO, anuncios pagados y automatización integrados — cada canal optimizado para la adquisición y retención de pacientes.",
+      "ariaLabel": "Conoce más sobre el Healthcare Growth Engine"
+    },
+    "floatStat": {
+      "value": "120+",
+      "label": "Programas lanzados"
+    },
+    "learnMore": "Conoce más",
+    "collab": {
+      "title": "Colaboremos para construir un sistema de crecimiento centrado en el paciente.",
+      "text": "Nos integramos dentro de tu equipo para que la estrategia, la ejecución y los reportes se muevan como uno. Cada decisión se basa en datos del paciente e impacto real en ingresos — no en métricas de vanidad.",
+      "pillars": {
+        "strategy": {
+          "title": "Construido con estrategia experta",
+          "desc": "Estrategas senior en salud al mando de cada hoja de ruta."
+        },
+        "revenue": {
+          "title": "Enfocados en los ingresos",
+          "desc": "Citas, retención y valor de vida del paciente."
+        }
+      },
+      "quote": {
+        "title": "La colaboración es la clave del éxito",
+        "text": "Socios de crecimiento integrados — no proveedores."
+      },
+      "cta": "Más sobre nosotros"
+    }
+  },
+  "advantages": {
+    "eyebrow": "Nuestras ventajas",
+    "title": "Un solo socio para el crecimiento en salud.",
+    "intro": "SEO, anuncios pagados, automatización y reportes bajo un mismo techo — para que tu equipo tenga un socio responsable, no cinco proveedores desconectados.",
+    "stats": {
+      "retention": "Retención de clientes",
+      "practices": "Prácticas de salud que crecieron con nosotros",
+      "leadTime": "Hasta los primeros leads calificados"
+    },
+    "cards": {
+      "underOneRoof": {
+        "title": "Todo bajo un mismo techo",
+        "desc": "SEO, anuncios pagados, contenido, automatización y reportes — un equipo, una fuente de verdad. Sin intermediarios pegados con cinta ni señalamientos entre agencias."
+      },
+      "dedicatedLead": {
+        "title": "Tu líder de crecimiento dedicado",
+        "desc": "Un estratega responsable que es dueño de tu hoja de ruta, conduce las revisiones semanales y está disponible cuando el volumen de pacientes necesita moverse ahora — no el próximo sprint."
+      },
+      "fixedPricing": {
+        "title": "Precios fijos y plazos claros",
+        "desc": "Planes mensuales transparentes con hitos que puedes presentar a tu junta. Sin facturas sorpresa ni aumentos escondidos — lo que firmas es lo que pagas."
+      },
+      "hipaaSpecialists": {
+        "title": "Especialistas conscientes de HIPAA",
+        "desc": "Cada campaña, píxel y formulario está construido por operadores con formación en salud, usando stacks listos para BAA y tracking del lado del servidor. El cumplimiento es el estándar, no un complemento."
+      }
+    }
+  },
+  "services": {
+    "head": {
+      "eyebrow": "Servicios",
+      "title": "Marketing hecho para prácticas de salud.",
+      "sub": "Seis capacidades centrales — un motor de crecimiento integrado para clínicas, medspas y marcas de bienestar.",
+      "allLinkText": "Ver todos los servicios"
+    },
+    "items": {
+      "seo": {
+        "tag": "Búsqueda",
+        "title": "Servicios de SEO",
+        "sub": "SEO integral — técnico, on-page, off-page, local, AEO y contenido.",
+        "ariaLabel": "Servicios de SEO"
+      },
+      "social": {
+        "tag": "Social",
+        "title": "Marketing en redes sociales",
+        "sub": "Aparece donde tus pacientes pasan su tiempo — con constancia.",
+        "ariaLabel": "Marketing en redes sociales"
+      },
+      "googleAds": {
+        "tag": "Anuncios pagados",
+        "title": "Google Ads",
+        "sub": "Search, PMax, Display, YouTube, Shopping, LSA — afinados cada semana contra el ROAS.",
+        "ariaLabel": "Google Ads"
+      },
+      "field": {
+        "tag": "Campo",
+        "title": "Marketing de campo en clínica",
+        "sub": "Activaciones dentro de la clínica y presencia comunitaria que convierten a nivel local.",
+        "ariaLabel": "Marketing de campo en clínica"
+      },
+      "automation": {
+        "tag": "Automatización",
+        "title": "Automatización médica",
+        "sub": "Flujos en n8n y a medida que manejan admisión, seguimiento y reportes.",
+        "ariaLabel": "Automatización médica"
+      },
+      "email": {
+        "tag": "Ciclo de vida",
+        "title": "Email y campañas drip",
+        "sub": "Nutre leads, recupera ausencias y reactiva a pacientes anteriores.",
+        "ariaLabel": "Email y campañas drip"
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industrias",
+    "title": "Industrias que atendemos",
+    "lead": "Marketing especializado para cada tipo de centro de salud — porque una sala de emergencias y un MedSpa requieren estrategias de crecimiento totalmente distintas.",
+    "pillarsLabel": "Cada vertical varía en",
+    "stats": {
+      "campaigns": "campañas lanzadas",
+      "adSpend": "inversión publicitaria gestionada",
+      "roi": "ROI promedio"
+    },
+    "specialties": {
+      "er": {
+        "name": "Salas de emergencia",
+        "meta": "Captación de alta complejidad 24/7"
+      },
+      "urgentCare": {
+        "name": "Urgencias",
+        "meta": "Volumen de pacientes sin cita frente a sistemas de salud"
+      },
+      "medspa": {
+        "name": "MedSpas y estética",
+        "meta": "Redes sociales + campañas Meta segmentadas"
+      },
+      "dental": {
+        "name": "Prácticas dentales",
+        "meta": "Crecimiento optimizado a nivel local"
+      },
+      "chiro": {
+        "name": "Quiropráctica",
+        "meta": "Flujo recurrente de pacientes locales"
+      },
+      "mental": {
+        "name": "Salud mental",
+        "meta": "Discreto y guiado por demografía"
+      },
+      "primary": {
+        "name": "Atención primaria",
+        "meta": "Demanda de pacientes en tu área de servicio"
+      },
+      "pediatrics": {
+        "name": "Pediatría",
+        "meta": "Estrategia de crecimiento pensada para familias"
+      }
+    },
+    "tags": {
+      "er": "Emergencias",
+      "urgentCare": "Urgencias",
+      "medspa": "MedSpa",
+      "dental": "Dental",
+      "mental": "Salud mental",
+      "pediatrics": "Pediatría"
+    },
+    "pillars": {
+      "cost": "Costos de adquisición de pacientes",
+      "competition": "Dinámica competitiva",
+      "compliance": "Requisitos de cumplimiento"
+    },
+    "strap": {
+      "brand": "Clinic Growth OS",
+      "after": " se adapta a cada realidad clínica — desde citas para el mismo día hasta procesos electivos de 6 meses. Playbooks específicos por industria, no una estrategia genérica."
+    }
+  },
+  "results": {
+    "head": {
+      "eyebrow": "Pruebas de trabajo",
+      "title": "Resultados reales.",
+      "sub": "No solo hablamos — entregamos resultados medibles a las prácticas de salud."
+    },
+    "featured": {
+      "tag": "MedSpa",
+      "label": "Aumento de leads en Instagram en 90 días — gracias a un solo funnel optimizado y un refresh creativo.",
+      "ariaLabel": "Aumento del 312% en leads de Instagram - MedSpa"
+    },
+    "stats": {
+      "er": {
+        "tag": "Sala de emergencia",
+        "label": "Aumento de pacientes sin cita en seis meses.",
+        "ariaLabel": "Aumento del 47% en pacientes sin cita - Sala de emergencia"
+      },
+      "urgentCare": {
+        "tag": "Urgencias",
+        "label": "Retorno sobre inversión publicitaria en el primer trimestre.",
+        "ariaLabel": "Retorno 2.8x sobre inversión publicitaria - Urgencias"
+      },
+      "medspaNetwork": {
+        "tag": "Red de MedSpas",
+        "label": "Ingresos generados con anuncios en Facebook en 12 meses.",
+        "ariaLabel": "$1.2M en ingresos generados - Red de MedSpas"
+      }
+    }
+  },
+  "testimonials": {
+    "head": {
+      "eyebrow": "Testimonios",
+      "title": "Líderes en salud confían en nosotros.",
+      "sub": "Súmate a las prácticas que transformaron su adquisición de pacientes con TheNextGen."
+    },
+    "items": {
+      "chen": {
+        "text": "TheNextGen reconstruyó todo nuestro pipeline de pacientes. En 90 días, las consultas se triplicaron y el costo por lead bajó a la mitad.",
+        "name": "Dra. Sarah Chen",
+        "title": "Propietaria, Beverly Hills MedSpa"
+      },
+      "reynolds": {
+        "text": "Su media pagada compatible con HIPAA nos permitió escalar con confianza. Hemos visto crecimiento mes a mes durante más de un año.",
+        "name": "Mark Reynolds",
+        "title": "Director de Práctica, Premier Dental"
+      },
+      "rodriguez": {
+        "text": "Cada decisión está respaldada por reportes claros. La optimización semanal mantiene nuestro funnel afilado y al equipo alineado.",
+        "name": "Dra. Emily Rodriguez",
+        "title": "Fundadora, Wellness Collective"
+      },
+      "park": {
+        "text": "Entienden el sector salud. El cumplimiento fue impecable y el ROI apareció en nuestro primer trimestre.",
+        "name": "James Park",
+        "title": "CEO, Urgent Care Network"
+      }
+    },
+    "nav": {
+      "groupLabel": "Navegación del carrusel de testimonios",
+      "prev": "Testimonio anterior",
+      "next": "Testimonio siguiente"
+    }
+  },
+  "faq": {
+    "head": {
+      "eyebrow": "Tus preguntas, resueltas",
+      "titleLine1": "Preguntas",
+      "titleLine2Lead": "frecuentes",
+      "titleLine2Accent": "respondidas",
+      "intro": "Todo lo que necesitas saber sobre trabajar con TheNextGen — desde cumplimiento y reportes hasta plazos y duración del compromiso."
+    },
+    "still": {
+      "title": "¿Aún tienes dudas?",
+      "para1": "Sabemos que cada clínica es diferente. Si hay algo que quieras aclarar sobre precios, servicios o cómo encajamos en tu flujo de trabajo, nuestro equipo está aquí para ayudarte.",
+      "para2": "Contáctanos cuando quieras — te acompañamos en cada detalle para que aproveches al máximo nuestra plataforma.",
+      "ctaText": "Agendar demo"
+    },
+    "items": {
+      "results": {
+        "q": "¿Qué tan rápido veré resultados con su marketing en salud?",
+        "aLead": "La mayoría de los clientes ven ",
+        "aStrong": "movimiento tangible en los primeros 30 días",
+        "aRest": " — mejor visibilidad en Google Business Profile, sitios más rápidos y los primeros leads pagados. El crecimiento orgánico sostenido del SEO suele acumularse entre los meses 3 y 6 a medida que el contenido, los enlaces y el trabajo on-page maduran.",
+        "text": "La mayoría de los clientes ven movimiento tangible en los primeros 30 días — mejor visibilidad en Google Business Profile, sitios más rápidos y los primeros leads pagados. El crecimiento orgánico sostenido del SEO suele acumularse entre los meses 3 y 6 a medida que el contenido, los enlaces y el trabajo on-page maduran."
+      },
+      "hipaa": {
+        "q": "¿Sus campañas y herramientas son compatibles con HIPAA?",
+        "a": "Sí. Seguimos prácticas compatibles con HIPAA en tracking, segmentación de anuncios, formularios de admisión y reportes — incluyendo tracking del lado del servidor, uso de píxeles compatibles y selección de proveedores listos para BAA cuando aplica. No somos una entidad cubierta, así que trabajamos junto a tu oficial de cumplimiento para asegurar la alineación de extremo a extremo.",
+        "text": "Sí. Seguimos prácticas compatibles con HIPAA en tracking, segmentación de anuncios, formularios de admisión y reportes — incluyendo tracking del lado del servidor, uso de píxeles compatibles y selección de proveedores listos para BAA cuando aplica. No somos una entidad cubierta, así que trabajamos junto a tu oficial de cumplimiento para asegurar la alineación de extremo a extremo."
+      },
+      "size": {
+        "q": "¿Con qué tamaño de prácticas suelen trabajar?",
+        "aLead": "Desde ",
+        "aStrong1": "clínicas y medspas de una sola sede",
+        "aMid": " hasta ",
+        "aStrong2": "redes de salud multi-ubicación",
+        "aRest": ". Nuestra metodología escala: las prácticas más pequeñas se benefician del Clinic Growth OS completo, mientras que las redes más grandes nos integran a sus equipos existentes para amplificar desempeño y reportes.",
+        "text": "Desde clínicas y medspas de una sola sede hasta redes de salud multi-ubicación. Nuestra metodología escala: las prácticas más pequeñas se benefician del Clinic Growth OS completo, mientras que las redes más grandes nos integran a sus equipos existentes para amplificar desempeño y reportes."
+      },
+      "monthly": {
+        "q": "¿Qué incluye su servicio mensual?",
+        "a": "Estrategia, ejecución y reportes en SEO, anuncios pagados (Google y Meta), redes sociales, contenido, automatización y optimización semanal — además de un líder de crecimiento dedicado y un dashboard analítico en tiempo real. Cada plan se adapta a tus objetivos; nada está pegado con cinta adhesiva.",
+        "text": "Estrategia, ejecución y reportes en SEO, anuncios pagados (Google y Meta), redes sociales, contenido, automatización y optimización semanal — además de un líder de crecimiento dedicado y un dashboard analítico en tiempo real. Cada plan se adapta a tus objetivos; nada está pegado con cinta adhesiva."
+      },
+      "contract": {
+        "q": "¿Necesito un contrato a largo plazo para trabajar con ustedes?",
+        "aLead": "Sin contratos largos. Recomendamos un ",
+        "aStrong": "compromiso mínimo de 90 días",
+        "aRest": " para que el sistema tenga tiempo de acumularse, pero hay opciones mes a mes después de la fase inicial de setup. Cancela, baja de plan o escala cuando quieras — sin tarifas ocultas.",
+        "text": "Sin contratos largos. Recomendamos un compromiso mínimo de 90 días para que el sistema tenga tiempo de acumularse, pero hay opciones mes a mes después de la fase inicial de setup. Cancela, baja de plan o escala cuando quieras — sin tarifas ocultas."
+      }
+    }
+  },
+  "contactSection": {
+    "head": {
+      "eyebrow": "Visítanos",
+      "title": "Encuéntranos en Irving, Texas.",
+      "sub": "Pasa por la oficina o contáctanos cuando quieras — con gusto te mostramos el Clinic Growth OS en persona o por llamada."
+    },
+    "card": {
+      "mapChip": "Ubicación de la oficina",
+      "headquartersEyebrow": "Sede central",
+      "cityRegionHeading": "Irving, TX",
+      "hqName": "TheNextGen HQ",
+      "hoursLabel": "Lun–Vie, 9:00am–6:00pm CT",
+      "countryName": "Estados Unidos",
+      "mapLinkAriaLabel": "Abrir ubicación en Google Maps",
+      "getDirectionsText": "Cómo llegar"
+    }
+  }
+}

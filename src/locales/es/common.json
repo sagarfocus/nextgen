@@ -1,0 +1,345 @@
+{
+  "brand": {
+    "name": "TheNextGen Healthcare Marketing",
+    "shortName": "TheNextGen",
+    "tagline": "Tu socio de crecimiento en salud",
+    "description": "Agencia integral de marketing para el sector salud. SEO, Google Ads, redes sociales, diseño web y automatización compatible con HIPAA para clínicas."
+  },
+  "buttons": {
+    "getStarted": "Comenzar",
+    "learnMore": "Conoce más",
+    "readMore": "Leer más",
+    "viewAll": "Ver todo",
+    "viewMore": "Ver más",
+    "seeMore": "Ver más",
+    "back": "Volver",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "send": "Enviar",
+    "sendMessage": "Enviar mensaje",
+    "subscribe": "Suscribirme",
+    "bookConsultation": "Agendar consulta",
+    "bookCall": "Agendar llamada",
+    "bookDiscoveryCall": "Agendar llamada de descubrimiento",
+    "bookStrategyCall": "Agendar llamada estratégica",
+    "scheduleCall": "Agendar una llamada",
+    "scheduleDemo": "Agendar demo",
+    "freeAudit": "Auditoría gratuita",
+    "freeGrowthAudit": "Auditoría de crecimiento gratuita",
+    "requestAudit": "Solicitar auditoría",
+    "requestProposal": "Solicitar propuesta",
+    "requestQuote": "Solicitar cotización",
+    "contactUs": "Contáctanos",
+    "contactSales": "Hablar con ventas",
+    "talkToExpert": "Hablar con un experto",
+    "talkToStrategist": "Hablar con un estratega",
+    "exploreServices": "Explorar servicios",
+    "seeOurWork": "Ver nuestro trabajo",
+    "viewCaseStudies": "Ver casos de éxito",
+    "viewCaseStudy": "Ver caso de éxito",
+    "viewPricing": "Ver precios",
+    "viewPlans": "Ver planes",
+    "viewDetails": "Ver detalles",
+    "viewAllServices": "Ver todos los servicios",
+    "viewAllIndustries": "Ver todas las industrias",
+    "loadMore": "Cargar más",
+    "loading": "Cargando…",
+    "close": "Cerrar",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "playVideo": "Reproducir video",
+    "downloadGuide": "Descargar guía",
+    "startProject": "Iniciar un proyecto",
+    "getInTouch": "Contáctanos",
+    "ctaSubscribeNewsletter": "Suscribirme al boletín"
+  },
+  "language": {
+    "changeLanguage": "Cambiar idioma",
+    "selectLanguage": "Seleccionar idioma",
+    "english": "English",
+    "spanish": "Español"
+  },
+  "errors": {
+    "required": "Este campo es obligatorio",
+    "invalidEmail": "Ingresa un correo electrónico válido",
+    "invalidPhone": "Ingresa un teléfono válido",
+    "generic": "Algo salió mal. Intenta de nuevo.",
+    "networkError": "Error de red. Revisa tu conexión.",
+    "submitFailed": "El envío falló. Intenta de nuevo.",
+    "notFoundTitle": "Página no encontrada",
+    "notFoundDescription": "No encontramos la página que buscas.",
+    "notFoundCta": "Volver al inicio"
+  },
+  "labels": {
+    "name": "Nombre",
+    "fullName": "Nombre completo",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "email": "Correo",
+    "emailAddress": "Correo electrónico",
+    "phone": "Teléfono",
+    "phoneNumber": "Número de teléfono",
+    "company": "Empresa",
+    "practiceName": "Nombre de la práctica",
+    "website": "Sitio web",
+    "message": "Mensaje",
+    "howCanWeHelp": "¿Cómo podemos ayudarte?",
+    "service": "Servicio",
+    "interestedIn": "Me interesa",
+    "budget": "Presupuesto",
+    "timeline": "Cronograma",
+    "industry": "Industria",
+    "role": "Cargo",
+    "location": "Ubicación",
+    "city": "Ciudad",
+    "state": "Estado",
+    "country": "País",
+    "yourEmail": "Tu correo electrónico",
+    "yourName": "Tu nombre",
+    "yourMessage": "Tu mensaje",
+    "yourPhone": "Tu número de teléfono",
+    "selectOption": "Selecciona una opción",
+    "optional": "(opcional)"
+  },
+  "common": {
+    "yes": "Sí",
+    "no": "No",
+    "all": "Todo",
+    "more": "Más",
+    "less": "Menos",
+    "new": "Nuevo",
+    "featured": "Destacado",
+    "popular": "Popular",
+    "bestseller": "Más vendido",
+    "free": "Gratis",
+    "comingSoon": "Próximamente",
+    "available": "Disponible",
+    "unavailable": "No disponible",
+    "category": "Categoría",
+    "categories": "Categorías",
+    "tag": "Etiqueta",
+    "tags": "Etiquetas",
+    "author": "Autor",
+    "publishedOn": "Publicado el",
+    "readingTime": "Lectura de {{minutes}} min",
+    "share": "Compartir",
+    "shareOn": "Compartir en {{platform}}",
+    "scrollToTop": "Volver arriba",
+    "breadcrumb": "Ruta de navegación",
+    "page": "Página",
+    "of": "de",
+    "from": "desde",
+    "to": "hasta",
+    "and": "y",
+    "or": "o",
+    "min": "min",
+    "hour": "hora",
+    "hours": "horas",
+    "day": "día",
+    "days": "días",
+    "week": "semana",
+    "weeks": "semanas",
+    "month": "mes",
+    "months": "meses",
+    "year": "año",
+    "years": "años"
+  },
+  "newsletter": {
+    "title": "Recibe tips de marketing cada semana",
+    "description": "Estrategias de crecimiento en salud, directo a tu bandeja de entrada.",
+    "placeholder": "Tu correo electrónico",
+    "submit": "Suscribirme",
+    "ariaLabel": "Suscripción al boletín",
+    "successMessage": "¡Gracias! Pronto recibirás novedades.",
+    "errorMessage": "La suscripción falló. Intenta de nuevo."
+  },
+  "footer": {
+    "servicesHeading": "Servicios",
+    "companyHeading": "Empresa",
+    "contactHeading": "Contacto",
+    "socialAriaLabel": "Redes sociales",
+    "copyright": "© {{year}} {{name}}. Todos los derechos reservados.",
+    "allRightsReserved": "Todos los derechos reservados.",
+    "madeWith": "Hecho con cuidado en Texas."
+  },
+  "social": {
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter",
+    "youtube": "YouTube",
+    "whatsapp": "WhatsApp",
+    "email": "Correo"
+  },
+  "modal": {
+    "bookingTitle": "Agendar una llamada",
+    "bookingSubtitle": "Elige un horario que te funcione. Te enviaremos la confirmación.",
+    "closeAriaLabel": "Cerrar ventana"
+  },
+  "booking": {
+    "closeAriaLabel": "Cerrar reserva",
+    "eyebrowBeforeBook": "Llamada gratis de 30 min",
+    "eyebrowConfirmed": "Reserva confirmada",
+    "titleBeforeBook": "Agenda una consulta gratis con un especialista en crecimiento para salud.",
+    "titleConfirmed": "Estás en el calendario.",
+    "descriptionBeforeBook": "Revisaremos tu embudo actual, identificaremos oportunidades rápidas y trazaremos un plan de crecimiento personalizado para tu práctica.",
+    "descriptionConfirmedPrefix": "Hemos reservado",
+    "descriptionConfirmedJoin": "a las",
+    "descriptionConfirmedSuffix": ". Recibirás un correo de confirmación con el enlace de la llamada en la próxima hora hábil.",
+    "listBeforeBook": {
+      "audit": "Auditoría personalizada de tu embudo",
+      "roadmap": "Plan de crecimiento a 90 días a tu medida",
+      "compliance": "Compatible con HIPAA, sin compromiso"
+    },
+    "listConfirmed": {
+      "invite": "Invitación de calendario y agenda en 1 hora hábil",
+      "preview": "Vista previa de auditoría de 1 página la mañana de la llamada",
+      "prep": "Sin preparación - trae tus 2 preguntas principales"
+    },
+    "footBeforeBook": "Todos los horarios se muestran en tu zona horaria local",
+    "footConfirmed": "¿Necesitas reprogramar? Responde al correo de confirmación.",
+    "confirmedBadge": "Confirmada",
+    "yourCallHeading": "Tu llamada",
+    "formatLabel": "Formato",
+    "formatValue": "Videollamada · 30 min",
+    "specialistLabel": "Especialista",
+    "specialistValue": "Asignado por vertical",
+    "prevMonthAriaLabel": "Mes anterior",
+    "nextMonthAriaLabel": "Mes siguiente",
+    "datesGridAriaLabel": "Fechas disponibles",
+    "timesAriaLabel": "Horarios disponibles",
+    "timesEmpty": "Elige una fecha para ver los horarios disponibles",
+    "confirmSelectDateTime": "Selecciona fecha y hora",
+    "confirmPickTime": "Elige un horario",
+    "confirmFormat": "Confirmar: {{date}} a las {{time}}",
+    "weekdays": {
+      "sun": "Dom",
+      "mon": "Lun",
+      "tue": "Mar",
+      "wed": "Mié",
+      "thu": "Jue",
+      "fri": "Vie",
+      "sat": "Sáb"
+    },
+    "months": {
+      "0": "Enero",
+      "1": "Febrero",
+      "2": "Marzo",
+      "3": "Abril",
+      "4": "Mayo",
+      "5": "Junio",
+      "6": "Julio",
+      "7": "Agosto",
+      "8": "Septiembre",
+      "9": "Octubre",
+      "10": "Noviembre",
+      "11": "Diciembre"
+    }
+  },
+  "breadcrumb": {
+    "home": "Inicio",
+    "defaultSection": "Recursos"
+  },
+  "components": {
+    "industryHero": {
+      "rootLabel": "Industrias"
+    },
+    "industryCTA": {
+      "bookStrategyCall": "Agendar llamada estratégica"
+    },
+    "industrySnapshots": {
+      "defaultEyebrow": "En la práctica"
+    },
+    "industryNumbers": {
+      "title": "Las cifras que movemos.",
+      "eyebrow": "Métrica principal"
+    },
+    "industryPlaybook": {
+      "titlePart1": "La metodología,",
+      "titleEm": "paso a paso.",
+      "sub": "La misma estructura en cada proyecto, ajustada a esta vertical."
+    },
+    "industrySpecialties": {
+      "title": "Especialidades que atendemos."
+    },
+    "serviceHero": {
+      "rootLabel": "Servicios",
+      "getFreeAudit": "Auditoría gratuita",
+      "seeHowItWorks": "Ver cómo funciona"
+    },
+    "serviceCTA": {
+      "defaultEyebrow": "Auditoría gratuita · Sin compromiso",
+      "defaultTitle": "Hagamos que esto funcione.",
+      "defaultDescription": "Una llamada de 30 minutos. Auditaremos tu configuración actual y compartiremos el caso de éxito más cercano de nuestra biblioteca, decidas o no trabajar con nosotros.",
+      "defaultPrimaryLabel": "Agendar llamada estratégica"
+    },
+    "serviceFAQ": {
+      "defaultTitle": "Las preguntas que más nos hacen.",
+      "defaultMeta": "Más en la página\nde recursos",
+      "sectionLabel": "Preguntas frecuentes",
+      "faqSchemaName": "{{serviceName}} - preguntas frecuentes"
+    },
+    "problemOutcome": {
+      "sectionNum": "01 - Problema → Resultado",
+      "titlePart1": "De",
+      "titleEm": "estancado",
+      "titlePart2": "a escalando.",
+      "metaLine1": "Comparación",
+      "metaLine2": "antes / después",
+      "outcomeEyebrow": "Después de 90 días",
+      "outcomeHeading": "Crecimiento medible, predecible y repetible."
+    },
+    "howItWorks": {
+      "sectionNum": "02 - Cómo funciona",
+      "titlePart1": "Cuatro fases.",
+      "titleEm": "Sesenta días.",
+      "metaLine1": "La misma estructura",
+      "metaLine2": "en cada proyecto",
+      "phasePrefix": "Fase"
+    },
+    "results": {
+      "sectionNum": "03 - Resultados",
+      "titlePart1": "Cifras reales,",
+      "titleEm": "prácticas reales.",
+      "metaLine1": "Agregado",
+      "metaLine2": "auditado",
+      "heroEyebrow": "Métrica principal"
+    },
+    "caseStudies": {
+      "sectionNum": "05 - Casos de éxito",
+      "titlePart1": "Seis proyectos",
+      "titleEm": "recientes.",
+      "metaLine1": "Desliza o",
+      "metaLine2": "haz clic",
+      "problemLabel": "Problema",
+      "resultLabel": "Resultado",
+      "prevAriaLabel": "Anterior",
+      "nextAriaLabel": "Siguiente",
+      "viewAllCases": "Ver todos los casos de éxito"
+    },
+    "relatedServices": {
+      "defaultTitle": "Combínalo con otra palanca.",
+      "defaultIntro": "Estos servicios se potencian cuando se ejecutan juntos: elige la siguiente capa que ataque tu cuello de botella.",
+      "sectionLabel": "Servicios relacionados",
+      "explore": "Explorar"
+    },
+    "serviceScenario": {
+      "comparisonHeaders": {
+        "lever": "Palanca",
+        "before": "La mayoría de clínicas hoy",
+        "after": "Con nuestro proyecto"
+      },
+      "sketchDisclaimer": "Escenario ilustrativo · Compuesto, no un solo proyecto"
+    },
+    "whatWeDo": {
+      "sectionNum": "01 - Lo que hacemos",
+      "titlePart1": "Seis formas de",
+      "titleEm": "mover la aguja.",
+      "metaLine1": "Cada retainer",
+      "metaLine2": "incluye las seis",
+      "cornerstoneLabel": "Capacidad central",
+      "outcomeLensLabel": "Enfoque de resultado"
+    }
+  }
+}

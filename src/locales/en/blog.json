@@ -1,0 +1,253 @@
+{
+  "seo": {
+    "title": "Healthcare Marketing Blog | TheNextGen",
+    "description": "Tactics, case breakdowns, and frameworks for growing healthcare practices. Updated weekly.",
+    "indexTitle": "Healthcare Marketing Blog — Practitioner-Written Tactics",
+    "indexDescription": "Field-tested healthcare marketing insights, HIPAA compliance updates, patient acquisition tactics, and case studies — written by the TheNextGen team."
+  },
+  "hero": {
+    "eyebrow": "Blog",
+    "title": "Healthcare marketing — tactics that ship",
+    "lede": "Practitioner's brief. Updated weekly with the playbooks we're running right now.",
+    "mastEyebrow": "The Practitioner's Brief",
+    "mastTitle1": "Healthcare",
+    "mastTitleItalic": "marketing,",
+    "mastTitle2": "written by",
+    "mastTitleAccent": "practitioners",
+    "mastLedeStrong": "Field-tested tactics, not theory.",
+    "mastLede": "Patient acquisition strategies, HIPAA updates, and growth case studies from the team that's helped 200+ Texas practices scale.",
+    "trendingLabel": "Trending Topics",
+    "featuredBadge": "Featured",
+    "featuredCat": "Growth Strategy",
+    "featuredTitle": "The new Cost Per Acquisition benchmarks for healthcare in 2026.",
+    "featuredExcerpt": "After analyzing $10M+ in healthcare ad spend across 200+ Texas practices, we've compiled the actual CPA ranges - plus the 4 levers that consistently bring it down.",
+    "featuredAuthor": "Sarah Chen",
+    "featuredMeta1": "Apr 28, 2026",
+    "featuredMeta2": "12 min read",
+    "latestTitle": "Latest",
+    "seeAll": "See all"
+  },
+  "trending": {
+    "localSeo": "Local SEO",
+    "hipaaTracking": "HIPAA Tracking",
+    "cpaBenchmarks": "CPA Benchmarks",
+    "aiIntake": "AI Intake",
+    "medspaLtv": "MedSpa LTV",
+    "reviews": "Reviews"
+  },
+  "side": {
+    "hipaa": {
+      "cat": "Compliance",
+      "title": "HIPAA-compliant Google Ads tracking in 2026.",
+      "meta": "Apr 22, 2026 · 8 min read"
+    },
+    "maps": {
+      "cat": "Local SEO",
+      "title": "7 Google Business Profile signals that move map rankings.",
+      "meta": "Apr 10, 2026 · 9 min read"
+    },
+    "ads": {
+      "cat": "Paid Media",
+      "title": "Why your urgent care CPA is probably 30% too high.",
+      "meta": "Apr 18, 2026 · 6 min read"
+    }
+  },
+  "latest": {
+    "aiChatbot": {
+      "title": "AI patient intake: what works, what breaks compliance.",
+      "meta": "Apr 6 · 11 min"
+    },
+    "medspa": {
+      "title": "MedSpa LTV: turning $300 facials into $4K patients.",
+      "meta": "Apr 2 · 7 min"
+    },
+    "reviews": {
+      "title": "Automating Google reviews without violating HIPAA.",
+      "meta": "Apr 14 · 5 min"
+    },
+    "urgentCare": {
+      "title": "Wait-time marketing: the urgent care advantage no one is using.",
+      "meta": "Mar 28 · 6 min"
+    },
+    "analytics": {
+      "title": "The healthcare marketing dashboard every clinic should run.",
+      "meta": "Mar 24 · 8 min"
+    }
+  },
+  "list": {
+    "allCategories": "All",
+    "noPosts": "No posts in this category yet.",
+    "readArticle": "Read article",
+    "minRead": "{{minutes}} min read",
+    "publishedOn": "Published {{date}}",
+    "categoryLabel": "Category",
+    "searchPlaceholder": "Search articles...",
+    "searchLabel": "Search articles",
+    "emptyResults": "No articles match your search. Try a different keyword or category.",
+    "filterLabel": "Filter articles",
+    "allArticlesLabel": "All articles",
+    "readMore": "Read more",
+    "paginationLabel": "Pagination",
+    "prevPage": "Previous page",
+    "nextPage": "Next page"
+  },
+  "post": {
+    "backToBlog": "Back to Blog",
+    "publishedOn": "Published {{date}}",
+    "byAuthor": "By {{author}}",
+    "shareArticle": "Share this article",
+    "relatedTitle": "More from the blog",
+    "ctaTitle": "Like what you read?",
+    "ctaSubtitle": "Get the practitioner's brief, weekly.",
+    "ctaButton": "Subscribe",
+    "by": "By",
+    "editorial": "Editorial",
+    "storyBrief": "Story brief",
+    "keyTakeawaysSuffix": "key takeaways below",
+    "notFound": {
+      "pillText": "404 · Missing article",
+      "title": "We could not find that article.",
+      "lede": "The post you tried to open may have moved or been retired. Browse the full library below.",
+      "backToAll": "Back to all articles",
+      "crumb": "Article not found"
+    }
+  },
+  "categories": {
+    "all": "All",
+    "seo": "Local SEO",
+    "paid": "Paid Media",
+    "compliance": "HIPAA",
+    "automation": "Automation & AI",
+    "reputation": "Reputation",
+    "medspa": "MedSpa",
+    "urgent": "Urgent Care",
+    "fsed": "FSED",
+    "analytics": "Analytics",
+    "branding": "Branding",
+    "content": "Content",
+    "strategy": "Strategy"
+  },
+  "categoryLabels": {
+    "compliance": "HIPAA Compliance",
+    "paid": "Paid Media",
+    "reputation": "Reputation",
+    "seo": "Local SEO",
+    "automation": "Automation & AI",
+    "medspa": "MedSpa Marketing",
+    "urgent": "Urgent Care",
+    "analytics": "Analytics",
+    "fsed": "FSED"
+  },
+  "editorialProcess": {
+    "eyebrow": "Editorial Process",
+    "title": "How every article gets to your inbox.",
+    "sub": "Beyond just publishing tactics, we build each piece around real client work - from raw insight to peer-reviewed, HIPAA-checked, practitioner-tested content.",
+    "rangeStart": "Apr 2026",
+    "rangeEnd": "May 2026",
+    "expandLabel": "Expand step",
+    "steps": {
+      "research": {
+        "duration": "1 Week",
+        "title": "Research",
+        "text": "We mine our $10M+ in healthcare ad spend data, client dashboards, and HIPAA audit findings to find the patterns most clinics miss - before writing a single word."
+      },
+      "draft": {
+        "duration": "2 Weeks",
+        "title": "Draft & Visuals",
+        "text": "A senior practitioner drafts the article alongside our design team - clean diagrams, real screenshots, and brand-consistent visuals that make complex tactics easy to scan."
+      },
+      "review": {
+        "duration": "1–2 Days",
+        "title": "Compliance Review",
+        "text": "Our Head of Compliance reviews every article line-by-line for HIPAA accuracy. We test every recommended tactic against real client funnels before publishing - nothing untested ships."
+      },
+      "publish": {
+        "duration": "1–2 Days",
+        "title": "Publish & Distribute",
+        "text": "We wrap each article with a polished cover, embed it in our newsletter, and notify the 4,000+ healthcare practice managers reading every Tuesday morning - with full source attribution."
+      }
+    }
+  },
+  "newsletter": {
+    "eyebrow": "Subscribe",
+    "title": "Get healthcare growth tactics in your inbox.",
+    "text": "One field-tested patient acquisition tactic, HIPAA update, or case study every Tuesday morning. Read by 4,000+ practice managers across Texas. No fluff, no spam.",
+    "placeholder": "Enter your work email",
+    "submit": "Subscribe",
+    "disclaimer": "Unsubscribe anytime. We never share email addresses.",
+    "invalidEmail": "Please enter a valid email.",
+    "success": "Thank you! You'll get updates soon."
+  },
+  "posts": {
+    "hipaa-tracking": {
+      "title": "How to set up HIPAA-compliant Google Ads tracking in 2026.",
+      "excerpt": "A step-by-step guide to server-side tracking, BAA-ready vendors, and the consent flows that keep your conversion data clean without exposing PHI.",
+      "metaDescription": "A practitioner playbook for HIPAA-compliant Google Ads tracking: server-side tagging, BAA-ready vendors, and consent flows that keep conversion data clean.",
+      "catLabel": "HIPAA Compliance",
+      "authorRole": "Senior Compliance Strategist"
+    },
+    "ads-cost": {
+      "title": "Why your urgent care CPA is probably 30% too high.",
+      "excerpt": "The 4 most common bidding mistakes we see in urgent care Google Ads accounts - and the audit checklist we use to identify them in the first 24 hours.",
+      "metaDescription": "Four high-frequency bidding mistakes that inflate urgent care Google Ads CPA - plus the 24-hour audit checklist used to find and fix them fast.",
+      "catLabel": "Paid Media",
+      "authorRole": "Head of Paid Media"
+    },
+    "reviews": {
+      "title": "Automating Google reviews without violating HIPAA.",
+      "excerpt": "Patient testimonials are 10x more powerful than ad copy - but most review automation tools quietly break HIPAA. Here's the stack we use instead.",
+      "metaDescription": "Build a compliant patient review engine: opt-in only, no PHI in messages, and a BAA-covered tooling stack that keeps Google reviews flowing safely.",
+      "catLabel": "Reputation",
+      "authorRole": "Reputation Lead"
+    },
+    "maps-rank": {
+      "title": "The 7 Google Business Profile signals that move map rankings.",
+      "excerpt": "After managing 200+ Google Business Profiles across Texas, these are the 7 signals that actually correlate with local-pack ranking improvement - ranked by leverage.",
+      "metaDescription": "The seven Google Business Profile signals that genuinely move local-pack rankings - sourced from 200+ healthcare GBPs and ranked by real-world leverage.",
+      "catLabel": "Local SEO",
+      "authorRole": "Head of Paid Media"
+    },
+    "ai-chatbot": {
+      "title": "AI patient intake: what works, what breaks compliance.",
+      "excerpt": "AI scheduling and intake bots can cut front-desk load by 40%. They can also leak PHI in 6 different ways. Here's the architecture that does the first without the second.",
+      "metaDescription": "A practitioner architecture for HIPAA-aware AI patient intake - what compliant bots include, what they exclude, and the six leak vectors to design out.",
+      "catLabel": "Automation & AI",
+      "authorRole": "Automation Architect"
+    },
+    "medspa": {
+      "title": "The MedSpa LTV playbook: turning $300 facials into $4K patients.",
+      "excerpt": "High-LTV MedSpa marketing isn't about cheaper acquisition - it's about better post-purchase journey. Here's the email + SMS + remarketing stack we deploy on day one.",
+      "metaDescription": "A MedSpa LTV playbook: the email, SMS, and remarketing journey that turns a first $300 facial into a multi-thousand-dollar lifetime patient relationship.",
+      "catLabel": "MedSpa Marketing",
+      "authorRole": "Head of Paid Media"
+    },
+    "urgent-care": {
+      "title": "Wait-time marketing: the urgent care advantage no one is using.",
+      "excerpt": "Why publishing real-time wait times publicly converts 23% better than promoting \"convenience\" or \"walk-in welcome\" - and the technical stack to do it safely.",
+      "metaDescription": "Real-time wait-time publishing converts urgent care prospects 23% better than generic \"walk-in welcome\" copy. Here is the safe, scalable stack to do it.",
+      "catLabel": "Urgent Care",
+      "authorRole": "Reputation Lead"
+    },
+    "analytics": {
+      "title": "The healthcare marketing dashboard every clinic should run.",
+      "excerpt": "CPA, appointment-to-show ratio, LTV, channel ROI - the 12 metrics we put on every client's real-time dashboard, plus the alerts that catch problems before they hit revenue.",
+      "metaDescription": "The 12-metric healthcare marketing dashboard we deploy for every clinic - CPA, show ratio, LTV, channel ROI - plus the alerts that catch revenue leaks early.",
+      "catLabel": "Analytics",
+      "authorRole": "Automation Architect"
+    },
+    "fsed-trauma": {
+      "title": "Freestanding ER marketing: high-acuity keyword bidding done right.",
+      "excerpt": "\"Chest pain near me\" costs $48 per click. \"ER near me\" costs $12. Here's the keyword segmentation framework that captures the right intent without burning budget on tire-kickers.",
+      "metaDescription": "A keyword segmentation framework for freestanding ER marketing that captures real high-acuity intent without burning budget on low-conversion clicks.",
+      "catLabel": "FSED",
+      "authorRole": "Reputation Lead"
+    }
+  },
+  "articles": {
+    "ctaCard": {
+      "calendarSrLabel": "Date",
+      "clockSrLabel": "Read time"
+    },
+    "page": "Page {{page}}"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "primary": {
+    "services": "Services",
+    "industries": "Industries",
+    "about": "About",
+    "contactUs": "Contact Us"
+  },
+  "resources": {
+    "label": "Resources",
+    "items": {
+      "blog": {
+        "label": "Blog",
+        "desc": "Practitioner's brief, weekly tactics"
+      },
+      "caseStudies": {
+        "label": "Case Studies",
+        "desc": "Real client growth stories"
+      },
+      "healthcareNews": {
+        "label": "Healthcare News",
+        "desc": "HIPAA & industry updates"
+      },
+      "automation": {
+        "label": "Automation",
+        "desc": "AI workflows & integrations"
+      },
+      "pricing": {
+        "label": "Pricing",
+        "desc": "Transparent engagement plans"
+      }
+    }
+  },
+  "footerServices": {
+    "seo": "SEO Services",
+    "googleAds": "Google Ads",
+    "socialMedia": "Social Media",
+    "websiteDesign": "Website Design",
+    "emailCampaigns": "Email Campaigns",
+    "contentMarketing": "Content Marketing",
+    "googleBusinessProfile": "Google Business Profile",
+    "analytics": "Analytics",
+    "branding": "Branding"
+  },
+  "footerCompany": {
+    "about": "About",
+    "faq": "FAQ",
+    "freeGrowthAudit": "Free Growth Audit",
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "industries": "Industries",
+    "team": "Team"
+  },
+  "footerLegal": {
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "sitemap": "Sitemap",
+    "accessibility": "Accessibility"
+  },
+  "aria": {
+    "primary": "Primary",
+    "homeLogo": "{{name}} - Home",
+    "mainMenu": "Main menu",
+    "accountAriaLabel": "Account",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  }
+}

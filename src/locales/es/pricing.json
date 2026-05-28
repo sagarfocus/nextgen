@@ -1,0 +1,273 @@
+{
+  "seo": {
+    "title": "Precios de marketing en salud — Planes desde $5K/mes",
+    "description": "Retainers mensuales transparentes para marketing en salud — Starter $5K, Growth $10K, Scale a medida. Sin recargo sobre el gasto publicitario, sin fees de setup, mes a mes tras los primeros 90 días."
+  },
+  "hero": {
+    "eyebrow": "Precios transparentes para salud",
+    "srH1": "Precios de marketing en salud — Planes transparentes desde $5,000 al mes",
+    "breadcrumb": "Precios"
+  },
+  "tiers": {
+    "eyebrow": "Elige tu retainer",
+    "title": "Tres niveles. Una filosofía: resultados, no horas.",
+    "subtitle": "Todos los retainers son compatibles con HIPAA por defecto y traen un sprint de lanzamiento de 30 días. Elige el nivel que coincide con tu escala y tu velocidad de crecimiento.",
+    "bestForLabel": "Ideal para",
+    "starter": {
+      "name": "Starter Care",
+      "amount": "$5,000",
+      "period": "/ mes",
+      "tagline": "Ideal para procedimientos electivos y recorridos de paciente con mucha investigación.",
+      "bestFor": "Clínicas de una sola ubicación listas para construir su base digital.",
+      "ctaLabel": "Comenzar",
+      "includesLabel": "El paquete incluye",
+      "includes": [
+        "SEO avanzado (Técnico · On-Page · Local · AEO)",
+        "Gestión de Google My Business",
+        "Google Ads (Search + PMax) y campañas en Meta",
+        "Setup de chatbot con IA y call tracking",
+        "Reportes mensuales de estrategia y desempeño",
+        "Creación de contenido y redes sociales"
+      ],
+      "notLabel": "No incluido",
+      "notIncluded": [
+        "Manejo avanzado de llamadas con IA",
+        "Campañas multi-ubicación",
+        "Desarrollo de software a medida"
+      ]
+    },
+    "growth": {
+      "badge": "Más popular",
+      "name": "Growth Pro",
+      "amount": "$10,000",
+      "period": "/ mes",
+      "tagline": "Sistemas de alta agudeza y respuesta rápida para instalaciones de necesidad inmediata.",
+      "bestFor": "Clínicas listas para escalar la adquisición rápido.",
+      "ctaLabel": "Comenzar",
+      "includesLabel": "Todo lo de Starter, más",
+      "includes": [
+        "Google Ads de canal completo (Search · PMax · YouTube · LSA)",
+        "Manejo y triage avanzado de llamadas con IA",
+        "Bots de verificación de seguro en tiempo real",
+        "Soporte prioritario y respuesta rápida por SLA",
+        "Orquestación de campañas multi-ubicación",
+        "Monitoreo de desempeño 24/7",
+        "Account Manager dedicado"
+      ],
+      "notLabel": "No incluido",
+      "notIncluded": [
+        "Desarrollo de software a medida",
+        "Gestión de redes multi-estado"
+      ]
+    },
+    "scale": {
+      "name": "Scale Elite",
+      "amount": "A medida",
+      "tagline": "Motor de crecimiento integral para grandes redes de salud.",
+      "bestFor": "Equipos multi-ubicación que necesitan automatización avanzada.",
+      "ctaLabel": "Comenzar",
+      "includesLabel": "Todo lo de Pro, más",
+      "includes": [
+        "Desarrollo de software a medida",
+        "Integraciones de API compatibles con HIPAA",
+        "Gestión de redes multi-estado",
+        "Dashboards analíticos y de BI avanzados",
+        "Flujos de automatización a medida",
+        "Onboarding white-glove",
+        "Equipo de desarrollo dedicado",
+        "SLA y soporte enterprise"
+      ],
+      "notesLabel": "Notas sobre el precio",
+      "notes": [
+        "Dimensionado a medida según el tamaño de la red",
+        "Líder de implementación dedicado"
+      ]
+    }
+  },
+  "comparison": {
+    "eyebrow": "Comparación de funciones",
+    "title": "Mira exactamente qué incluye cada nivel.",
+    "subtitle": "Vista lado a lado de todas las funciones — desde el SEO base hasta la infraestructura enterprise y equipos de desarrollo dedicados.",
+    "featureHeader": "Función",
+    "starterName": "Starter Care",
+    "starterPrice": "$5,000 / mes",
+    "growthName": "Growth Pro",
+    "growthPrice": "$10,000 / mes",
+    "scaleName": "Scale Elite",
+    "scalePrice": "A medida",
+    "groups": {
+      "marketing": {
+        "label": "Marketing y adquisición",
+        "rows": {
+          "seo": "Servicios SEO",
+          "gmb": "Gestión de Google My Business",
+          "googleAds": "Gestión de Google Ads",
+          "metaAds": "Meta / Facebook Ads",
+          "social": "Contenido para redes sociales",
+          "content": "Contenido y copywriting"
+        }
+      },
+      "automation": {
+        "label": "Automatización y operación",
+        "rows": {
+          "chatbot": "Setup de chatbot con IA",
+          "reports": "Reportes mensuales de estrategia",
+          "callHandling": "Manejo avanzado de llamadas con IA",
+          "insurance": "Bots de verificación de seguro"
+        }
+      },
+      "scaleSupport": {
+        "label": "Escala y soporte",
+        "rows": {
+          "multiLocation": "Campañas multi-ubicación",
+          "monitoring": "Monitoreo de desempeño 24/7",
+          "accountManager": "Account Manager dedicado",
+          "sla": "Respuesta prioritaria por SLA"
+        }
+      },
+      "enterprise": {
+        "label": "Nivel enterprise",
+        "rows": {
+          "customDev": "Desarrollo de software a medida",
+          "apis": "Integraciones de API compatibles con HIPAA",
+          "multiState": "Gestión de redes multi-estado",
+          "bi": "Dashboards de BI avanzados",
+          "devTeam": "Equipo de desarrollo dedicado",
+          "onboarding": "Onboarding white-glove"
+        }
+      }
+    }
+  },
+  "includes": {
+    "eyebrow": "Qué incluye tu inversión",
+    "title": "No solo servicios. Un equipo de crecimiento full-stack.",
+    "subtitle": "Cada retainer integra un departamento completo de expertos en crecimiento médico a tu clínica — con infraestructura HIPAA y onboarding incluidos.",
+    "cards": {
+      "team": {
+        "tag": "Equipo full-stack",
+        "title": "Un departamento de crecimiento entero.",
+        "text": "Ads Manager dedicado, estratega SEO, redactor de contenido médico y social media manager — no freelancers sueltos.",
+        "bullets": [
+          "Solo practicantes senior",
+          "Fluidez en salud desde el día uno",
+          "Infraestructura analítica real"
+        ]
+      },
+      "launch": {
+        "tag": "Sprint de lanzamiento de 30 días",
+        "title": "Resultados tangibles en el primer mes.",
+        "text": "Auditoría técnica, integración con CRM/EHR, call tracking compatible con HIPAA, despliegue del chatbot con IA y primeras campañas lanzadas — todo en 30 días.",
+        "bullets": [
+          "Onboarding estructurado",
+          "Mejoras operativas visibles",
+          "Primera tanda de campañas en vivo"
+        ]
+      },
+      "hipaa": {
+        "tag": "Infraestructura HIPAA",
+        "title": "Cumplimiento incluido, no cobrado aparte.",
+        "text": "BAAs firmados al inicio, servidores cifrados, enrutamiento seguro de datos — cumplimiento HIPAA completo sin cargos ocultos.",
+        "bullets": [
+          "BAAs incluidos por defecto",
+          "Infraestructura de datos cifrada",
+          "Ver casos de éxito"
+        ]
+      }
+    }
+  },
+  "roi": {
+    "eyebrow": "Cuantificando el ROI de la automatización",
+    "title": "Nuestro retainer se paga solo.",
+    "p1Before": "No evalúes solo el costo de SEO o PPC — suma los ahorros operativos del suite de automatización con IA. ",
+    "p1Bold": "Rotación de recepción, llamadas perdidas, verificación manual de seguro, transcripción de intake",
+    "p1After": " — nuestro Clinic Growth OS elimina estas ineficiencias.",
+    "p2Before": "Al ahorrar más de 15 horas de personal a la semana y recuperar decenas de miles en ingreso perdido por citas no atendidas, las agencias tradicionales de SEO/PPC quedan ",
+    "p2Bold": "fundamentalmente obsoletas",
+    "p2After": ".",
+    "stats": {
+      "hours": {
+        "label": "Horas ahorradas por semana",
+        "text": "Por miembro de personal con intake automatizado."
+      },
+      "roi": {
+        "label": "ROI neto",
+        "text": "Retorno promedio de los asistentes de agendamiento con IA."
+      },
+      "turnover": {
+        "num": "Menor",
+        "label": "Rotación en recepción",
+        "text": "Menos burnout por tareas repetitivas y de alto estrés."
+      },
+      "claims": {
+        "num": "Mayor",
+        "label": "Tasa de claims limpios",
+        "text": "Aumento fuerte gracias a la verificación digital de seguro."
+      }
+    }
+  },
+  "faqs": {
+    "eyebrow": "Precios, alcance y términos",
+    "titleStart": "Preguntas",
+    "titleAccent": "sobre precios",
+    "titleEnd": ".",
+    "intro": "Qué cubre realmente el retainer, cómo funciona el gasto publicitario, a qué te comprometes y cuándo suele pagarse la inversión — escrito para quien firma el cheque.",
+    "still": {
+      "title": "¿No sabes qué nivel te queda?",
+      "p1": "Envíanos tu gasto publicitario actual, el LTV del paciente y el número que más quieres mover — te recomendamos Starter, Growth o Scale en la llamada. Sin propuestas de plantilla.",
+      "p2": "Una llamada de 30 minutos. Te vas con una recomendación de nivel, un rango de gasto publicitario y un objetivo de ingreso a 90 días.",
+      "cta": "Quiero una recomendación de nivel"
+    },
+    "items": {
+      "included": {
+        "q": "¿Qué incluye realmente el retainer mensual?",
+        "aBefore": "Cada nivel cubre el stack completo de crecimiento que corremos por ti — ",
+        "aBold1": "estrategia, SEO local, gestión del Google Business Profile, gestión de medios pagados en Google y Meta, producción de contenido, tracking de conversiones server-side, reportes mensuales y un punto de contacto dedicado",
+        "aAfter": ". Los niveles más altos suman manejo avanzado de llamadas con IA, orquestación multi-ubicación y monitoreo 24/7. El gasto publicitario, los desarrollos a medida y los rediseños puntuales de sitio se cotizan aparte."
+      },
+      "adSpend": {
+        "q": "¿El gasto publicitario está incluido o pago a Google y Meta por separado?",
+        "aBold1": "El gasto publicitario va aparte.",
+        "aMid": " El retainer cubre el tiempo de nuestro equipo — estrategia, creativo, armado de campañas, optimización, tracking y reportes. El presupuesto publicitario lo cobran Google y Meta directo a tu tarjeta para que mantengas dueñidad total de las cuentas, el historial y los datos. Los presupuestos iniciales típicos van entre ",
+        "aBold2": "$3K–$15K/mes",
+        "aAfter": " según nivel, mercado y líneas de servicio, y te recomendamos un número que tenga sentido frente a la matemática del LTV de tu paciente."
+      },
+      "contract": {
+        "q": "¿Cuál es el plazo mínimo del contrato y puedo cancelar?",
+        "aBefore": "Pedimos un ",
+        "aBold1": "compromiso inicial de 90 días",
+        "aMid": " — el SEO, la velocidad de reseñas y el calentamiento de audiencias necesitan al menos ese tiempo para acumular y probarse. Después del día 90 quedas en un ",
+        "aBold2": "acuerdo rolling a 30 días",
+        "aAfter": ", cancela cuando quieras con aviso por escrito. Te devolvemos la dueñidad total de cuentas publicitarias, GBP, sitio y cada activo construido. Sin clawbacks, sin contratos de \"candado de agencia\"."
+      },
+      "scaleElite": {
+        "q": "¿Cómo se cotiza Scale Elite — qué lo hace \"a medida\"?",
+        "aBefore": "Scale Elite es para ",
+        "aBold1": "grupos multi-ubicación, DSOs y redes de salud",
+        "aMid": " donde el motor de marketing tiene que coordinarse entre sedes, mix de aseguradoras y líneas de servicio. El precio se dimensiona por cantidad de ubicaciones, nivel de gasto publicitario y si la colaboración incluye ",
+        "aBold2": "software a medida, integraciones con EHR, builds de triage con IA o cumplimiento multi-estado",
+        "aMid2": ". La mayoría de los retainers Scale Elite caen entre ",
+        "aBold3": "$18K y $45K/mes",
+        "aAfter": "; te damos un número exacto después de una llamada de scoping de 60 minutos."
+      },
+      "roi": {
+        "q": "¿Cuándo veo ROI y cómo se ve el payback?",
+        "aBefore": "Las ganancias en Local Pack y GBP suelen aparecer en ",
+        "aBold1": "30–60 días",
+        "aMid": ". El paid media tapa el hueco desde la primera semana, así que las citas agendadas se mueven de inmediato. La mayoría de clientes cruza el break-even del retainer en ingreso de pacientes nuevos entre el ",
+        "aBold2": "mes 2 y el mes 4",
+        "aMid2": "; el SEO y el contenido se acumulan a partir del mes 6. Modelamos la matemática de LTV vs. gasto durante el onboarding y ponemos un ",
+        "aBold3": "objetivo de ingreso específico cada trimestre",
+        "aAfter": " — si fallamos dos trimestres seguidos, el siguiente va por nuestra cuenta."
+      }
+    }
+  },
+  "cta": {
+    "eyebrow": "Listos para escalar",
+    "titleStart": "Construyamos tu",
+    "titleEm": "pipeline de pacientes",
+    "titleEnd": ".",
+    "text": "Recibe una consulta gratuita de 30 minutos con un practicante senior. Auditamos tu funnel actual, recomendamos el nivel correcto para tu escala y delineamos una hoja de ruta a medida — sin compromiso.",
+    "primary": "Agendar consulta gratuita",
+    "secondary": "Ver casos de éxito"
+  }
+}

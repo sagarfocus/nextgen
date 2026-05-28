@@ -1,0 +1,517 @@
+{
+  "seo": {
+    "title": "Marketing en salud por especialidad — Clínicas, MedSpas, urgencias y ER",
+    "description": "Adquisición de pacientes por vertical para clínicas, medspas, urgencias, ER independientes, odontología, salud mental y más — diseñada para la dinámica de cada especialidad."
+  },
+  "hero": {
+    "eyebrow": "Industrias que atendemos",
+    "titleLead": "Marketing en salud a la medida de tu ",
+    "titleAccent": "especialidad",
+    "titleTrail": ".",
+    "lede": "No hacemos cosas genéricas. Desde ER independientes hasta MedSpas, construimos sistemas de adquisición de pacientes diseñados para la dinámica específica de tu vertical: urgencia de alta complejidad, conveniencia de paso, o retención impulsada por longevidad.",
+    "ctaPrimary": "Obtén una cotización estimada",
+    "ctaSecondary": "Agendar una llamada",
+    "trustLabel": "La confianza de más de 200 prácticas en Texas",
+    "trust": {
+      "verticals": "Verticales de especialidad",
+      "adSpend": "Inversión publicitaria gestionada",
+      "roi": "Aumento promedio de ROI"
+    },
+    "floatCards": {
+      "leads": {
+        "value": "+312%",
+        "label": "Leads de pacientes, 90 días"
+      },
+      "hipaa": {
+        "value": "Compatible con HIPAA",
+        "label": "En todos los verticales"
+      }
+    }
+  },
+  "overview": {
+    "eyebrow": "A quién atendemos",
+    "title": "Hoy atendemos tres verticales de salud.",
+    "subtitle": "Cada industria tiene su propia psicología de paciente, panorama regulatorio y dinámica de adquisición. Construimos playbooks — no plantillas — para cada una.",
+    "linkLabel": "Explora los análisis por industria",
+    "cardAriaLabel": "Leer más sobre {{label}}",
+    "cards": {
+      "freestandingEr": {
+        "meta": "Alta complejidad",
+        "title": "Salas de emergencia independientes",
+        "text": "Adquisición de pacientes diseñada para búsquedas de trauma, visibilidad inmediata y captura de overflow de la competencia.",
+        "imageAlt": "Ilustración de sala de emergencia independiente"
+      },
+      "urgentCare": {
+        "meta": "Volumen de paso",
+        "title": "Urgencias y clínicas de paso",
+        "text": "Adquisición de pacientes por volumen con sistemas de reputación y transparencia de tiempos de espera.",
+        "imageAlt": "Ilustración de reloj de urgencias"
+      },
+      "medspa": {
+        "meta": "Longevidad",
+        "title": "MedSpas y clínicas de bienestar",
+        "text": "Adquisición de pacientes de alto LTV con generación de leads en redes sociales y secuencias automatizadas de retención.",
+        "imageAlt": "Ilustración de MedSpa y bienestar"
+      }
+    }
+  },
+  "allIndustries": {
+    "eyebrow": "Todas las industrias",
+    "title": "Explora todas las industrias que atendemos.",
+    "subtitle": "Profundiza en nuestras estrategias de marketing a la medida para cada especialidad — desde urgencias hasta cirugía plástica.",
+    "countNum": "10 especialidades",
+    "countLabel": "Playbooks a la medida",
+    "cardAriaLabel": "Leer más sobre {{label}}",
+    "ready": "Listo",
+    "levers": "Palancas",
+    "seeMore": "Ver más"
+  },
+  "deepDive": {
+    "eyebrow": "Playbooks por industria",
+    "title": "Estrategias especializadas para cada vertical.",
+    "subtitle": "Haz clic en cualquier subtipo para ver las tácticas, canales y KPIs exactos que desplegamos — diseñados alrededor de la psicología de paciente específica de tu industria.",
+    "blocks": {
+      "emergencyRoom": {
+        "badge": "Alta complejidad",
+        "title": "ER independientes (FSEDs)",
+        "desc": "Adquisición de pacientes de alta complejidad donde cada minuto cuenta. Diseñado para visibilidad, urgencia y confianza en el momento de la crisis.",
+        "tags": {
+          "trauma": "Trauma",
+          "localPack": "Local Pack",
+          "geofencing": "Geofencing"
+        },
+        "subs": {
+          "visibility": {
+            "category": "Visibilidad",
+            "title": "Mapas sin clic",
+            "text": "Dominamos el Local Pack para visibilidad inmediata cuando los segundos cuentan."
+          },
+          "searchIntent": {
+            "category": "Intención de búsqueda",
+            "title": "Palabras clave de alta complejidad",
+            "text": "Pujamos por búsquedas de trauma y síntomas graves con landings dedicadas."
+          },
+          "capture": {
+            "category": "Captura",
+            "title": "Geofencing a la competencia",
+            "text": "Capturamos overflow de urgencias saturadas con mensajes geolocalizados."
+          },
+          "reputation": {
+            "category": "Reputación",
+            "title": "Confianza al primer clic",
+            "text": "Señales de autoridad y prueba social para la toma de decisiones en momentos de crisis."
+          }
+        }
+      },
+      "urgentCare": {
+        "badge": "Volumen de paso",
+        "title": "Urgencias y clínicas de paso",
+        "desc": "Adquisición de pacientes impulsada por conveniencia, diseñada para alto volumen, transparencia y reputación a escala.",
+        "tags": {
+          "volume": "Volumen",
+          "reviews": "Reseñas",
+          "waitTimes": "Tiempos de espera"
+        },
+        "subs": {
+          "throughput": {
+            "category": "Throughput",
+            "title": "Optimización de volumen",
+            "text": "Escalamos la adquisición de pacientes con eficiencia sin sacrificar la calidad de la atención."
+          },
+          "trust": {
+            "category": "Confianza",
+            "title": "Gestión de reputación",
+            "text": "Generación automatizada de reseñas que construye confianza a escala en cada ubicación."
+          },
+          "convenience": {
+            "category": "Conveniencia",
+            "title": "Marketing de tiempos de espera",
+            "text": "Promovemos la transparencia para ganar a los pacientes orientados por conveniencia frente a la competencia."
+          },
+          "coverage": {
+            "category": "Cobertura",
+            "title": "SEO multi-ubicación",
+            "text": "Contenido hiperlocal por ubicación con citaciones NAP consistentes en todos los directorios."
+          }
+        }
+      },
+      "wellness": {
+        "badge": "Longevidad",
+        "title": "Clínicas de bienestar y longevidad",
+        "desc": "Adquisición de pacientes de alto LTV para servicios electivos y estéticos, con sistemas de retención construidos alrededor de ingresos recurrentes.",
+        "tags": {
+          "highLtv": "Alto LTV",
+          "socialLed": "Social-first",
+          "retention": "Retención"
+        },
+        "subs": {
+          "acquisition": {
+            "category": "Adquisición",
+            "title": "Generación de leads",
+            "text": "Capturamos prospectos de alta intención vía redes sociales con funnels enfocados en conversión."
+          },
+          "nurture": {
+            "category": "Nurturing",
+            "title": "Nurturing automatizado",
+            "text": "Construimos confianza con secuencias de email educativas que convierten leads en citas."
+          },
+          "retention": {
+            "category": "Retención",
+            "title": "Maximización del LTV",
+            "text": "Nos enfocamos en ingresos recurrentes y retención de pacientes más allá del primer tratamiento."
+          },
+          "brand": {
+            "category": "Marca",
+            "title": "Branding estético",
+            "text": "Identidad visual y sistemas de contenido que comunican resultados premium y transformadores."
+          }
+        }
+      }
+    }
+  },
+  "faqs": {
+    "eyebrow": "Preguntas de industria, respondidas",
+    "titleLead": "Preguntas ",
+    "titleAccent": "específicas por vertical",
+    "titleTrail": ".",
+    "intro": "Cómo adaptamos estrategia, cumplimiento y tiempos a cada especialidad de salud que atendemos — desde tráfico de ER de alta complejidad hasta adquisición estética electiva.",
+    "still": {
+      "title": "¿No ves tu especialidad?",
+      "body1": "Trabajamos con más verticales de los que listamos. Si tienes una práctica de salud o bienestar con pacientes por adquirir, hablemos — te diremos con honestidad si nuestro playbook encaja con tu especialidad.",
+      "body2": "Una llamada. Sin pitch deck. Auditamos tu funnel actual y te decimos los tres mayores huecos en tu vertical.",
+      "cta": "Reservar auditoría gratuita"
+    },
+    "items": {
+      "specialize": {
+        "q": "¿Se especializan en verticales específicos o trabajan con todos?",
+        "a": "Nos enfocamos exclusivamente en <strong>salud y bienestar</strong> — desde ER independientes y urgencias hasta MedSpas, odontología, salud mental, quiropráctica, cirugía plástica, oftalmología y dermatología. Cada vertical recibe su propio playbook a la medida porque la psicología del paciente, el costo de adquisición y las reglas de cumplimiento difieren dramáticamente entre especialidades."
+      },
+      "erVsMedspa": {
+        "q": "¿Cómo cambia su estrategia entre una sala de emergencia y un MedSpa?",
+        "a": "Los ER requieren <strong>visibilidad 24/7 de alta complejidad</strong>, captura de palabras clave de intención de trauma y estrategia de overflow de la competencia. Los MedSpas viven de <strong>redes sociales con enfoque estético, campañas en Meta y nurturing por email basado en LTV</strong>. No reciclamos plantillas: el copy de un ER habla de urgencia y confianza; el creativo de MedSpa habla de resultados, aspiración y opciones de financiamiento."
+      },
+      "multiSpecialty": {
+        "q": "¿Pueden con prácticas multiespecialidad o redes de ubicaciones?",
+        "a": "Sí. Los grupos multi-ubicación y multiespecialidad son una de nuestras fortalezas. Construimos <strong>landings por línea de servicio</strong>, optimización de GBP a nivel de ubicación y reporte unificado que se agrega por región o especialidad — para que tu CMO vea el panorama completo y cada clínica reciba crédito por su propio aumento."
+      },
+      "timing": {
+        "q": "¿Cuánto tarda en ver resultados para mi industria específica?",
+        "a": "Los verticales de alta intención (urgencias, ER, emergencias dentales) suelen mostrar leads de media pagada en <strong>2 a 3 semanas</strong>. Los verticales electivos (MedSpa, cirugía plástica, LASIK) necesitan 30 a 60 días para calentar audiencias de retargeting. El SEO orgánico + local se acumula en los <strong>meses 3 a 6</strong> para cada vertical."
+      },
+      "compliance": {
+        "q": "¿Cómo manejan el cumplimiento entre diferentes industrias?",
+        "a": "Cada vertical tiene exposición distinta — salud mental es HIPAA más reglas estatales de telehealth, los MedSpas equilibran los límites de la FDA en claims cosméticos, los ER trabajan con mensajes cercanos a EMTALA. Usamos <strong>tracking del lado del servidor, proveedores listos para BAA y bibliotecas de creativos pre-aprobadas</strong> adaptadas al panorama regulatorio de cada especialidad."
+      }
+    }
+  },
+  "detailPage": {
+    "breadcrumbHome": "Inicio",
+    "breadcrumbIndustries": "Industrias",
+    "industryTag": "Industria · {{meta}}",
+    "whatWeShip": "Qué entregamos",
+    "talkTo": "Hablemos sobre {{label}}",
+    "bodyEyebrow": "El playbook",
+    "bodyTitle": "Cómo entregamos crecimiento para {{label}}.",
+    "bodyIntro": "La psicología del paciente, los bordes regulatorios y la mecánica de funnel que hacen de {{label}} una disciplina propia — no un playbook genérico de salud.",
+    "bodyOverlayTitle": "Dentro del playbook.",
+    "bodyOverlayCta": "Descubrir",
+    "narrative": {
+      "aboutEyebrow": "Sobre {{label}}",
+      "aboutTitle": "Marketing de {{label}}, construido alrededor de los pacientes para los que tu práctica fue hecha.",
+      "aboutFallbackBody": "Un playbook de crecimiento enfocado para prácticas de {{label}}, sintonizado con la psicología del paciente y los bordes regulatorios del vertical.",
+      "aboutCta": "Conoce más",
+      "approachEyebrow": "Nuestro enfoque",
+      "approachTitle": "Nuestro enfoque único es lo que diferencia el crecimiento en {{label}}.",
+      "approachFallbackBody": "Un sistema documentado y repetible que vincula cada campaña con el ingreso por hora-silla — no con impresiones ni alcance.",
+      "approachCta": "Página Acerca de"
+    },
+    "faqEyebrow": "Preguntas frecuentes",
+    "faqTitle": "Preguntas que escuchamos sobre {{label}}.",
+    "faqIntro": "Preguntas recurrentes de propietarios y líderes de crecimiento en {{label}} — respondidas antes de la primera conversación.",
+    "relatedEyebrow": "Más industrias",
+    "relatedTitle": "Otros verticales de salud que atendemos.",
+    "relatedIntro": "Otras clínicas que corren el mismo sistema operativo de crecimiento, sintonizado con su psicología de paciente y borde regulatorio.",
+    "relatedCardAria": "Leer más sobre {{label}}",
+    "relatedSector": "Industria",
+    "closingPill": "Reservando · Q3 2026",
+    "closingTitleLead": "¿Listo para desplegar este playbook para ",
+    "closingTitleEm": "tu",
+    "closingTitleTail": " práctica de {{label}}?",
+    "closingBody": "La auditoría de cinco días te entrega un plan real y priorizado para tu práctica — tuyo para conservar, contrates agencia o no.",
+    "closingCtaPrimary": "Quiero mi auditoría de crecimiento",
+    "closingCtaSecondary": "Volver a Industrias",
+    "seoTitle": "Marketing para {{label}} — Adquisición de pacientes en salud"
+  },
+  "entries": {
+    "dental": {
+      "label": "Odontología",
+      "meta": "Adquisición de nuevos pacientes y recall",
+      "description": "Adquisición de pacientes para prácticas dentales generales y de especialidad. Diseñamos recall y reactivación junto al flujo de nuevos pacientes para que las sillas estén llenas todo el año, no solo en temporada de regreso a clases.",
+      "longBody1": "El marketing dental gana en dos frentes a la vez: adquisición de nuevos pacientes y la base de pacientes dormidos que vive en tu PMS. La mayoría de prácticas sobreinvierte en el primero y deja escapar el segundo, y luego se pregunta por qué la utilización de sillas no se sostiene.",
+      "longBody2": "Construimos para ambos. SEO local y GBP sintonizado por oficina para que cada ubicación posicione en su propia área sin canibalizar al resto. Automatización de recall y reactivación que trae de vuelta al paciente lapso sin enviar la cadencia que la base resiente.",
+      "longBody3": "El resultado es una práctica dental que llena la agenda por dos lados — y un costo-por-paciente por oficina que se reduce conforme madura el motor de recall.",
+      "services": [
+        "SEO local + GBP para clusters de clínicas",
+        "Automatización de recall y reactivación",
+        "Landings de paquetes de tratamiento",
+        "Motor de velocidad de reseñas",
+        "Flujos de intake con seguro y financiamiento"
+      ],
+      "metricValue": "+47%",
+      "metricLabel": "Citas de pacientes nuevos, 90d",
+      "faqs": [
+        {
+          "q": "¿Funciona para un consultorio solo?",
+          "a": "Sí — los consultorios solos suelen ver el retorno más rápido porque la capa de recall activa una base que ya existe. Las redes suman la marca y el trabajo de SEO por ubicación que escala el mismo motor."
+        },
+        {
+          "q": "¿El recall se sentirá invasivo?",
+          "a": "Es consciente de la cadencia y respeta el engagement previo del paciente. Los recordatorios están escritos como lo haría la recepción si tuviera tiempo — no como una plantilla de marketing."
+        }
+      ]
+    },
+    "urgent-care": {
+      "label": "Urgencias",
+      "meta": "Volumen de paso y reputación",
+      "description": "Las clínicas de paso viven y mueren por el volumen. Construimos los sistemas de reputación, la transparencia de tiempos de espera y los funnels pagados conscientes de intención que mantienen tus ubicaciones llenas todo el año — no solo en temporada de gripe.",
+      "longBody1": "Las urgencias son el vertical más sensible al volumen en marketing de salud. La estructura de costos asume una clínica ocupada, y una semana tranquila quema el margen de todo el mes.",
+      "longBody2": "Construimos los sistemas que sostienen el volumen a través de la estacionalidad. Páginas de transparencia de tiempos de espera que ganan la comparación. Un motor de velocidad de reseñas que mantiene tu calificación por delante de la cadena del otro lado de la ciudad. Pagado de horario nocturno que captura al papá de las 8pm antes que la landing nacional.",
+      "longBody3": "El resultado es una clínica que sostiene su baseline tanto en temporada de gripe como en los meses lentos — y un costo por paciente de paso que baja conforme el motor de reputación se acumula.",
+      "services": [
+        "Páginas de transparencia de tiempos de espera y cola",
+        "Motor de reputación y velocidad de reseñas",
+        "Campañas pagadas con intención de mismo día",
+        "Red de páginas de GBP y áreas de servicio",
+        "Automatización de intake fuera de horario"
+      ],
+      "metricValue": "+92%",
+      "metricLabel": "Citas de mismo día, 6 meses",
+      "faqs": [
+        {
+          "q": "¿Pueden competir con cadenas nacionales?",
+          "a": "Sí — ganando en el detalle local. ETAs, especificidades en red, estacionamiento, teléfono fuera de horario. Una landing nacional no puede igualarlo; una presencia local bien sintonizada gana."
+        },
+        {
+          "q": "¿Qué tan rápido se mueve el volumen?",
+          "a": "La mayoría de clientes de urgencias ve moverse el volumen de citas de mismo día en las primeras tres semanas, con un menor costo-por-paciente sosteniéndose desde el segundo mes en adelante."
+        }
+      ]
+    },
+    "medspa": {
+      "label": "MedSpa",
+      "meta": "Conversiones estéticas y LTV",
+      "description": "Los MedSpas ganan su margen en la segunda y tercera visita, no en la primera. Modelamos la adquisición pagada alrededor del valor de vida, y luego sumamos las secuencias de retención y mecánicas de lealtad que convierten reservas únicas en relaciones de paciente de varios años.",
+      "longBody1": "La estética es un juego de valor de vida disfrazado de mercado de primera visita. Las prácticas que construyen para la primera visita impulsada por descuentos entrenan a la base de pacientes de la que se arrepienten seis meses después.",
+      "longBody2": "Re-fijamos el precio de la adquisición alrededor del LTV. Memberships, paquetes de tratamiento y flujos de financiamiento reemplazan las ofertas promocionales únicas como ruta principal de pacientes nuevos. Las secuencias de retención sostienen la segunda y tercera visita — que es donde realmente vive el margen.",
+      "longBody3": "El resultado es un medspa que se acumula a través de las temporadas en lugar de correr ciclos mensuales de descuento para tapar el churn.",
+      "services": [
+        "Adquisición pagada modelada por LTV",
+        "Generación de leads desde redes sociales",
+        "Programas de membership y lealtad",
+        "Automatización de cuidado posterior y recall",
+        "Creativos de paquetes de tratamiento y landings"
+      ],
+      "metricValue": "+62%",
+      "metricLabel": "AOV, seis meses",
+      "faqs": [
+        {
+          "q": "¿Tenemos que abandonar las ofertas con descuento por completo?",
+          "a": "Los descuentos se mueven a disparadores de retención — reactivación, recompensas de lealtad — en lugar de adquisición de primera visita. El funnel de adquisición se ancla en financiamiento y paquetes."
+        },
+        {
+          "q": "¿Manejan los creativos sociales?",
+          "a": "Sí — dirigimos sesiones, briefeamos edits y corremos el loop de iteración con revisión de políticas de plataforma en cada asset."
+        }
+      ]
+    },
+    "freestanding-er": {
+      "label": "ER independiente",
+      "meta": "Palabras clave de trauma de alta complejidad",
+      "description": "La adquisición de atención de emergencia no es paid search optimizado — es un loop cerrado de intención clínica, ruteo por mezcla de pagador y captura de overflow de socios hospitalarios. Reconstruimos ese loop de punta a punta para que cada visita reservada mueva ingresos.",
+      "longBody1": "Los ER independientes pierden dinero de dos maneras: pagando por impresiones que llenan el lobby con quejas no emergentes, y perdiendo las búsquedas de alta complejidad que mapean a visitas facturables y rentables.",
+      "longBody2": "Reconstruimos el loop de adquisición alrededor de la verdadera intención de ED. SEO de trauma. Landings de tiempos de espera. Flujos de verificación de seguro que se completan antes de la llegada. Un perfil de GBP sintonizado para los términos emergentes.",
+      "longBody3": "El resultado es un ER que llena los slots para los que tiene capacidad — incluyendo turno nocturno — y deja de pagar por el tráfico que no puede facturar.",
+      "services": [
+        "SEO de intención de trauma + GBP",
+        "Landings de tiempos de espera",
+        "Flujos de verificación de seguro",
+        "Display geo-cercado y TV conectada",
+        "Schema EmergencyMedicalService"
+      ],
+      "metricValue": "+318%",
+      "metricLabel": "Visitas reservadas, 90d",
+      "faqs": [
+        {
+          "q": "¿Cómo reducen el tráfico de baja complejidad?",
+          "a": "Apuntando a la intención de necesidad clínica en lugar de palabras clave amplias de atención de emergencia. Las landings específicas de trauma y un perfil de GBP sintonizado para términos emergentes auto-seleccionan a los pacientes que quieres."
+        },
+        {
+          "q": "¿La verificación de seguro es compatible con HIPAA?",
+          "a": "El flujo corre bajo tus herramientas de elegibilidad cubiertas por BAA. Instrumentamos el funnel de marketing hasta ese handoff, no dentro de él."
+        }
+      ]
+    },
+    "mental-health": {
+      "label": "Salud mental",
+      "meta": "Lead-gen sensible y compatible",
+      "description": "Adquisición en salud mental que respeta la intención. Flujos de lead-gen sensibles y compatibles que priorizan la relación con el paciente sobre la optimización de CTR — y rutean a los pacientes prospectivos a la modalidad correcta en el primer toque.",
+      "longBody1": "El marketing de salud mental es más sobre tono que tácticas. El paciente está ansioso, la búsqueda es privada, y la palabra incorrecta en el paso incorrecto lo regresa a Google.",
+      "longBody2": "Escribimos para la persona real en el momento real. Landings específicas por modalidad. Flujos de consulta amigables con el anonimato. Intake de seguro y escala variable que respeta la investigación previa del paciente.",
+      "longBody3": "El resultado es una práctica que reserva al paciente correcto en el primer toque, sin forzarlo por un funnel tipo checkout que destruye la relación antes de empezar.",
+      "services": [
+        "Adquisición pagada consciente de HIPAA",
+        "Landings específicas por modalidad",
+        "Flujos de consulta amigables con el anonimato",
+        "Intake de seguro y escala variable",
+        "Motores de recomendación proveedor-paciente"
+      ],
+      "metricValue": "+58%",
+      "metricLabel": "Consultas calificadas, 6 meses",
+      "faqs": [
+        {
+          "q": "¿Los anuncios de líneas de crisis se manejan distinto?",
+          "a": "Sí — a través de una revisión explícita de cumplimiento y solo en plataformas con guardrails de seguridad documentados. Nunca corren bajo optimización estándar de engagement."
+        },
+        {
+          "q": "¿Cómo protegen la privacidad del paciente en el tracking?",
+          "a": "Tracking de conversión del lado del servidor que remueve PHI antes de que cualquier señal salga de tu entorno. Las plataformas de anuncios solo reciben los metadatos que necesitan para optimizar — nunca el detalle del paciente."
+        }
+      ]
+    },
+    "primary-care": {
+      "label": "Atención primaria",
+      "meta": "Visitas anuales y match de seguro",
+      "description": "Crecimiento de panel y optimización de mezcla de pagador. Hacemos crecer tu panel con los pacientes que tu panel realmente necesita — por pagador, por código postal, por tipo de visita. Volumen que aumenta ingresos, no solo utilización.",
+      "longBody1": "El marketing de atención primaria a menudo es marketing de utilización — más visitas, más visitas, más visitas — incluso cuando el panel no necesita más volumen, necesita mejor mezcla.",
+      "longBody2": "Modelamos primero el panel. Cuáles pagadores, cuáles códigos postales, cuáles tipos de visita aumentan ingreso por hora-silla. Luego ruteamos gasto pagado y SEO hacia los pacientes que encajan — y guiamos al resto, en silencio, hacia clínicas donde son mejor fit.",
+      "longBody3": "El resultado es un panel que se hace más saludable, no solo más grande. Funnels de bienestar anual, anuncios de visita de mismo día para huecos de capacidad, y flujos de cierre de care-gap que mueven las métricas que importan en contratos basados en valor.",
+      "services": [
+        "Campañas de crecimiento de panel",
+        "Landings por mezcla de pagador",
+        "Funnels de bienestar anual",
+        "Anuncios de visita de mismo día",
+        "Flujos de cierre de care-gap"
+      ],
+      "metricValue": "+24%",
+      "metricLabel": "Cambio en mezcla de pagador comercial",
+      "faqs": [
+        {
+          "q": "¿Funciona bajo un contrato basado en valor?",
+          "a": "Sí — las campañas se sintonizan a las métricas que importan bajo el contrato: cierre de care-gap, completitud de AWV, atribución. El reporte corre contra el scorecard del contrato."
+        },
+        {
+          "q": "¿Es legal el targeting por mezcla de pagador?",
+          "a": "Sí — corre a través de landings y audiencias sintonizadas a los códigos postales y demografía que mapean a la mezcla de pagador que necesitas, nunca a través de datos restringidos."
+        }
+      ]
+    },
+    "chiropractic": {
+      "label": "Quiropráctica",
+      "meta": "Leads por dolor y lesión",
+      "description": "Adquisición liderada por dolor y lesión. Mapeamos el recorrido del paciente desde el momento en que el dolor de espalda llega a Google hasta la confirmación de la primera cita — y diseñamos los funnels que cierran en días, no semanas.",
+      "longBody1": "Las prácticas de quiropráctica ganan en los primeros tres días de consideración del paciente. Aparece el dolor de espalda, sucede la búsqueda, y se toma una decisión rápido. La mayoría de prácticas aparecen demasiado tarde, o aparecen luciendo genéricas.",
+      "longBody2": "Construimos para esa ventana. SEO de intención de dolor y lesión. Flujos de cita de la misma semana. Landings de auto-lesión para la cohorte impulsada por reclamos. Velocidad de reseñas para la cohorte impulsada por confianza.",
+      "longBody3": "El resultado es una práctica que gana la búsqueda en el momento en que sucede — y el funnel de membership que sostiene al paciente por los próximos doce meses.",
+      "services": [
+        "SEO de intención de dolor y lesión",
+        "Landings de reclamos de auto-lesión",
+        "Funnels de membership y plan de bienestar",
+        "Flujos de cita de la misma semana",
+        "Velocidad de reseñas para reservas impulsadas por confianza"
+      ],
+      "metricValue": "+71%",
+      "metricLabel": "Citas de pacientes nuevos, 90d",
+      "faqs": [
+        {
+          "q": "¿Manejan leads de auto-lesión?",
+          "a": "Sí — la cohorte impulsada por reclamos tiene sus propias landings, lenguaje y flujo de intake porque paga distinto y necesita una capa de consentimiento distinta."
+        },
+        {
+          "q": "¿Qué tan rápido reservan los pacientes nuevos?",
+          "a": "La mayoría cierra dentro de las primeras 72 horas de la búsqueda. El funnel está diseñado para esa ventana; cualquier cosa más lenta es un paciente perdido."
+        }
+      ]
+    },
+    "plastic-surgery": {
+      "label": "Cirugía plástica",
+      "meta": "Adquisición de consultas de alto ticket",
+      "description": "Adquisición de consultas de alto ticket con una ventana de consideración larga. Diseñamos las secuencias de nurturing y señales de confianza que cierran a los pacientes que investigan durante meses — sin bajar la tasa de consulta-a-procedimiento.",
+      "longBody1": "La cirugía plástica es la ventana de consideración más larga en salud. Los pacientes investigan durante meses antes de reservar una consulta, y la mayoría del marketing rompe ese recorrido empujando demasiado fuerte, demasiado pronto.",
+      "longBody2": "Respetamos los tiempos. Adquisición pagada específica por procedimiento que aterriza en la fase correcta. Contenido educativo extenso para la fase de investigación. Funnels de financiamiento y consulta para la fase de decisión.",
+      "longBody3": "El resultado es una práctica que cierra a los pacientes que tomaron seis meses para decidir — sin los atajos impulsados por descuento que bajan la tasa de procedimiento.",
+      "services": [
+        "Adquisición pagada específica por procedimiento",
+        "Contenido educativo extenso",
+        "Funnels de reserva de consulta",
+        "Flujos de financiamiento y planes de pago",
+        "Sistemas de galería antes/después"
+      ],
+      "metricValue": "+44%",
+      "metricLabel": "Tasa de consulta a procedimiento",
+      "faqs": [
+        {
+          "q": "¿Manejan fotografía antes/después?",
+          "a": "Sí — con consentimiento explícito del paciente y revisión de políticas de plataforma en cada asset. La galería es un activo que se acumula a largo plazo; se trata como tal."
+        },
+        {
+          "q": "¿Qué tan largas son las secuencias de nurturing?",
+          "a": "Mapean al tipo de procedimiento. Un nurturing de facelift puede correr 90+ días; una consulta rápida de inyectables puede correr 7. La cadencia se calibra a los tiempos históricos de decisión."
+        }
+      ]
+    },
+    "ophthalmology": {
+      "label": "Oftalmología",
+      "meta": "LASIK y leads de especialidad",
+      "description": "LASIK y leads de especialidad. Separamos la adquisición quirúrgica electiva del crecimiento de cuidado ocular de rutina para que ninguno canibalice al otro — y ruteamos candidatos por fit clínico, no solo por intención de clic.",
+      "longBody1": "Las prácticas de oftalmología corren dos negocios a la vez: cuidado ocular de rutina y quirúrgico electivo (LASIK, cataratas, especialidad). Tienen psicologías de paciente distintas, márgenes distintos, y se canibalizan cuando se corren en el mismo funnel.",
+      "longBody2": "Los separamos correctamente. El scoring de candidatos LASIK rutea solo a los prospectos correctos al funnel quirúrgico. Las páginas de referido de especialidad capturan a las cohortes post-cataratas y de degeneración macular. El cuidado de rutina mantiene su propio SEO y capa de recall.",
+      "longBody3": "El resultado es cada negocio creciendo independientemente — y un pipeline quirúrgico que cierra por fit clínico, no solo por intención de clic.",
+      "services": [
+        "Scoring de candidatos LASIK + adquisición pagada",
+        "Landings de referido de especialidad",
+        "Ruteo entre seguro y self-pay",
+        "Funnels de consulta quirúrgica",
+        "Automatización de recall post-procedimiento"
+      ],
+      "metricValue": "+39%",
+      "metricLabel": "Consultas LASIK calificadas",
+      "faqs": [
+        {
+          "q": "¿El scoring de candidatos LASIK ralentiza la conversión?",
+          "a": "La aumenta al rutear leads no calificados a otro funnel. El slot de consulta quirúrgica es demasiado caro para llenarlo con no-candidatos."
+        },
+        {
+          "q": "¿Pueden compartir creativo rutina y quirúrgico?",
+          "a": "No — comparten marca, nunca creativo. La psicología del paciente es lo suficientemente distinta para que un solo set de creativos arrastre a ambos hacia abajo."
+        }
+      ]
+    },
+    "dermatology": {
+      "label": "Dermatología",
+      "meta": "Híbrido cosmético + médico",
+      "description": "Adquisición de dermatología cosmética y médica bajo un mismo techo. Ruteamos a los pacientes por intención para que los leads cosméticos no desplacen capacidad médica — y tus proveedores vean la mezcla de pacientes para la que están construidos.",
+      "longBody1": "Las prácticas de dermatología que hacen trabajo cosmético y médico enfrentan un problema de ruteo: las consultas cosméticas pueden ahogar la capacidad médica, y las consultas médicas pueden, en silencio, perder la ventana de upsell cosmético.",
+      "longBody2": "Ruteamos a los pacientes por intención desde la búsqueda misma. Arquitectura de landings cosmético vs médico. Funnels de referido de Mohs y condiciones de piel separados de los programas de membership estético.",
+      "longBody3": "El resultado es una práctica donde el margen cosmético crece sin que el pipeline médico se seque — y los proveedores ven la mezcla de pacientes alrededor de la que se construyó la práctica.",
+      "services": [
+        "Ruteo por intención cosmético vs médico",
+        "Landings de condiciones de piel",
+        "Programas de membership estético",
+        "Flujos de referido Mohs y especialidad",
+        "Automatización de verificación de seguro"
+      ],
+      "metricValue": "+53%",
+      "metricLabel": "Reservas de procedimientos cosméticos",
+      "faqs": [
+        {
+          "q": "¿Cómo separan el tráfico cosmético del médico?",
+          "a": "A nivel de keyword primero, luego a través de landings, luego a través de flujos de reserva. Cada capa refuerza el ruteo para que ninguno de los dos pipelines contamine al otro."
+        },
+        {
+          "q": "¿Los programas de membership pueden compartir con el lado médico?",
+          "a": "No — corren sobre identidades de paciente paralelas. El paciente médico puede optar por lo cosmético con el tiempo, pero los funnels no lo asumen."
+        }
+      ]
+    }
+  }
+}

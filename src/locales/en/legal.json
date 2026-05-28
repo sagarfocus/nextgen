@@ -1,0 +1,238 @@
+{
+  "common": {
+    "section": "Legal",
+    "onThisPage": "On this page",
+    "effectiveDate": "Effective date",
+    "lastReviewed": "Last reviewed",
+    "questions": "Questions"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: {{date}}",
+    "intro": "TheNextGen Healthcare Marketing values your privacy. This policy describes what data we collect, how we use it, and your rights.",
+    "eyebrow": "Legal · Privacy",
+    "summary": "How TheNextGen Healthcare Marketing collects, uses, and protects information when you visit this site or engage us as a marketing partner.",
+    "breadcrumb": "Privacy",
+    "metaDescription": "Privacy Policy for TheNextGen Healthcare Marketing - what we collect, how we use it, sub-processors, and your rights.",
+    "effectiveDate": "January 1, 2026",
+    "reviewedDate": "May 1, 2026",
+    "sections": {
+      "whoWeAre": {
+        "heading": "Who we are",
+        "body": "TheNextGen Healthcare Marketing (“we,” “us,” or “TheNextGen”) operates this website and the marketing services described on it. We are a Texas-based agency working exclusively with healthcare organizations."
+      },
+      "informationCollected": {
+        "heading": "Information we collect",
+        "intro": "We collect the minimum information needed to deliver our services:",
+        "items": [
+          "Contact details you submit through audit, demo, or contact forms.",
+          "Email addresses provided to the newsletter signup.",
+          "Standard server logs (IP, user agent, timestamp) for security and analytics.",
+          "Aggregated, de-identified usage analytics via privacy-respecting tooling."
+        ],
+        "phiNote": "We do <strong>not</strong> intentionally collect Protected Health Information (PHI). If you contact us about your practice, please omit patient identifiers from the message."
+      },
+      "howWeUseIt": {
+        "heading": "How we use it",
+        "items": [
+          "To respond to inquiries and schedule strategy calls.",
+          "To deliver the newsletter you signed up for.",
+          "To improve the site, content, and service offerings.",
+          "To send invoices, contracts, and service communications under an executed engagement."
+        ],
+        "noSell": "We do not sell, rent, or trade personal information to third parties."
+      },
+      "cookies": {
+        "heading": "Cookies & analytics",
+        "body": "The site uses first-party cookies for session continuity and a privacy-respecting analytics package to understand which content is useful. You can disable cookies in your browser without losing core site functionality."
+      },
+      "subProcessors": {
+        "heading": "Sub-processors",
+        "intro": "When we engage with clients, we may rely on the following categories of sub-processors. Each is covered by a written agreement (and, where PHI is in scope, a BAA):",
+        "items": [
+          "Cloud hosting and CDN (e.g., Vercel, Cloudflare).",
+          "Email and CRM tooling (e.g., HubSpot, Postmark).",
+          "Analytics and dashboarding platforms."
+        ]
+      },
+      "yourRights": {
+        "heading": "Your rights",
+        "body": "You can request access to, correction of, or deletion of any personal information you have provided. Email {{email}} and we will respond within 10 business days."
+      },
+      "changes": {
+        "heading": "Changes to this policy",
+        "body": "We may update this policy as our services evolve. Material changes will be flagged at the top of this page for at least 30 days before taking effect."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last updated: {{date}}",
+    "intro": "These terms govern your use of TheNextGen Healthcare Marketing services and website.",
+    "eyebrow": "Legal · Terms",
+    "summary": "The terms that apply when you use this site and the relationship between this site and the engagements we sign with healthcare clients.",
+    "breadcrumb": "Terms",
+    "metaDescription": "Terms of Use for TheNextGen Healthcare Marketing - site content, acceptable use, engagements, disclaimers, and governing law.",
+    "effectiveDate": "January 1, 2026",
+    "reviewedDate": "May 1, 2026",
+    "sections": {
+      "acceptance": {
+        "heading": "Acceptance of terms",
+        "body": "By using this site or engaging TheNextGen Healthcare Marketing for any service, you agree to these Terms of Use and to any executed Statement of Work between us. If you do not agree, please do not use the site or services."
+      },
+      "content": {
+        "heading": "Site content & accuracy",
+        "p1": "Information on this site is for general guidance. It is not legal, medical, or compliance advice. Case-study figures are taken from real engagements and are accurate as of the dates noted; future results will vary.",
+        "p2": "We refresh case studies and benchmarks on a rolling basis. Specific performance claims in engagements are governed by the Statement of Work, not this site."
+      },
+      "ip": {
+        "heading": "Intellectual property",
+        "body": "Site copy, illustrations, layouts, and methodology language are copyrighted by TheNextGen Healthcare Marketing. You may share short excerpts with attribution; please do not republish full pages without written permission."
+      },
+      "acceptableUse": {
+        "heading": "Acceptable use",
+        "intro": "You agree not to:",
+        "items": [
+          "Scrape, mirror, or rebuild the site or its content.",
+          "Submit Protected Health Information (PHI) through forms.",
+          "Use any form for unsolicited commercial messaging.",
+          "Attempt to bypass security controls or access non-public areas."
+        ]
+      },
+      "engagements": {
+        "heading": "Engagements & deliverables",
+        "body": "When we sign a Statement of Work, deliverables, billing, ownership of assets, and termination terms are governed by that SOW. The SOW supersedes these site Terms where they conflict."
+      },
+      "disclaimers": {
+        "heading": "Disclaimers",
+        "body": "The site is provided “as is.” We disclaim implied warranties of merchantability and fitness for a particular purpose to the extent permitted by law. Marketing outcomes depend on many variables outside our control."
+      },
+      "liability": {
+        "heading": "Limitation of liability",
+        "body": "To the maximum extent permitted by law, TheNextGen Healthcare Marketing is not liable for indirect, incidental, or consequential damages arising from use of this site. Liability under any executed Statement of Work is governed by that document."
+      },
+      "law": {
+        "heading": "Governing law",
+        "body": "These Terms are governed by the laws of the State of Texas, USA. Venue for any dispute is Dallas County, Texas, unless the parties agree in writing to alternative dispute resolution."
+      }
+    }
+  },
+  "accessibility": {
+    "title": "Accessibility Statement",
+    "lastUpdated": "Last updated: {{date}}",
+    "intro": "We are committed to ensuring that our website is accessible to all users, including those with disabilities. We aim to conform to WCAG 2.1 AA.",
+    "eyebrow": "Legal · Accessibility",
+    "summary": "How TheNextGen Healthcare Marketing builds, tests, and maintains accessible experiences for this site and every client site we ship.",
+    "breadcrumb": "Accessibility",
+    "metaDescription": "Accessibility Statement for TheNextGen Healthcare Marketing - WCAG 2.2 AA commitment, testing process, and how to report a barrier.",
+    "effectiveDate": "January 1, 2026",
+    "reviewedDate": "May 1, 2026",
+    "sections": {
+      "commitment": {
+        "heading": "Our commitment",
+        "body": "Healthcare marketing should be readable by everyone who needs care. TheNextGen Healthcare Marketing commits to ongoing conformance with <strong>WCAG 2.2 Level AA</strong> across this site and every client site we build."
+      },
+      "practice": {
+        "heading": "What that means in practice",
+        "items": [
+          "Semantic HTML with one H1 per page and a logical heading order.",
+          "Keyboard-operable navigation, modals, and accordions with visible focus states.",
+          "Color contrast of at least 4.5:1 for body text, 3:1 for large text and UI components.",
+          "Descriptive alt text on every meaningful image; decorative images marked aria-hidden.",
+          "Reduced-motion preferences respected on animations and scrolling effects.",
+          "Form fields with explicit labels, error messages, and ARIA descriptions."
+        ]
+      },
+      "testing": {
+        "heading": "Testing & tooling",
+        "body": "We run automated accessibility checks on every release with axe-core and Lighthouse, paired with quarterly manual screen-reader audits using NVDA and VoiceOver. Issues are tracked publicly in our internal backlog with named owners and target dates."
+      },
+      "limitations": {
+        "heading": "Known limitations",
+        "body": "Some third-party embeds (map widgets, video players) ship their own accessibility behavior. We choose vendors that publish conformance statements; where a gap exists we provide a text alternative."
+      },
+      "report": {
+        "heading": "Report a barrier",
+        "body": "If you encounter a barrier on this site or on any site we have built, email {{email}} with the page URL and a short description. We respond within two business days and aim to fix critical issues within ten."
+      }
+    }
+  },
+  "sitemap": {
+    "title": "Sitemap",
+    "subtitle": "Every page on TheNextGen Healthcare Marketing.",
+    "seo": {
+      "title": "Sitemap — Every Page on TheNextGen, in One Place",
+      "description": "Full site index for TheNextGen Healthcare Marketing — services, industries, methodology, automation, infrastructure, and resources."
+    },
+    "eyebrow": "Sitemap",
+    "heading": "Every page on TheNextGen, in one place.",
+    "lede": "The full site index - services, industries, methodology, automation, infrastructure, and resources. Useful for navigation, share-able for stakeholders, and indexed for search engines.",
+    "schemaDescription": "Full site index for TheNextGen Healthcare Marketing — services, industries, methodology, automation, infrastructure, and resources.",
+    "ariaGroups": "Sitemap groups",
+    "sections": {
+      "main": "Main",
+      "services": "Services",
+      "industries": "Industries",
+      "resources": "Resources",
+      "company": "Company",
+      "legal": "Legal",
+      "primary": "Primary navigation",
+      "allServices": "All services",
+      "specialtyServices": "Specialty services",
+      "methodology": "Methodology",
+      "automation": "Automation",
+      "infrastructure": "Infrastructure"
+    },
+    "links": {
+      "home": "Home",
+      "about": "About",
+      "team": "Team",
+      "ourWork": "Our work",
+      "pricing": "Pricing",
+      "contact": "Contact",
+      "freeGrowthAudit": "Free growth audit",
+      "faq": "FAQ",
+      "servicesIndex": "All services",
+      "seo": "SEO Services",
+      "googleAds": "Google Ads",
+      "googleBusinessProfile": "Google Business Profile",
+      "socialMedia": "Social media marketing",
+      "websiteDesign": "Website design & development",
+      "emailCampaigns": "Email drip campaigns",
+      "contentCopywriting": "Content & copywriting",
+      "branding": "Brand identity & design",
+      "analytics": "Analytics & reporting",
+      "healthcareContent": "Healthcare content",
+      "metaAds": "Meta Ads",
+      "hipaaCompliance": "HIPAA compliance",
+      "reviewsReputation": "Reviews & reputation",
+      "patientExperience": "Patient experience",
+      "citationBuilding": "Citation building",
+      "hyperLocalContent": "Hyper-local content",
+      "aeoSchema": "AEO & schema",
+      "onsiteFieldMarketing": "Onsite & field marketing",
+      "medicalAutomation": "Medical automation",
+      "industriesIndex": "All industries",
+      "clinics": "Clinics & multi-specialty",
+      "medspas": "MedSpas & aesthetics",
+      "specialtyEmergency": "Specialty & emergency",
+      "growthPlan": "Growth plan",
+      "phase1": "Phase 1 - Diagnose",
+      "phase2": "Phase 2 - Build",
+      "phase3": "Phase 3 - Scale",
+      "automationOverview": "Automation overview",
+      "automationMoreInfo": "Automation deep dive",
+      "automationTemplates": "Automation templates",
+      "growthTeam": "Growth team structure",
+      "complianceProtocol": "Compliance protocol",
+      "serviceLevelAgreements": "Service level agreements",
+      "blog": "Blog",
+      "caseStudies": "Case studies",
+      "healthcareNews": "Healthcare news",
+      "privacy": "Privacy policy",
+      "terms": "Terms of use",
+      "accessibility": "Accessibility statement",
+      "sitemap": "Sitemap"
+    }
+  }
+}

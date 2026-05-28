@@ -1,0 +1,1419 @@
+{
+  "seo": {
+    "title": "Healthcare Automation Library — Free HIPAA-Aware Workflows",
+    "description": "Save your front desk 20+ hours a week. Drop-in workflows for patient intake, reminders, reviews, insurance verification, and AI chat — HIPAA-aware, free, live in under an hour."
+  },
+  "breadcrumb": {
+    "automation": "Automation",
+    "moreInfo": "Automation · More info",
+    "templates": "Templates",
+    "playbook": "Playbook"
+  },
+  "hero": {
+    "eyebrow": "HIPAA-aware automation library",
+    "titlePart1": "Smarter healthcare ",
+    "titleAccent": "automation",
+    "titlePart2": " for every patient touchpoint.",
+    "lede": "Save your front desk 20+ hours a week. Drop in battle-tested workflows for patient intake, reminders, reviews, insurance verification, and AI chat - HIPAA-aware, free, and live in your clinic in under an hour.",
+    "ctaPrimary": "Get the templates",
+    "ctaSecondary": "Schedule a call",
+    "trustLabel": "Trusted by 350+ clinic teams",
+    "trustLogosLabel": "Featured customers",
+    "trustLogos": {
+      "logo1": "ER of White Rock",
+      "logo2": "Naperville H&W",
+      "logo3": "Irving Health"
+    }
+  },
+  "whatIs": {
+    "title": "What is Healthcare Automation?",
+    "text": "Healthcare automation is the deployment of intelligent workflows that handle repetitive front-desk, back-office, and patient-communication tasks - directly inside the systems your clinic already runs on. No replacement, no migration. Just less manual work.",
+    "moreInfo": "More Info"
+  },
+  "solutionsLibrary": {
+    "eyebrow": "Solution library",
+    "title": "Explore all automation solutions",
+    "subtitle": "Detailed guides for each automation workflow we offer. Pick a category to see the full template, setup steps, and integration map.",
+    "items": {
+      "aiChatbot": {
+        "title": "AI Chatbot",
+        "desc": "GPT-powered patient qualification and lead capture, 24/7."
+      },
+      "patientIntake": {
+        "title": "Patient Intake",
+        "desc": "From form to EHR record in seconds, with insurance pre-checked."
+      },
+      "reviewCollection": {
+        "title": "Review Collection",
+        "desc": "Sentiment-routed Google review requests that protect your reputation."
+      },
+      "appointmentReminders": {
+        "title": "Appointment Reminders",
+        "desc": "24h and 2h SMS + email reminders that cut no-shows by up to 40%."
+      },
+      "insuranceVerification": {
+        "title": "Insurance Verification",
+        "desc": "Real-time eligibility, copay lookup, and pre-auth submission."
+      },
+      "patientRecall": {
+        "title": "Patient Recall Campaigns",
+        "desc": "Automated win-back sequences for lapsed and overdue patients."
+      },
+      "socialPosting": {
+        "title": "Social Media Posting",
+        "desc": "AI-generated captions auto-posted to Facebook and Instagram daily."
+      },
+      "reportingDashboards": {
+        "title": "Reporting Dashboards",
+        "desc": "Live dashboards that pull from Ads, GA4, and your CRM in one place."
+      }
+    }
+  },
+  "impact": {
+    "live": "Live",
+    "reminder": "Reminder",
+    "steps": {
+      "step1": "Trigger received",
+      "step2": "Verifying eligibility",
+      "step3": "EHR record created",
+      "step4": "Confirmations sent",
+      "confirmed": "Patient confirmed",
+      "slack": "Slack notified"
+    },
+    "eyebrow": "Automation in action",
+    "title": "The real impact of running healthcare workflows on autopilot",
+    "lede": "Every template in our library has been battle-tested with live clinics. These are the average gains our partners report within the first 60 days of going live with our automation stack.",
+    "stats": {
+      "hoursSaved": {
+        "label": "Hours saved",
+        "value": "8+",
+        "desc": "Front-desk hours reclaimed per week, per practitioner"
+      },
+      "noShowDrop": {
+        "label": "No-show drop",
+        "value": "40%",
+        "desc": "Average reduction in no-shows after enabling reminders"
+      },
+      "roi": {
+        "label": "ROI / year",
+        "value": "12K",
+        "desc": "Estimated annual savings per clinic location, in USD"
+      }
+    },
+    "badge": "Saturday & Sunday support included",
+    "note": "* Numbers reflect TheNextGen partner clinic averages and are exclusive of platform fees."
+  },
+  "useCases": {
+    "eyebrow": "Use cases",
+    "titleLine1": "Real automations",
+    "titleLine2": "running in production",
+    "sub": "Three workflows our partner clinics rely on every day. Click any case to see what runs under the hood.",
+    "items": {
+      "case1": {
+        "num": "/01",
+        "titleLine1": "Zero-Touch",
+        "titleLine2": "Patient Intake",
+        "shortTitle": "Zero-Touch Patient Intake",
+        "tag": "USE CASE #01:",
+        "heading": "Zero-Touch Patient Intake",
+        "body": "A new patient submits their information online. N8N automatically verifies their insurance coverage, creates a record in your EHR, logs everything to a tracking spreadsheet, and sends a welcome email - all in under 3 seconds. Your front desk never has to touch it.",
+        "bullets": [
+          "Webhook captures patient form data",
+          "Insurance eligibility checked in real-time",
+          "EHR record created automatically",
+          "Confirmation email + Slack notification sent"
+        ]
+      },
+      "case2": {
+        "num": "/02",
+        "titleLine1": "Intelligent",
+        "titleLine2": "Review Collection",
+        "shortTitle": "Intelligent Review Collection",
+        "tag": "USE CASE #02:",
+        "heading": "Intelligent Review Collection",
+        "body": "After a visit, the system waits 2 hours then analyzes the patient's satisfaction. Happy patients (4–5 stars) receive a Google review request via SMS and email. Below-threshold patients are routed to a private feedback form, protecting your online reputation.",
+        "bullets": [
+          "Post-visit trigger with smart delay",
+          "Sentiment analysis routes patients appropriately",
+          "Happy patients → Google review link",
+          "Concerns → private feedback form (never public)"
+        ]
+      },
+      "case3": {
+        "num": "/03",
+        "titleLine1": "AI-Powered",
+        "titleLine2": "Lead Capture",
+        "shortTitle": "AI-Powered Lead Capture",
+        "tag": "USE CASE #03:",
+        "heading": "AI-Powered Lead Capture",
+        "body": "A GPT-4 powered chatbot on your website qualifies every visitor. It collects contact info, identifies service interest and urgency, creates CRM entries, and sends urgent Slack alerts for high-priority patients - all without human intervention.",
+        "bullets": [
+          "GPT-4 powered with healthcare guardrails",
+          "Extracts name, phone, email, service interest",
+          "High-urgency leads → instant Slack alert",
+          "Automatic CRM entry + follow-up email"
+        ]
+      }
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "How it works",
+    "title": "Get started in 4 simple steps",
+    "sub": "From download to deployment in under 30 minutes. No coding required.",
+    "steps": {
+      "step1": {
+        "title": "Download a Template",
+        "text": "Choose from our free, HIPAA-ready N8N workflow templates. Each one solves a specific operational bottleneck."
+      },
+      "step2": {
+        "title": "Import into N8N",
+        "text": "Open your N8N instance (cloud or self-hosted), go to Workflows → Import, and paste the JSON. All nodes are pre-configured."
+      },
+      "step3": {
+        "title": "Connect Your Tools",
+        "text": "Plug in your EHR API keys, Twilio credentials, Google Sheets, and Slack workspace. Each node has clear setup instructions."
+      },
+      "step4": {
+        "title": "Activate & Scale",
+        "text": "Toggle the workflow on and watch it run 24/7. Monitor executions, tweak triggers, and scale across locations."
+      }
+    },
+    "ctaPrimary": "Browse all templates",
+    "ctaSecondary": "Read setup guide"
+  },
+  "templatesSlider": {
+    "freePill": "100% Free - No Signup Required",
+    "title": "Plug-and-Play N8N Templates",
+    "subtitle": "Download ready-to-import JSON workflow files. Each template is a complete automation - just connect your credentials and activate.",
+    "downloadJson": "Download JSON Template",
+    "prevAria": "Previous templates",
+    "nextAria": "Next templates",
+    "footQuestion": "Need a custom workflow for your specific EHR or practice?",
+    "footCta": "Request Custom Template",
+    "items": {
+      "patientIntake": {
+        "desc": "Auto-collect patient info via webhook, verify insurance, create EHR records, log to Google Sheets, and send confirmation emails plus Slack alerts - all without front-desk involvement.",
+        "tags": ["Intake", "Insurance", "EHR"],
+        "title": "Patient Intake Automation",
+        "nodes": "7 nodes · N8N workflow"
+      },
+      "appointmentReminder": {
+        "desc": "Automated 24-hour and 2-hour SMS plus email reminders via Twilio. Cuts no-show rates by up to 40% with zero staff effort and pulls everything from your existing calendar.",
+        "tags": ["SMS", "Reminders", "No-Shows"],
+        "title": "Appointment Reminder & No-Show Recovery",
+        "nodes": "8 nodes · N8N workflow"
+      },
+      "reviewCollection": {
+        "desc": "Sentiment-based routing: happy patients receive a Google review request, others get a private feedback form. Reputation management runs itself, no manual triage needed.",
+        "tags": ["Reviews", "Reputation", "Google"],
+        "title": "Google Review Collection",
+        "nodes": "8 nodes · N8N workflow"
+      },
+      "insuranceVerification": {
+        "desc": "Real-time eligibility checks, copay and deductible lookup, automatic pre-auth submission, and Slack alerts to front desk and billing - every patient verified before they walk in.",
+        "tags": ["Insurance", "Billing", "Verification"],
+        "title": "Insurance Verification Bot",
+        "nodes": "9 nodes · N8N workflow"
+      },
+      "aiChatbot": {
+        "desc": "A GPT-powered chatbot qualifies leads, extracts contact info, creates CRM entries, and pings Slack the moment a high-priority patient lands on your site - no human intervention required.",
+        "tags": ["AI", "Chatbot", "Lead Gen"],
+        "title": "AI Chatbot Lead Capture",
+        "nodes": "10 nodes · N8N workflow"
+      },
+      "socialAutoPoster": {
+        "desc": "AI-generated captions from your content calendar auto-posted to Facebook and Instagram daily, with team notifications and a reviewable queue. Set it once, ship every day.",
+        "tags": ["Social Media", "AI Content", "Marketing"],
+        "title": "Social Media Auto-Poster",
+        "nodes": "9 nodes · N8N workflow"
+      }
+    }
+  },
+  "moreInfo": {
+    "seo": {
+      "title": "Healthcare Automation Playbook — HIPAA-Safe Workflow Guide",
+      "description": "A practitioner's guide to deploying patient-facing automation without breaking compliance, scope, or front-desk sanity — written by the team behind 200+ live clinical workflows."
+    },
+    "hero": {
+      "eyebrow": "Healthcare automation, deep-dive",
+      "title": "The complete playbook for healthcare automation.",
+      "lede": "A practitioner's guide to deploying patient-facing automation without breaking compliance, scope, or your front desk's sanity - written by the team behind 200+ live clinical workflows.",
+      "ctaPrimary": "Start your automation audit",
+      "ctaSecondary": "Browse the playbook",
+      "bannerAlt": "The complete playbook for healthcare automation"
+    },
+    "pillars": {
+      "label": "/ 01   The principles",
+      "title": "Three rules every healthcare workflow we ship is built on.",
+      "items": {
+        "p1": {
+          "title": "Workflow first",
+          "desc": "Every automation maps a real clinical workflow - intake, follow-up, reminders, billing - not a generic SaaS use case."
+        },
+        "p2": {
+          "title": "HIPAA-aware",
+          "desc": "Encrypted transport, BAA-ready vendor stack, server-side tracking. Compliance is the default, never a retrofit."
+        },
+        "p3": {
+          "title": "Ships in days",
+          "desc": "Import the template, connect your stack, go live. Most clinics move from kickoff to first automated patient in under a week."
+        }
+      }
+    },
+    "about": {
+      "label": "/ 02   What you get",
+      "title": "Built for clinics that move fast - without breaking what works.",
+      "lede": "Every automation we ship sits on top of your existing PM, EHR, and calendar - never in place of them. Same data of record, same vendors, far less manual work.",
+      "tagLive": "Live workflow",
+      "tagName": "Patient intake",
+      "checklist": [
+        "Plug-and-play templates for N8N, Zapier and Make",
+        "Pre-built integrations with leading PM / EHR systems",
+        "Audit logs and consent capture out of the box",
+        "Documented escalation paths for human takeover",
+        "Quarterly compliance review with our growth team",
+        "Drop-in replacements for 20+ manual front-desk tasks"
+      ],
+      "back": "Back to the template library"
+    },
+    "solutions": {
+      "label": "/ 03   The library",
+      "title": "Three categories that recover the most time and revenue.",
+      "sub": "We start with whichever lane has the biggest leak in your clinic. The other two layer in once the first is running clean.",
+      "readWorkflow": "Read the workflow",
+      "items": {
+        "s1": {
+          "tag": "Front Desk",
+          "title": "Patient intake & verification",
+          "desc": "Forms, insurance capture, eligibility checks, and chart prep - all complete before the patient walks in."
+        },
+        "s2": {
+          "tag": "Reminders",
+          "title": "Two-way SMS & email reminders",
+          "desc": "Multi-touch reminder cadences with auto-rescheduling links. Recover 18% of no-shows in the first 60 days."
+        },
+        "s3": {
+          "tag": "Revenue",
+          "title": "Reviews, recalls & reactivation",
+          "desc": "HIPAA-aware review requests, recall campaigns, and dormant-patient re-engagement that compounds month over month."
+        }
+      }
+    },
+    "process": {
+      "label": "/ 04   How we operate",
+      "title": "From audit to live in four deliberate moves.",
+      "steps": {
+        "step1": {
+          "title": "Audit",
+          "desc": "We map every manual task and rank it by hours saved and revenue impact."
+        },
+        "step2": {
+          "title": "Build",
+          "desc": "We configure templates inside your stack - EHR, PM, calendar, messaging."
+        },
+        "step3": {
+          "title": "Launch",
+          "desc": "Go live with a single touchpoint, then layer the next once it is stable."
+        },
+        "step4": {
+          "title": "Optimize",
+          "desc": "We tune cadences, copy, and triggers weekly. You own the data and dashboards."
+        }
+      }
+    },
+    "cta": {
+      "eyebrow": "Get in touch",
+      "title": "Schedule a free 30-minute automation walkthrough.",
+      "text": "Bring your top three manual tasks. We'll show you which template fits, what it ships with, and how fast it can be live in your stack.",
+      "bullets": [
+        "No deck, no pitch - just a working session.",
+        "Includes a one-page summary you can share internally.",
+        "Free, even if you decide not to work with us."
+      ],
+      "formAria": "Walkthrough request",
+      "fields": {
+        "name": "Name",
+        "email": "Email",
+        "clinic": "Clinic",
+        "task": "Top manual task",
+        "message": "What would you automate first?"
+      },
+      "submit": "Request walkthrough",
+      "subjectPrefix": "Automation walkthrough request",
+      "bodyLabels": {
+        "name": "Name",
+        "email": "Email",
+        "clinic": "Clinic",
+        "task": "Top manual task",
+        "message": "What I would automate first"
+      }
+    }
+  },
+  "templates": {
+    "eyebrow": "Templates",
+    "title": "Ready-to-deploy automation workflows",
+    "subtitle": "Pre-built, configurable, HIPAA-aware. Live in your practice in days, not months.",
+    "tryIt": "Try this template",
+    "viewDetails": "View details",
+    "items": {
+      "patientIntake": {
+        "title": "Patient intake workflow",
+        "desc": "Automated intake form → EHR push → confirmation."
+      },
+      "reminderCadence": {
+        "title": "Reminder cadence",
+        "desc": "Appointment reminders via SMS + email with no-show reduction logic."
+      },
+      "reviewCollection": {
+        "title": "Review collection",
+        "desc": "Post-visit review requests routed to Google, Yelp, and Facebook."
+      },
+      "eligibilityBot": {
+        "title": "Eligibility bot",
+        "desc": "Insurance eligibility verification before the patient walks in."
+      },
+      "gptChatbot": {
+        "title": "GPT chatbot",
+        "desc": "On-site chatbot that books appointments and answers FAQs."
+      },
+      "socialAutoPoster": {
+        "title": "Social auto-poster",
+        "desc": "Multi-channel social posting on a content calendar."
+      }
+    },
+    "page": {
+      "seoTitle": "Free Healthcare Automation Templates — Six N8N Workflows, HIPAA-Vetted",
+      "seoDescription": "Six healthcare-grade automation templates shipped as N8N specs — patient intake, reminders, reviews, insurance verification, AI chat, social posting. HIPAA-vetted, free to keep.",
+      "hero": {
+        "chipLibrary": "Template library · 2026",
+        "chipWorkflows": "workflows",
+        "chipCategory": "{{cat}} workflows",
+        "railFiled": "FILED",
+        "railFiledValue": "Healthcare ops",
+        "railPlatform": "PLATFORM",
+        "railPlatformValue": "N8N",
+        "railEdition": "EDITION",
+        "railEditionValue": "2026.Q2",
+        "eyebrow": "Automation library · Free to keep",
+        "titleNumber": "Six",
+        "titleRest": " Healthcare-grade automations.",
+        "titleQuiet": "Live in your stack the same afternoon.",
+        "lede": "Each workflow is shipped as an N8N spec, vetted for HIPAA boundaries, and tuned for the moments where most clinics quietly lose hours every week.",
+        "ctaPrimary": "Get the library",
+        "ctaSecondary": "Browse below",
+        "figCaption": "FIG. 01 — AUTOMATION SPECIMEN"
+      },
+      "dataBand": {
+        "ariaLabel": "Library metadata",
+        "workflows": "Workflows",
+        "workflowsValue": "06",
+        "totalSetup": "Total setup",
+        "totalSetupValue": "~5 hrs",
+        "combinedSavings": "Combined savings",
+        "combinedSavingsValue": "30+ hrs/wk",
+        "platform": "Platform",
+        "platformValue": "N8N · self-hosted",
+        "complianceModes": "Compliance modes",
+        "complianceModesValue": "3"
+      },
+      "tldr": {
+        "ariaLabel": "Summary",
+        "label": "TL;DR",
+        "text": "Six healthcare-grade workflow specs. Each one ships with the nodes, consent surface, and compliance posture your clinic actually needs — ready to import into N8N in under an hour, free to keep."
+      },
+      "atAGlance": {
+        "label": "/ 01   At a glance",
+        "title": "The library, in three numbers.",
+        "intro": "What the library is worth — measured in setup hours, payback days, and front-desk time recovered every week.",
+        "stats": {
+          "s1": {
+            "label": "Library size",
+            "desc": "Workflows covering the six moments most clinics leak hours into every week."
+          },
+          "s2": {
+            "label": "Median payback",
+            "desc": "Most clinics see the first workflow pay back its setup time inside two weeks."
+          },
+          "s3": {
+            "label": "Combined value",
+            "desc": "The library at full deployment recovers more than thirty front-desk hours per week."
+          }
+        }
+      },
+      "filterBar": {
+        "ariaLabel": "Filter by category",
+        "eyebrow": "/ 02 · Filter the library",
+        "hintAll": "All six workflows shown.",
+        "hintCategory": "Showing the {{category}} workflow only.",
+        "filters": {
+          "All": "All",
+          "Intake": "Intake",
+          "Reminders": "Reminders",
+          "Reviews": "Reviews",
+          "Insurance": "Insurance",
+          "AI": "AI",
+          "Social": "Social"
+        }
+      },
+      "library": {
+        "label": "/ 03   The library",
+        "title": "Six workflows. Each one shipped as a spec.",
+        "intro": "Browse the library. Every card has its own nodes, compliance posture, and time-saved baseline — pick the one your clinic will actually use first.",
+        "emptyText": "No templates in this category yet — ",
+        "emptyLink": "request a custom build",
+        "card": {
+          "build": "Build",
+          "setup": "Setup",
+          "value": "Value",
+          "compliance": "Compliance",
+          "cta": "Get this workflow",
+          "ctaAria": "Get the {{title}} workflow"
+        }
+      },
+      "imageBreak": {
+        "caption": "FIG. 09 — IN PRACTICE",
+        "text": "Every workflow ships as an N8N spec with the compliance posture documented at every node."
+      },
+      "howItWorks": {
+        "label": "/ 04   How it works",
+        "title": "Four moves from library to live workflow.",
+        "intro": "The same deployment cadence we use inside paying engagements — minus the retainer. The library does the hard part; the four moves do the rest.",
+        "steps": {
+          "s1": {
+            "title": "Browse",
+            "desc": "Pick the workflow that maps to the hour-leak you want to plug first — by category, compliance posture, or ROI."
+          },
+          "s2": {
+            "title": "Import",
+            "desc": "Drop the spec into your N8N instance — every node is documented, every credential slot is labelled."
+          },
+          "s3": {
+            "title": "Customise",
+            "desc": "Swap in your CRM, your scheduler, your messaging stack. Brand the patient-facing surfaces with your voice."
+          },
+          "s4": {
+            "title": "Ship",
+            "desc": "Run a 24-hour pilot, then turn the workflow on for the front desk. Most workflows pay back inside two weeks."
+          }
+        }
+      },
+      "compliance": {
+        "label": "/ 05   Compliance posture",
+        "title": "Three modes. One library.",
+        "intro": "Every workflow declares its compliance posture up front — so the front desk, the compliance lead, and IT all see the same boundary before anything ships.",
+        "countSingular": "{{count}} workflow",
+        "countPlural": "{{count}} workflows",
+        "tiers": {
+          "baa": {
+            "key": "BAA required",
+            "desc": "Touches PHI directly. Runs only behind a signed Business Associate Agreement with every vendor in the path."
+          },
+          "hipaa": {
+            "key": "HIPAA-aware",
+            "desc": "Touches scheduling and messaging metadata — no clinical PHI. Built to respect HIPAA boundaries by design."
+          },
+          "phiFree": {
+            "key": "PHI-free",
+            "desc": "Workflow operates entirely outside the PHI surface. Reviews, social, lead capture — public-facing only."
+          }
+        }
+      },
+      "whoFor": {
+        "label": "/ 06   Who this is for",
+        "title": "Three roles the library was written for.",
+        "intro": "The library is one resource, but three readers will pick it up — each one looking for a different boundary, a different number, a different proof.",
+        "items": {
+          "w1": {
+            "label": "Front-desk lead",
+            "desc": "You want every patient touchpoint logged, reminded, and reviewed — without owning a new tool yourself."
+          },
+          "w2": {
+            "label": "Operations director",
+            "desc": "You want the hour-leaks closed and the SOP documented in one place every clinic can audit."
+          },
+          "w3": {
+            "label": "Marketing lead",
+            "desc": "You want the review engine running, the lead capture qualifying, and the social feed shipping — daily, automatically."
+          }
+        }
+      },
+      "pullQuote": {
+        "ariaLabel": "Pull quote",
+        "text": "The cheapest hour a clinic ever recovers is the one a workflow stops asking the front desk to spend.",
+        "avatar": "FN",
+        "cite": "TheNextGen Healthcare Marketing · Automation desk"
+      },
+      "promise": {
+        "label": "/ 07   The promise",
+        "title": "What the library will and will not do.",
+        "intro": "Four commitments that hold across every workflow in the library — and across every customisation we ship for paying clients too.",
+        "items": [
+          "Every workflow is yours to keep — no retainer, no usage cap.",
+          "Every spec is documented in plain language, not just node-soup.",
+          "Every compliance posture is declared up front, before deploy.",
+          "Every workflow ships with an SOP your team can audit."
+        ]
+      },
+      "ctaBanner": {
+        "eyebrow": "Need one we have not built?",
+        "title": "Book a 15-minute build session.",
+        "text": "Free, no pitch. We scope the workflow on the call and ship the spec the same week — yours to keep, agency or not.",
+        "ctaPrimary": "Book the session",
+        "ctaSecondary": "Back to Automation"
+      },
+      "related": {
+        "label": "/ 08   Keep reading",
+        "title": "More from the automation desk.",
+        "intro": "Hand-picked resources that extend the library — process, audit, and the operating system the workflows plug into.",
+        "read": "Read",
+        "items": {
+          "r1": {
+            "cat": "Overview",
+            "title": "Automation, end-to-end.",
+            "desc": "How the library, the custom builds, and the ops layer all hook together."
+          },
+          "r2": {
+            "cat": "Process",
+            "title": "How we build automations.",
+            "desc": "The discovery → spec → ship cadence we follow for every workflow that leaves the studio."
+          },
+          "r3": {
+            "cat": "Audit",
+            "title": "The free growth audit.",
+            "desc": "A five-day audit that surfaces the hour-leaks your library will close first."
+          }
+        }
+      },
+      "templateBlurbs": {
+        "patientIntake": {
+          "title": "Patient intake & insurance verification.",
+          "blurb": "A pre-visit packet that captures consent, demographics, and eligibility before the patient walks in — front desk untouched.",
+          "pull": "Front desk untouched.",
+          "effort": "~45 min setup",
+          "saves": "Saves 6–9 hrs/week",
+          "imgAlt": "Patient intake and insurance verification workflow illustration."
+        },
+        "reminderCadence": {
+          "title": "SMS + email reminder cadence.",
+          "blurb": "A two-channel cadence that lifts show rate without spam — opt-in respected, quiet hours enforced, ICS attached.",
+          "pull": "40% fewer no-shows.",
+          "effort": "~30 min setup",
+          "saves": "Saves 4–6 hrs/week",
+          "imgAlt": "SMS and email reminder cadence workflow illustration."
+        },
+        "reviewCollection": {
+          "title": "Sentiment-routed review collection.",
+          "blurb": "Happy patients land on Google; unhappy patients land in your inbox first. Reputation engine that compounds, never embarrasses.",
+          "pull": "Reputation runs itself.",
+          "effort": "~40 min setup",
+          "saves": "5× review velocity",
+          "imgAlt": "Sentiment-routed review collection workflow illustration."
+        },
+        "eligibilityBot": {
+          "title": "Real-time eligibility bot.",
+          "blurb": "Verifies coverage before the appointment — clearinghouse → CRM → front desk dashboard, all in under thirty seconds.",
+          "pull": "Verified before the door.",
+          "effort": "~60 min setup",
+          "saves": "Saves 8–12 hrs/week",
+          "imgAlt": "Real-time insurance eligibility bot workflow illustration."
+        },
+        "gptChatbot": {
+          "title": "GPT chatbot for lead capture.",
+          "blurb": "A scoped GPT assistant that qualifies leads, routes by intent, and books — without ever inventing a clinical answer.",
+          "pull": "Qualifies while you sleep.",
+          "effort": "~75 min setup",
+          "saves": "24/7 lead capture",
+          "imgAlt": "GPT chatbot for lead capture workflow illustration."
+        },
+        "socialAutoPoster": {
+          "title": "Daily AI social auto-poster.",
+          "blurb": "A daily content drip across LinkedIn, Instagram, and X — sourced from your blog, captioned on-brand, scheduled around your calendar.",
+          "pull": "Set once, ship daily.",
+          "effort": "~50 min setup",
+          "saves": "3 hrs/week creative",
+          "imgAlt": "Daily AI social auto-poster workflow illustration."
+        }
+      }
+    }
+  },
+  "workflow": {
+    "backToTemplates": "Back to Templates",
+    "overviewHeading": "Overview",
+    "howItWorksHeading": "How it works",
+    "stepsHeading": "Steps",
+    "integrationsHeading": "Integrations",
+    "complianceHeading": "Compliance notes",
+    "ctaTitle": "Want this running in your practice?",
+    "ctaSubtitle": "Book a 30-minute call. We'll scope it and ship it.",
+    "ctaButton": "Book a Discovery Call",
+    "common": {
+      "shift": "The shift",
+      "before": "Before",
+      "after": "After",
+      "today": "today",
+      "automated": "Automated",
+      "howItWorks": "How it works",
+      "whatYouGet": "What you get",
+      "setup": "Setup",
+      "compliance": "Compliance",
+      "readyWhenYouAre": "Ready when you are",
+      "getThisWorkflow": "Get this workflow",
+      "seeHowItWorks": "See how it works",
+      "seeAllSix": "See all six workflows",
+      "yoursToKeep": "Yours to keep",
+      "workflowNodesAria": "Workflow nodes in order",
+      "setupStepsAria": "Setup steps",
+      "complianceAria": "Compliance requirement",
+      "stepLabel": "Step {{n}}: {{label}}",
+      "reviewBaa": "Review BAA",
+      "seeThePolicy": "See the policy",
+      "nodesUnit": "{{count}} nodes",
+      "nodesSpec": "n8n · {{count}} nodes",
+      "baaOnSigning": "BAA on signing",
+      "phiFreeDeploy": "PHI-free deploy",
+      "hipaaSendRules": "HIPAA-aware send rules",
+      "nodeSpec": "{{count}}-node N8N spec",
+      "ctaTrailingText": "Drop the workflow into your N8N instance this afternoon."
+    },
+    "patientIntake": {
+      "fig": "FIG. 02",
+      "category": "INTAKE",
+      "titlePart1": "Patient Intake",
+      "titleAmp": " & ",
+      "titleItalic": "Insurance Verification.",
+      "lede": "A pre-visit packet that captures consent, demographics, and eligibility before the patient walks in — ",
+      "ledeEm": "front desk untouched.",
+      "stats": {
+        "s1": { "value": "7 nodes", "label": "N8N workflow" },
+        "s2": { "value": "~45 min", "label": "Setup time" },
+        "s3": { "value": "6–9 hrs", "label": "Saved per week" },
+        "s4": { "value": "BAA", "label": "HIPAA-sensitive" }
+      },
+      "shiftTitle": "From the lobby pile-up to a quiet morning.",
+      "beforeTitle": "The front desk juggles it.",
+      "before": [
+        "Paper forms handed out at check-in.",
+        "Front desk on hold with insurers.",
+        "Demographics keyed in twice.",
+        "Eligibility surprises at the counter."
+      ],
+      "afterTitle": "The workflow handles it.",
+      "after": [
+        "Pre-visit packet sent automatically.",
+        "Consent + demographics captured online.",
+        "Eligibility verified before they arrive.",
+        "Issues flagged to staff inbox, not the lobby."
+      ],
+      "howTitle": "Seven nodes, end-to-end.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Appointment Booked",
+          "copy": "Trigger fires the moment a slot is reserved in the scheduler."
+        },
+        {
+          "n": "02",
+          "label": "Send Intake Form",
+          "copy": "Patient receives a branded pre-visit link by SMS and email."
+        },
+        {
+          "n": "03",
+          "label": "Collect Consent & Demographics",
+          "copy": "Signed forms and patient details written straight to the chart."
+        },
+        {
+          "n": "04",
+          "label": "Verify Insurance Eligibility",
+          "copy": "Real-time clearinghouse check confirms coverage and copay."
+        },
+        {
+          "n": "05",
+          "label": "Flag Issues",
+          "copy": "Anything missing or expired routes to a staff review queue."
+        },
+        {
+          "n": "06",
+          "label": "Compile Pre-Visit Packet",
+          "copy": "One clean PDF lands on the chart — ready before the patient is."
+        },
+        {
+          "n": "07",
+          "label": "Notify Staff",
+          "copy": "A single morning summary tells the front desk what to expect."
+        }
+      ],
+      "whatTitle": "Four quiet outcomes, every morning.",
+      "outcomes": [
+        {
+          "label": "Pre-filled patient packet",
+          "copy": "Every form complete before they step through the door."
+        },
+        {
+          "label": "Eligibility confirmed",
+          "copy": "Coverage, copay, and deductible verified in advance."
+        },
+        {
+          "label": "Consent captured",
+          "copy": "Signed, time-stamped, and filed to the chart automatically."
+        },
+        {
+          "label": "Front desk freed up",
+          "copy": "No more hold music, no more clipboards at check-in."
+        }
+      ],
+      "setupTitle": "Live in under an hour.",
+      "setupIntro": "Three steps, ~45 minutes total. No code. Your existing scheduler, clearinghouse, and messaging stack stay exactly where they are.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Import the spec",
+          "copy": "Drop the N8N JSON into your instance — every node is labelled.",
+          "minutes": "10 min"
+        },
+        {
+          "n": "02",
+          "title": "Connect credentials",
+          "copy": "Scheduler, clearinghouse, and messaging — slot-by-slot.",
+          "minutes": "20 min"
+        },
+        {
+          "n": "03",
+          "title": "Pilot & switch on",
+          "copy": "Run a 24-hour shadow pass, then route live appointments through.",
+          "minutes": "15 min"
+        }
+      ],
+      "complianceTitle": "BAA required — this workflow touches PHI.",
+      "complianceText": "You'll sign a Business Associate Agreement before go-live. Storage, transport, and audit logging are HIPAA-aligned by default.",
+      "complianceCta": "Review BAA",
+      "ctaQuote": "Front desk untouched.",
+      "ctaText": "Drop the workflow into your N8N instance this afternoon. We'll wire up your scheduler, clearinghouse, and messaging on a free 30-minute call.",
+      "footerBadges": ["BAA on signing", "7-node N8N spec", "Yours to keep"]
+    },
+    "reminderCadence": {
+      "fig": "FIG. 03",
+      "category": "REMINDERS",
+      "titlePart1": "SMS & Email",
+      "titleSep": " · ",
+      "titleItalic": "Reminder Cadence.",
+      "lede": "A two-channel cadence that lifts show rate ",
+      "ledeEm": "without the spam",
+      "ledeRest": " — opt-in respected, quiet hours enforced, ICS attached.",
+      "stats": {
+        "s1": { "value": "8 nodes", "label": "N8N workflow" },
+        "s2": { "value": "~30 min", "label": "Setup time" },
+        "s3": { "value": "4–6 hrs", "label": "Saved per week" },
+        "s4": { "value": "HIPAA", "label": "PHI-aware" }
+      },
+      "shiftTitle": "From midnight texts to a respected cadence.",
+      "beforeTitle": "The front desk chases every patient.",
+      "before": [
+        "Front desk dialling reminders by hand.",
+        "Patients forget — no-show rate climbs.",
+        "Awkward late-night texts and missed inboxes.",
+        "Reschedules buried in voicemail."
+      ],
+      "afterTitle": "The cadence runs itself, on schedule.",
+      "after": [
+        "SMS and email cadence runs on autopilot.",
+        "Opt-in honoured, quiet hours enforced.",
+        "ICS attached — one tap to add to calendar.",
+        "Replies captured, calendar kept in sync."
+      ],
+      "howTitle": "Eight nodes, three touches, zero spam.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Appointment Scheduled",
+          "copy": "Trigger fires the moment a slot is booked in the scheduler."
+        },
+        {
+          "n": "02",
+          "label": "Check Opt-In Status",
+          "copy": "Workflow stops cold if the patient has not consented to messaging."
+        },
+        {
+          "n": "03",
+          "label": "Build Reminder Schedule",
+          "copy": "A three-touch cadence: 7 days out, 1 day out, 2 hours before."
+        },
+        {
+          "n": "04",
+          "label": "Enforce Quiet Hours",
+          "copy": "Anything that lands between 9pm and 8am holds until morning."
+        },
+        {
+          "n": "05",
+          "label": "Send SMS Reminder",
+          "copy": "Short, branded, and signed by the clinic — never a marketing burst."
+        },
+        {
+          "n": "06",
+          "label": "Send Email + ICS",
+          "copy": "A calendar-ready invite arrives in the patient inbox."
+        },
+        {
+          "n": "07",
+          "label": "Capture Reply",
+          "copy": "Confirms, reschedules, and cancellations are parsed in one step."
+        },
+        {
+          "n": "08",
+          "label": "Update Calendar & Log",
+          "copy": "Outcome posts back to the chart — every touch fully audited."
+        }
+      ],
+      "whatTitle": "Four touches, every show rate lifted.",
+      "outcomes": [
+        {
+          "label": "Higher show rate",
+          "copy": "A measured drop in no-shows across the first thirty days."
+        },
+        {
+          "label": "Two-channel coverage",
+          "copy": "SMS for nudges, email for the calendar invite — both opt-in."
+        },
+        {
+          "label": "Compliance respected",
+          "copy": "Quiet hours, opt-outs, and consent stay enforced on every send."
+        },
+        {
+          "label": "Reschedules handled",
+          "copy": "One reply moves the slot, updates the calendar, logs the change."
+        }
+      ],
+      "setupTitle": "Live in half an hour.",
+      "setupIntro": "Three steps, ~30 minutes total. No code. Your existing scheduler, SMS provider, and email stack stay exactly where they are.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Import the spec",
+          "copy": "Drop the N8N JSON into your instance — every node is labelled.",
+          "minutes": "5 min"
+        },
+        {
+          "n": "02",
+          "title": "Connect channels",
+          "copy": "Scheduler, SMS provider, and email — credentials slot-by-slot.",
+          "minutes": "15 min"
+        },
+        {
+          "n": "03",
+          "title": "Pilot & switch on",
+          "copy": "Run a single-day shadow pass, then route live appointments through.",
+          "minutes": "10 min"
+        }
+      ],
+      "complianceTitle": "HIPAA-aware — appointment metadata only.",
+      "complianceText": "No clinical detail is ever sent over SMS. Opt-in, quiet hours, and audit trails are HIPAA-aligned by default.",
+      "complianceCta": "See the policy",
+      "ctaQuote": "40% fewer no-shows.",
+      "ctaText": "Drop the cadence into your N8N instance this afternoon. We'll wire up your scheduler, SMS provider, and email on a free 30-minute call.",
+      "footerBadges": ["HIPAA-aware send rules", "8-node N8N spec", "Yours to keep"]
+    },
+    "reviewCollection": {
+      "fig": "FIG. 05",
+      "category": "REVIEWS",
+      "titlePart1": "Sentiment-Routed",
+      "titleSep": " · ",
+      "titleItalic": "Review Collection.",
+      "lede": "Happy patients land on Google; unhappy patients land in your inbox first. A reputation engine that ",
+      "ledeEm": "compounds, never embarrasses",
+      "ledeRest": ".",
+      "stats": {
+        "s1": { "value": "8 nodes", "label": "N8N workflow" },
+        "s2": { "value": "~40 min", "label": "Setup time" },
+        "s3": { "value": "5× velocity", "label": "Review pace" },
+        "s4": { "value": "PHI-free", "label": "No patient data" }
+      },
+      "shiftTitle": "From rolling the dice to routing every reply.",
+      "beforeTitle": "Your reputation moves on its own.",
+      "before": [
+        "Staff asking for reviews when they remember.",
+        "Frustrated patients leave it on Google first.",
+        "No early signal when sentiment turns negative.",
+        "Reputation moves without anyone watching."
+      ],
+      "afterTitle": "Every signal lands where it should.",
+      "after": [
+        "Survey sent at the right moment, every visit.",
+        "Sentiment routes the response automatically.",
+        "Manager alerted privately before anything public.",
+        "Dashboard tracks reputation trend over time."
+      ],
+      "howTitle": "Eight nodes — one signal, two paths.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Visit Marked Complete",
+          "copy": "Trigger fires the moment the appointment is closed in the chart."
+        },
+        {
+          "n": "02",
+          "label": "Short Delay",
+          "copy": "A measured pause — long enough to leave a real impression."
+        },
+        {
+          "n": "03",
+          "label": "Send Micro-Survey",
+          "copy": "A single-tap rating lands in the patient inbox, branded clean."
+        },
+        {
+          "n": "04",
+          "label": "Capture Rating",
+          "copy": "The score is parsed and tied back to the patient and provider."
+        },
+        {
+          "n": "05",
+          "label": "Sentiment Branch",
+          "copy": "IF node splits the flow on the rating threshold you set."
+        },
+        {
+          "n": "06",
+          "label": "Happy → Google",
+          "copy": "A direct link to your public review page — friction at zero."
+        },
+        {
+          "n": "07",
+          "label": "Unhappy → Private Inbox",
+          "copy": "Manager gets the alert; the patient gets a quiet, human reply."
+        },
+        {
+          "n": "08",
+          "label": "Log to Dashboard",
+          "copy": "Every signal feeds the reputation chart — trends visible weekly."
+        }
+      ],
+      "whatTitle": "Four signals, every review captured.",
+      "outcomes": [
+        {
+          "label": "More Google reviews",
+          "copy": "Happy patients move down a frictionless path to the public page."
+        },
+        {
+          "label": "Bad feedback caught early",
+          "copy": "Concerns land in your inbox first, not on a 1-star review."
+        },
+        {
+          "label": "Reputation dashboard",
+          "copy": "Trend lines per provider, per location, per week — all in view."
+        },
+        {
+          "label": "Patient sentiment loop",
+          "copy": "Every visit closes with a signal you can act on, not a guess."
+        }
+      ],
+      "setupTitle": "Live in forty minutes.",
+      "setupIntro": "Three steps, ~40 minutes total. No code. Your survey tool, Google profile, and inbox stay exactly where they are.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Import the spec",
+          "copy": "Drop the N8N JSON into your instance — every node is labelled.",
+          "minutes": "10 min"
+        },
+        {
+          "n": "02",
+          "title": "Connect channels",
+          "copy": "Survey tool, Google review link, and inbox alerts — slot-by-slot.",
+          "minutes": "15 min"
+        },
+        {
+          "n": "03",
+          "title": "Pilot & switch on",
+          "copy": "Run a 48-hour shadow pass, then route live visits through.",
+          "minutes": "15 min"
+        }
+      ],
+      "complianceTitle": "PHI-free — no patient data ever leaves the chart.",
+      "complianceText": "The workflow handles a visit signal and a satisfaction score. No diagnosis, no notes, no clinical content. Safe to deploy without a BAA.",
+      "complianceCta": "See the policy",
+      "ctaQuote": "Reputation runs itself.",
+      "ctaText": "Drop the workflow into your N8N instance this afternoon. We'll wire up your survey tool, Google review link, and inbox on a free 30-minute call.",
+      "footerBadges": ["PHI-free deploy", "8-node N8N spec", "Yours to keep"]
+    },
+    "eligibilityBot": {
+      "fig": "FIG. 06",
+      "category": "INSURANCE",
+      "titlePart1": "Real-Time",
+      "titleSep": " · ",
+      "titleItalic": "Eligibility Bot.",
+      "lede": "Verifies coverage before the appointment — clearinghouse → CRM → front-desk dashboard, all in ",
+      "ledeEm": "under thirty seconds",
+      "ledeRest": ".",
+      "stats": {
+        "s1": { "value": "9 nodes", "label": "N8N workflow" },
+        "s2": { "value": "~60 min", "label": "Setup time" },
+        "s3": { "value": "8–12 hrs", "label": "Saved per week" },
+        "s4": { "value": "BAA", "label": "HIPAA-sensitive" }
+      },
+      "shiftTitle": "From hold music to verified coverage.",
+      "beforeTitle": "Eligibility is a phone-call problem.",
+      "before": [
+        "Staff on hold with insurers, one call at a time.",
+        "Coverage surprises argued at the counter.",
+        "Copays misquoted, claims rejected later.",
+        "Eligibility checked the day of, if at all."
+      ],
+      "afterTitle": "Eligibility is a dashboard answer.",
+      "after": [
+        "Coverage verified the moment the slot is booked.",
+        "Copay and deductible printed before arrival.",
+        "Inactive or mismatched plans flagged early.",
+        "Front-desk dashboard shows every patient status."
+      ],
+      "howTitle": "Nine nodes — booked to verified, in seconds.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Appointment Booked",
+          "copy": "Trigger fires the moment a slot is reserved in the scheduler."
+        },
+        {
+          "n": "02",
+          "label": "Pull CRM Data",
+          "copy": "Patient demographics and insurance pulled from the system of record."
+        },
+        {
+          "n": "03",
+          "label": "Format Request",
+          "copy": "The payload is shaped into the clearinghouse-ready format."
+        },
+        {
+          "n": "04",
+          "label": "Send to Clearinghouse",
+          "copy": "Eligibility check goes out — typically resolves in under thirty seconds."
+        },
+        {
+          "n": "05",
+          "label": "Receive Response",
+          "copy": "Raw response is captured, time-stamped, and stored."
+        },
+        {
+          "n": "06",
+          "label": "Parse Coverage",
+          "copy": "Coverage, copay, deductible, and policy status are extracted."
+        },
+        {
+          "n": "07",
+          "label": "Flag Issues",
+          "copy": "Inactive plans, mismatches, and missing data route to review."
+        },
+        {
+          "n": "08",
+          "label": "Push to Dashboard",
+          "copy": "Results land in the front-desk view, sorted by appointment time."
+        },
+        {
+          "n": "09",
+          "label": "Notify Staff",
+          "copy": "Only flagged cases page a human — clean checks stay quiet."
+        }
+      ],
+      "whatTitle": "Four checks, every visit prepared.",
+      "outcomes": [
+        {
+          "label": "Coverage verified early",
+          "copy": "Eligibility confirmed in the same minute the appointment is booked."
+        },
+        {
+          "label": "Copay clarity",
+          "copy": "Patients arrive knowing what they owe — no counter surprises."
+        },
+        {
+          "label": "Issues caught early",
+          "copy": "Inactive plans escalate days before the visit, not minutes."
+        },
+        {
+          "label": "No more hold music",
+          "copy": "Staff spend their hours on patients, not on insurance lines."
+        }
+      ],
+      "setupTitle": "Live in under an hour.",
+      "setupIntro": "Three steps, ~60 minutes total. No code. Your CRM, clearinghouse, and front-desk dashboard stay exactly where they are.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Import the spec",
+          "copy": "Drop the N8N JSON into your instance — every node is labelled.",
+          "minutes": "10 min"
+        },
+        {
+          "n": "02",
+          "title": "Connect systems",
+          "copy": "CRM, clearinghouse, and front-desk dashboard — credentials slot-by-slot.",
+          "minutes": "35 min"
+        },
+        {
+          "n": "03",
+          "title": "Pilot & switch on",
+          "copy": "Run a 24-hour shadow pass, then route live appointments through.",
+          "minutes": "15 min"
+        }
+      ],
+      "complianceTitle": "BAA required — this workflow touches PHI.",
+      "complianceText": "Patient identifiers and insurance data cross the wire on every check. You'll sign a Business Associate Agreement before go-live.",
+      "complianceCta": "Review BAA",
+      "ctaQuote": "Verified before the door.",
+      "ctaText": "Drop the workflow into your N8N instance this afternoon. We'll wire up your CRM, clearinghouse, and front-desk dashboard on a free 30-minute call.",
+      "footerBadges": ["BAA on signing", "9-node N8N spec", "Yours to keep"]
+    },
+    "gptChatbot": {
+      "fig": "FIG. 06-01",
+      "category": "AI",
+      "titlePart1": "GPT Chatbot",
+      "titleSep": " · ",
+      "titleItalic": "Lead Capture.",
+      "lede": "A scoped GPT assistant that qualifies leads, routes by intent, and books — ",
+      "ledeEm": "without ever inventing a clinical answer",
+      "ledeRest": ".",
+      "stats": {
+        "s1": { "value": "10 nodes", "label": "N8N workflow" },
+        "s2": { "value": "~75 min", "label": "Setup time" },
+        "s3": { "value": "24/7", "label": "Lead capture" },
+        "s4": { "value": "PHI-free", "label": "No patient data" }
+      },
+      "shiftTitle": "From silent inboxes to qualified leads.",
+      "beforeTitle": "The website goes quiet at 5pm.",
+      "before": [
+        "Leads land at midnight, replied to next afternoon.",
+        "Inquiry forms with no real follow-through.",
+        "Off-brand auto-replies that go nowhere.",
+        "Risk of a chatbot inventing a clinical answer."
+      ],
+      "afterTitle": "A scoped assistant answers, every hour.",
+      "after": [
+        "Visitor greeted within seconds, any hour.",
+        "Scoped to your FAQs — no clinical guesses, ever.",
+        "Qualified leads land in your CRM, ready to call.",
+        "Bookings drop into the calendar without you."
+      ],
+      "howTitle": "Ten nodes, guard-railed end-to-end.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Chat Opened",
+          "copy": "Trigger fires the moment the widget receives its first message."
+        },
+        {
+          "n": "02",
+          "label": "Greet & Capture",
+          "copy": "A warm, on-brand opener asks what the visitor came for."
+        },
+        {
+          "n": "03",
+          "label": "GPT Classify Intent",
+          "copy": "Intent is parsed: booking, general question, clinical, or other."
+        },
+        {
+          "n": "04",
+          "label": "Knowledge Guardrail",
+          "copy": "Responses are pinned to your FAQ — clinical questions escalate."
+        },
+        {
+          "n": "05",
+          "label": "Qualified Lead?",
+          "copy": "IF node splits the flow on intent and a short qualification check."
+        },
+        {
+          "n": "06",
+          "label": "Collect Contact",
+          "copy": "Name, email, and best number — captured in two short turns."
+        },
+        {
+          "n": "07",
+          "label": "Check Availability",
+          "copy": "Live read of the scheduler returns the next three open slots."
+        },
+        {
+          "n": "08",
+          "label": "Book Appointment",
+          "copy": "Visitor picks a slot and the calendar event is created."
+        },
+        {
+          "n": "09",
+          "label": "Push to CRM",
+          "copy": "Lead record lands in your CRM with the full transcript attached."
+        },
+        {
+          "n": "10",
+          "label": "Notify & Confirm",
+          "copy": "Staff alert fires; patient gets a branded confirmation in seconds."
+        }
+      ],
+      "whatTitle": "Four moves, every lead qualified.",
+      "outcomes": [
+        {
+          "label": "24/7 lead capture",
+          "copy": "Inquiries handled in real time — weekends and after-hours included."
+        },
+        {
+          "label": "Scoped, safe answers",
+          "copy": "The bot only speaks from your sanctioned content — never invents."
+        },
+        {
+          "label": "Auto-booked visits",
+          "copy": "Qualified leads pick a slot inside the chat, no callback needed."
+        },
+        {
+          "label": "CRM-fed pipeline",
+          "copy": "Every conversation lands tagged, transcribed, and ready to action."
+        }
+      ],
+      "setupTitle": "Live before lunch.",
+      "setupIntro": "Three steps, ~75 minutes total. No code. Your GPT key, knowledge base, scheduler, and CRM all stay exactly where they are.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Import the spec",
+          "copy": "Drop the N8N JSON into your instance — every node is labelled.",
+          "minutes": "10 min"
+        },
+        {
+          "n": "02",
+          "title": "Configure & connect",
+          "copy": "GPT key, knowledge base, scheduler, and CRM — credentials and prompts.",
+          "minutes": "45 min"
+        },
+        {
+          "n": "03",
+          "title": "Pilot & switch on",
+          "copy": "Soft-launch on a hidden page, then drop the widget on your homepage.",
+          "minutes": "20 min"
+        }
+      ],
+      "complianceTitle": "PHI-free — scoped to public-facing Q&A.",
+      "complianceText": "Clinical questions auto-escalate to a human and the bot never reads from the chart. Safe to deploy without a BAA.",
+      "complianceCta": "See the policy",
+      "ctaQuote": "Qualifies while you sleep.",
+      "ctaText": "Drop the workflow into your N8N instance this afternoon. We'll wire up the GPT scope, scheduler, and CRM on a free 30-minute call.",
+      "footerBadges": ["PHI-free deploy", "10-node N8N spec", "Yours to keep"]
+    },
+    "socialAutoPoster": {
+      "fig": "FIG. 07",
+      "category": "SOCIAL",
+      "titlePart1": "Daily AI",
+      "titleSep": " · ",
+      "titleItalic": "Social Auto-Poster.",
+      "lede": "A daily content drip across LinkedIn, Instagram, and X — sourced from your blog, captioned on-brand, ",
+      "ledeEm": "scheduled around your calendar",
+      "ledeRest": ".",
+      "stats": {
+        "s1": { "value": "9 nodes", "label": "N8N workflow" },
+        "s2": { "value": "~50 min", "label": "Setup time" },
+        "s3": { "value": "3 hrs", "label": "Creative saved/wk" },
+        "s4": { "value": "PHI-free", "label": "No patient data" }
+      },
+      "shiftTitle": "From sporadic posts to a daily drip.",
+      "beforeTitle": "Content cadence runs on willpower.",
+      "before": [
+        "Posting cadence drifts whenever the week gets busy.",
+        "Manual reformatting for every channel, every time.",
+        "Off-brand captions slip through under deadline.",
+        "No clean record of what shipped, or when."
+      ],
+      "afterTitle": "Content cadence runs on schedule.",
+      "after": [
+        "A daily drip across LinkedIn, Instagram, and X.",
+        "Captions on-brand, sourced from your own content.",
+        "Brand voice check before anything publishes.",
+        "Every post logged with engagement, in one report."
+      ],
+      "howTitle": "Nine nodes — content in, posts out.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Daily Cron Trigger",
+          "copy": "Fires once a day at the time your audience is most active."
+        },
+        {
+          "n": "02",
+          "label": "Pull Source Content",
+          "copy": "Latest blog post or RSS item is pulled in as the day's anchor."
+        },
+        {
+          "n": "03",
+          "label": "GPT Generate Caption",
+          "copy": "On-brand captions written in your voice, tuned per platform."
+        },
+        {
+          "n": "04",
+          "label": "Generate / Select Image",
+          "copy": "A matching image is generated or selected from your library."
+        },
+        {
+          "n": "05",
+          "label": "Brand Voice Check",
+          "copy": "Tone, claims, and banned phrases are screened before publish."
+        },
+        {
+          "n": "06",
+          "label": "Format Per Platform",
+          "copy": "LinkedIn long-form, IG square, X short — formatted automatically."
+        },
+        {
+          "n": "07",
+          "label": "Check Calendar",
+          "copy": "Workflow checks your content calendar to avoid double-posts."
+        },
+        {
+          "n": "08",
+          "label": "Schedule & Post",
+          "copy": "Posts go live, or land scheduled in your social tool of choice."
+        },
+        {
+          "n": "09",
+          "label": "Log Post & Report",
+          "copy": "Every shipment is logged — weekly digest lands in your inbox."
+        }
+      ],
+      "whatTitle": "Four habits, on automatic.",
+      "outcomes": [
+        {
+          "label": "Daily multi-channel posts",
+          "copy": "LinkedIn, Instagram, and X kept fed without a manual scramble."
+        },
+        {
+          "label": "On-brand, every time",
+          "copy": "Captions sourced from your own content — no generic filler."
+        },
+        {
+          "label": "No calendar clashes",
+          "copy": "Workflow respects your existing content plan and campaigns."
+        },
+        {
+          "label": "Reporting baked in",
+          "copy": "Weekly digest shows what shipped, where, and how it performed."
+        }
+      ],
+      "setupTitle": "Live in under an hour.",
+      "setupIntro": "Three steps, ~50 minutes total. No code. Your blog, GPT key, social tools, and brand guide stay exactly where they are.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Import the spec",
+          "copy": "Drop the N8N JSON into your instance — every node is labelled.",
+          "minutes": "10 min"
+        },
+        {
+          "n": "02",
+          "title": "Connect channels",
+          "copy": "Content source, GPT key, social tools, and brand guide — all in.",
+          "minutes": "25 min"
+        },
+        {
+          "n": "03",
+          "title": "Pilot & switch on",
+          "copy": "Run a 48-hour draft-only pass, then flip publishing live.",
+          "minutes": "15 min"
+        }
+      ],
+      "complianceTitle": "PHI-free — content only, no patient data.",
+      "complianceText": "The workflow reads your public blog and ships public posts. No chart, no scheduler, no patient identifiers. Safe to deploy without a BAA.",
+      "complianceCta": "See the policy",
+      "ctaQuote": "Set once, ship daily.",
+      "ctaText": "Drop the workflow into your N8N instance this afternoon. We'll wire up your blog, GPT key, and social channels on a free 30-minute call.",
+      "footerBadges": ["PHI-free deploy", "9-node N8N spec", "Yours to keep"]
+    }
+  }
+}

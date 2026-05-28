@@ -1,0 +1,253 @@
+{
+  "seo": {
+    "title": "Blog de marketing en salud | TheNextGen",
+    "description": "Tácticas, análisis de casos y frameworks para hacer crecer prácticas de salud. Actualizado cada semana.",
+    "indexTitle": "Blog de marketing en salud — Tácticas escritas por practicantes",
+    "indexDescription": "Insights de marketing en salud probados en campo, actualizaciones de cumplimiento HIPAA, tácticas de adquisición de pacientes y casos de estudio — escritos por el equipo de TheNextGen."
+  },
+  "hero": {
+    "eyebrow": "Blog",
+    "title": "Marketing en salud — tácticas que se ejecutan",
+    "lede": "Resumen del profesional. Actualizado semanalmente con los playbooks que estamos corriendo ahora mismo.",
+    "mastEyebrow": "El resumen del profesional",
+    "mastTitle1": "Marketing",
+    "mastTitleItalic": "en salud,",
+    "mastTitle2": "escrito por",
+    "mastTitleAccent": "practicantes",
+    "mastLedeStrong": "Tácticas probadas en campo, no teoría.",
+    "mastLede": "Estrategias de adquisición de pacientes, actualizaciones de HIPAA y casos de crecimiento del equipo que ha ayudado a más de 200 prácticas en Texas a escalar.",
+    "trendingLabel": "Temas tendencia",
+    "featuredBadge": "Destacado",
+    "featuredCat": "Estrategia de crecimiento",
+    "featuredTitle": "Los nuevos benchmarks de Costo Por Adquisición para salud en 2026.",
+    "featuredExcerpt": "Después de analizar más de $10M en inversión publicitaria en salud a través de más de 200 prácticas en Texas, recopilamos los rangos reales de CPA — más las 4 palancas que consistentemente lo reducen.",
+    "featuredAuthor": "Sarah Chen",
+    "featuredMeta1": "28 de abril de 2026",
+    "featuredMeta2": "Lectura de 12 min",
+    "latestTitle": "Lo último",
+    "seeAll": "Ver todo"
+  },
+  "trending": {
+    "localSeo": "SEO local",
+    "hipaaTracking": "Tracking HIPAA",
+    "cpaBenchmarks": "Benchmarks de CPA",
+    "aiIntake": "Intake con IA",
+    "medspaLtv": "LTV de MedSpa",
+    "reviews": "Reseñas"
+  },
+  "side": {
+    "hipaa": {
+      "cat": "Cumplimiento",
+      "title": "Tracking de Google Ads compatible con HIPAA en 2026.",
+      "meta": "22 abr 2026 · Lectura de 8 min"
+    },
+    "maps": {
+      "cat": "SEO local",
+      "title": "7 señales de Google Business Profile que mueven el ranking en mapas.",
+      "meta": "10 abr 2026 · Lectura de 9 min"
+    },
+    "ads": {
+      "cat": "Anuncios pagados",
+      "title": "Por qué tu CPA de urgent care probablemente esté un 30% más alto.",
+      "meta": "18 abr 2026 · Lectura de 6 min"
+    }
+  },
+  "latest": {
+    "aiChatbot": {
+      "title": "Intake de pacientes con IA: qué funciona, qué rompe el cumplimiento.",
+      "meta": "6 abr · 11 min"
+    },
+    "medspa": {
+      "title": "LTV de MedSpa: convertir faciales de $300 en pacientes de $4K.",
+      "meta": "2 abr · 7 min"
+    },
+    "reviews": {
+      "title": "Automatizar reseñas de Google sin violar HIPAA.",
+      "meta": "14 abr · 5 min"
+    },
+    "urgentCare": {
+      "title": "Marketing de tiempos de espera: la ventaja del urgent care que nadie usa.",
+      "meta": "28 mar · 6 min"
+    },
+    "analytics": {
+      "title": "El dashboard de marketing en salud que toda clínica debería correr.",
+      "meta": "24 mar · 8 min"
+    }
+  },
+  "list": {
+    "allCategories": "Todas",
+    "noPosts": "Aún no hay publicaciones en esta categoría.",
+    "readArticle": "Leer artículo",
+    "minRead": "Lectura de {{minutes}} min",
+    "publishedOn": "Publicado el {{date}}",
+    "categoryLabel": "Categoría",
+    "searchPlaceholder": "Buscar artículos...",
+    "searchLabel": "Buscar artículos",
+    "emptyResults": "Ningún artículo coincide con tu búsqueda. Prueba otra palabra clave o categoría.",
+    "filterLabel": "Filtrar artículos",
+    "allArticlesLabel": "Todos los artículos",
+    "readMore": "Leer más",
+    "paginationLabel": "Paginación",
+    "prevPage": "Página anterior",
+    "nextPage": "Página siguiente"
+  },
+  "post": {
+    "backToBlog": "Volver al blog",
+    "publishedOn": "Publicado el {{date}}",
+    "byAuthor": "Por {{author}}",
+    "shareArticle": "Compartir este artículo",
+    "relatedTitle": "Más del blog",
+    "ctaTitle": "¿Te gustó lo que leíste?",
+    "ctaSubtitle": "Recibe el resumen del profesional cada semana.",
+    "ctaButton": "Suscribirme",
+    "by": "Por",
+    "editorial": "Editorial",
+    "storyBrief": "Resumen del artículo",
+    "keyTakeawaysSuffix": "puntos clave abajo",
+    "notFound": {
+      "pillText": "404 · Artículo no encontrado",
+      "title": "No pudimos encontrar ese artículo.",
+      "lede": "El artículo que intentaste abrir puede haberse movido o retirado. Explora la biblioteca completa abajo.",
+      "backToAll": "Volver a todos los artículos",
+      "crumb": "Artículo no encontrado"
+    }
+  },
+  "categories": {
+    "all": "Todas",
+    "seo": "SEO local",
+    "paid": "Anuncios pagados",
+    "compliance": "HIPAA",
+    "automation": "Automatización e IA",
+    "reputation": "Reputación",
+    "medspa": "MedSpa",
+    "urgent": "Urgent Care",
+    "fsed": "FSED",
+    "analytics": "Analítica",
+    "branding": "Branding",
+    "content": "Contenido",
+    "strategy": "Estrategia"
+  },
+  "categoryLabels": {
+    "compliance": "Cumplimiento HIPAA",
+    "paid": "Anuncios pagados",
+    "reputation": "Reputación",
+    "seo": "SEO local",
+    "automation": "Automatización e IA",
+    "medspa": "Marketing para MedSpa",
+    "urgent": "Urgent Care",
+    "analytics": "Analítica",
+    "fsed": "FSED"
+  },
+  "editorialProcess": {
+    "eyebrow": "Proceso editorial",
+    "title": "Cómo cada artículo llega a tu bandeja de entrada.",
+    "sub": "Más allá de publicar tácticas, construimos cada pieza alrededor de trabajo real de clientes — desde el insight crudo hasta contenido revisado por pares, validado para HIPAA y probado por practicantes.",
+    "rangeStart": "Abr 2026",
+    "rangeEnd": "May 2026",
+    "expandLabel": "Expandir paso",
+    "steps": {
+      "research": {
+        "duration": "1 semana",
+        "title": "Investigación",
+        "text": "Minamos nuestros más de $10M en datos de inversión publicitaria en salud, dashboards de clientes y hallazgos de auditorías HIPAA para encontrar los patrones que la mayoría de las clínicas pasan por alto — antes de escribir una sola palabra."
+      },
+      "draft": {
+        "duration": "2 semanas",
+        "title": "Borrador y visuales",
+        "text": "Un practicante senior redacta el artículo junto a nuestro equipo de diseño — diagramas limpios, capturas reales y visuales consistentes con la marca que hacen que las tácticas complejas sean fáciles de escanear."
+      },
+      "review": {
+        "duration": "1–2 días",
+        "title": "Revisión de cumplimiento",
+        "text": "Nuestra Jefa de Cumplimiento revisa cada artículo línea por línea para garantizar precisión HIPAA. Probamos cada táctica recomendada contra funnels reales de clientes antes de publicar — nada sin probar se publica."
+      },
+      "publish": {
+        "duration": "1–2 días",
+        "title": "Publicación y distribución",
+        "text": "Envolvemos cada artículo con una portada pulida, lo incrustamos en nuestro newsletter y notificamos a los más de 4,000 gerentes de práctica en salud que leen cada martes por la mañana — con atribución completa de fuentes."
+      }
+    }
+  },
+  "newsletter": {
+    "eyebrow": "Suscríbete",
+    "title": "Recibe tácticas de crecimiento en salud en tu bandeja.",
+    "text": "Una táctica de adquisición de pacientes probada en campo, una actualización de HIPAA o un caso de estudio cada martes por la mañana. Leído por más de 4,000 gerentes de práctica en Texas. Sin relleno, sin spam.",
+    "placeholder": "Ingresa tu email de trabajo",
+    "submit": "Suscribirme",
+    "disclaimer": "Cancela cuando quieras. Nunca compartimos correos.",
+    "invalidEmail": "Por favor ingresa un email válido.",
+    "success": "¡Gracias! Pronto recibirás novedades."
+  },
+  "posts": {
+    "hipaa-tracking": {
+      "title": "Cómo configurar tracking de Google Ads compatible con HIPAA en 2026.",
+      "excerpt": "Una guía paso a paso para tracking del lado del servidor, proveedores listos para BAA y los flujos de consentimiento que mantienen limpios tus datos de conversión sin exponer PHI.",
+      "metaDescription": "Un playbook práctico para tracking de Google Ads compatible con HIPAA: tagging del lado del servidor, proveedores listos para BAA y flujos de consentimiento que mantienen limpios los datos de conversión.",
+      "catLabel": "Cumplimiento HIPAA",
+      "authorRole": "Estratega Senior de Cumplimiento"
+    },
+    "ads-cost": {
+      "title": "Por qué tu CPA de urgent care probablemente esté un 30% más alto.",
+      "excerpt": "Los 4 errores de puja más comunes que vemos en cuentas de Google Ads de urgent care — y el checklist de auditoría que usamos para identificarlos en las primeras 24 horas.",
+      "metaDescription": "Cuatro errores frecuentes de puja que inflan el CPA de Google Ads en urgent care — más el checklist de auditoría de 24 horas para encontrarlos y corregirlos rápido.",
+      "catLabel": "Anuncios pagados",
+      "authorRole": "Director de Anuncios Pagados"
+    },
+    "reviews": {
+      "title": "Automatizar reseñas de Google sin violar HIPAA.",
+      "excerpt": "Los testimonios de pacientes son 10x más poderosos que el copy publicitario — pero la mayoría de las herramientas de automatización de reseñas rompen HIPAA en silencio. Aquí está el stack que usamos en su lugar.",
+      "metaDescription": "Construye un motor de reseñas de pacientes compatible: solo opt-in, sin PHI en mensajes y un stack de herramientas cubierto por BAA que mantiene las reseñas de Google fluyendo de forma segura.",
+      "catLabel": "Reputación",
+      "authorRole": "Líder de Reputación"
+    },
+    "maps-rank": {
+      "title": "Las 7 señales de Google Business Profile que mueven el ranking en mapas.",
+      "excerpt": "Después de gestionar más de 200 Google Business Profiles en Texas, estas son las 7 señales que realmente correlacionan con la mejora del ranking en el local-pack — ordenadas por palanca.",
+      "metaDescription": "Las siete señales de Google Business Profile que verdaderamente mueven el ranking en el local-pack — basadas en más de 200 GBPs de salud y ordenadas por impacto real.",
+      "catLabel": "SEO local",
+      "authorRole": "Director de Anuncios Pagados"
+    },
+    "ai-chatbot": {
+      "title": "Intake de pacientes con IA: qué funciona, qué rompe el cumplimiento.",
+      "excerpt": "Los bots de agendamiento e intake con IA pueden reducir la carga de la recepción en un 40%. También pueden filtrar PHI de 6 formas distintas. Aquí está la arquitectura que hace lo primero sin lo segundo.",
+      "metaDescription": "Una arquitectura práctica para intake de pacientes con IA compatible con HIPAA — qué incluyen los bots compatibles, qué excluyen y los seis vectores de filtración a evitar por diseño.",
+      "catLabel": "Automatización e IA",
+      "authorRole": "Arquitecto de Automatización"
+    },
+    "medspa": {
+      "title": "El playbook de LTV para MedSpa: convertir faciales de $300 en pacientes de $4K.",
+      "excerpt": "El marketing de alto LTV para MedSpa no se trata de adquisición más barata — se trata de un mejor recorrido post-compra. Aquí está el stack de email + SMS + remarketing que desplegamos desde el día uno.",
+      "metaDescription": "Un playbook de LTV para MedSpa: el recorrido de email, SMS y remarketing que convierte un primer facial de $300 en una relación de paciente de varios miles de dólares.",
+      "catLabel": "Marketing para MedSpa",
+      "authorRole": "Director de Anuncios Pagados"
+    },
+    "urgent-care": {
+      "title": "Marketing de tiempos de espera: la ventaja del urgent care que nadie usa.",
+      "excerpt": "Por qué publicar tiempos de espera en tiempo real convierte un 23% mejor que promover \"conveniencia\" o \"walk-in welcome\" — y el stack técnico para hacerlo de forma segura.",
+      "metaDescription": "La publicación de tiempos de espera en tiempo real convierte a los prospectos de urgent care un 23% mejor que el copy genérico de \"walk-in welcome\". Aquí está el stack seguro y escalable para hacerlo.",
+      "catLabel": "Urgent Care",
+      "authorRole": "Líder de Reputación"
+    },
+    "analytics": {
+      "title": "El dashboard de marketing en salud que toda clínica debería correr.",
+      "excerpt": "CPA, ratio cita-a-presentación, LTV, ROI por canal — las 12 métricas que ponemos en el dashboard en tiempo real de cada cliente, más las alertas que detectan problemas antes de que afecten los ingresos.",
+      "metaDescription": "El dashboard de marketing en salud de 12 métricas que desplegamos en cada clínica — CPA, ratio de presentación, LTV, ROI por canal — más las alertas que detectan fugas de ingresos temprano.",
+      "catLabel": "Analítica",
+      "authorRole": "Arquitecto de Automatización"
+    },
+    "fsed-trauma": {
+      "title": "Marketing para ER independiente: pujas de keywords de alta agudeza bien hechas.",
+      "excerpt": "\"Chest pain near me\" cuesta $48 por clic. \"ER near me\" cuesta $12. Aquí está el framework de segmentación de keywords que captura la intención correcta sin quemar presupuesto en curiosos.",
+      "metaDescription": "Un framework de segmentación de keywords para marketing de ER independiente que captura intención real de alta agudeza sin quemar presupuesto en clics de baja conversión.",
+      "catLabel": "FSED",
+      "authorRole": "Líder de Reputación"
+    }
+  },
+  "articles": {
+    "ctaCard": {
+      "calendarSrLabel": "Fecha",
+      "clockSrLabel": "Tiempo de lectura"
+    },
+    "page": "Página {{page}}"
+  }
+}

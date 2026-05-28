@@ -1,0 +1,273 @@
+{
+  "seo": {
+    "title": "Healthcare Marketing Pricing — Retainer Tiers from $5K/Month",
+    "description": "Transparent monthly retainers for healthcare marketing — Starter $5K, Growth $10K, Scale custom. No ad-spend markup, no setup fees, month-to-month after a 90-day setup."
+  },
+  "hero": {
+    "eyebrow": "Transparent Healthcare Pricing",
+    "srH1": "Healthcare Marketing Pricing — Transparent Retainer Tiers from $5,000 per Month",
+    "breadcrumb": "Pricing"
+  },
+  "tiers": {
+    "eyebrow": "Choose Your Retainer",
+    "title": "Three tiers. One philosophy: outcomes over hours.",
+    "subtitle": "All retainers are HIPAA-compliant by default with a 30-day launch sprint. Choose the tier that matches your scale and growth velocity.",
+    "bestForLabel": "Best For",
+    "starter": {
+      "name": "Starter Care",
+      "amount": "$5,000",
+      "period": "/ month",
+      "tagline": "Perfect for elective procedures and high-research patient journeys.",
+      "bestFor": "Single-location clinics ready to build their digital foundation.",
+      "ctaLabel": "Get Started",
+      "includesLabel": "Package Includes",
+      "includes": [
+        "Advanced SEO (Technical · On-Page · Local · AEO)",
+        "Google My Business Management",
+        "Google Ads (Search + PMax) & Meta Campaigns",
+        "AI Chatbot & Call Tracking Setup",
+        "Monthly Strategy & Performance Reports",
+        "Content Creation & Social Media"
+      ],
+      "notLabel": "Not Included",
+      "notIncluded": [
+        "Advanced AI call handling",
+        "Multi-location campaigns",
+        "Custom software development"
+      ]
+    },
+    "growth": {
+      "badge": "Most Popular",
+      "name": "Growth Pro",
+      "amount": "$10,000",
+      "period": "/ month",
+      "tagline": "High-acuity, rapid-response systems for immediate-need facilities.",
+      "bestFor": "Clinics ready to scale acquisition fast.",
+      "ctaLabel": "Get Started",
+      "includesLabel": "Everything in Starter, plus",
+      "includes": [
+        "Full-channel Google Ads (Search · PMax · YouTube · LSA)",
+        "Advanced AI Call Handling & Triage",
+        "Real-Time Insurance Verification Bots",
+        "Priority Support & Rapid SLA Response",
+        "Multi-Location Campaign Orchestration",
+        "24/7 Performance Monitoring",
+        "Dedicated Account Manager"
+      ],
+      "notLabel": "Not Included",
+      "notIncluded": [
+        "Custom software development",
+        "Multi-state network management"
+      ]
+    },
+    "scale": {
+      "name": "Scale Elite",
+      "amount": "Custom",
+      "tagline": "Comprehensive growth engine for large healthcare networks.",
+      "bestFor": "Multi-location teams needing advanced automation.",
+      "ctaLabel": "Get Started",
+      "includesLabel": "Everything in Pro, plus",
+      "includes": [
+        "Custom Software Development",
+        "HIPAA-Compliant API Integrations",
+        "Multi-State Network Management",
+        "Advanced Analytics & BI Dashboards",
+        "Custom Automation Workflows",
+        "White-Glove Onboarding",
+        "Dedicated Development Team",
+        "Enterprise SLA & Support"
+      ],
+      "notesLabel": "Pricing Notes",
+      "notes": [
+        "Custom-scoped per network size",
+        "Dedicated implementation lead"
+      ]
+    }
+  },
+  "comparison": {
+    "eyebrow": "Feature Comparison",
+    "title": "See exactly what each tier includes.",
+    "subtitle": "Side-by-side breakdown across all features — from foundational SEO to enterprise-grade infrastructure and dedicated development teams.",
+    "featureHeader": "Feature",
+    "starterName": "Starter Care",
+    "starterPrice": "$5,000 / mo",
+    "growthName": "Growth Pro",
+    "growthPrice": "$10,000 / mo",
+    "scaleName": "Scale Elite",
+    "scalePrice": "Custom",
+    "groups": {
+      "marketing": {
+        "label": "Marketing & Acquisition",
+        "rows": {
+          "seo": "SEO Services",
+          "gmb": "Google My Business Management",
+          "googleAds": "Google Ads Management",
+          "metaAds": "Meta / Facebook Ads",
+          "social": "Social Media Content",
+          "content": "Content & Copywriting"
+        }
+      },
+      "automation": {
+        "label": "Automation & Operations",
+        "rows": {
+          "chatbot": "AI Chatbot Setup",
+          "reports": "Monthly Strategy Reports",
+          "callHandling": "Advanced AI Call Handling",
+          "insurance": "Insurance Verification Bots"
+        }
+      },
+      "scaleSupport": {
+        "label": "Scale & Support",
+        "rows": {
+          "multiLocation": "Multi-Location Campaigns",
+          "monitoring": "24/7 Performance Monitoring",
+          "accountManager": "Dedicated Account Manager",
+          "sla": "Priority SLA Response"
+        }
+      },
+      "enterprise": {
+        "label": "Enterprise Tier",
+        "rows": {
+          "customDev": "Custom Software Development",
+          "apis": "HIPAA-Compliant API Integrations",
+          "multiState": "Multi-State Network Management",
+          "bi": "Advanced BI Dashboards",
+          "devTeam": "Dedicated Development Team",
+          "onboarding": "White-Glove Onboarding"
+        }
+      }
+    }
+  },
+  "includes": {
+    "eyebrow": "What Your Investment Includes",
+    "title": "Not just services. A full-stack growth team.",
+    "subtitle": "Every retainer integrates an entire department of medical growth experts into your clinic — with HIPAA infrastructure and onboarding included.",
+    "cards": {
+      "team": {
+        "tag": "Full-Stack Team",
+        "title": "An entire growth department.",
+        "text": "Dedicated Ads Manager, SEO Strategist, Medical Content Writer, and Social Media Manager — not isolated freelancers.",
+        "bullets": [
+          "Senior practitioners only",
+          "Healthcare-fluent from day one",
+          "Real analytics infrastructure"
+        ]
+      },
+      "launch": {
+        "tag": "30-Day Launch Sprint",
+        "title": "Tangible results in month one.",
+        "text": "Technical audit, CRM/EHR integration, HIPAA-compliant call tracking, AI chatbot deployment, and first campaign launches — all in 30 days.",
+        "bullets": [
+          "Structured onboarding flow",
+          "Operational improvements visible",
+          "First wave of campaigns live"
+        ]
+      },
+      "hipaa": {
+        "tag": "HIPAA Infrastructure",
+        "title": "Compliance built in, not billed extra.",
+        "text": "BAAs signed at signup, encrypted servers, secure data routing — full HIPAA compliance with zero hidden fees.",
+        "bullets": [
+          "BAAs included by default",
+          "Encrypted data infrastructure",
+          "See case studies"
+        ]
+      }
+    }
+  },
+  "roi": {
+    "eyebrow": "Quantifying Automation ROI",
+    "title": "Our retainer pays for itself.",
+    "p1Before": "Don't evaluate just the cost of SEO or PPC — factor in the operational savings from our AI automation suite. ",
+    "p1Bold": "Front-desk turnover, missed calls, manual insurance verification, intake transcription",
+    "p1After": " — our Clinic Growth OS eliminates these inefficiencies.",
+    "p2Before": "By saving 15+ staff hours weekly and recovering tens of thousands in lost revenue from missed appointments, traditional SEO/PPC agencies become ",
+    "p2Bold": "fundamentally obsolete",
+    "p2After": ".",
+    "stats": {
+      "hours": {
+        "label": "Hours Saved Weekly",
+        "text": "Per staff member via automated intake."
+      },
+      "roi": {
+        "label": "Net ROI",
+        "text": "Average return from AI scheduling assistants."
+      },
+      "turnover": {
+        "num": "Reduced",
+        "label": "Front-Desk Turnover",
+        "text": "Less burnout from repetitive, high-stress tasks."
+      },
+      "claims": {
+        "num": "Higher",
+        "label": "Clean Claims Rate",
+        "text": "Massive lift from digital insurance verification."
+      }
+    }
+  },
+  "faqs": {
+    "eyebrow": "Pricing, Scope & Terms",
+    "titleStart": "Pricing",
+    "titleAccent": "Questions",
+    "titleEnd": ".",
+    "intro": "What the retainer actually covers, how ad spend works, what you're committing to, and when the math typically pays back — written for the people signing the cheque.",
+    "still": {
+      "title": "Not sure which tier fits?",
+      "p1": "Send us your current ad spend, patient LTV, and the one number you'd most like to move — we'll recommend Starter, Growth, or Scale on the call. No template proposals.",
+      "p2": "One 30-minute call. You leave with a tier recommendation, an ad-spend range, and a 90-day revenue target.",
+      "cta": "Get a Tier Recommendation"
+    },
+    "items": {
+      "included": {
+        "q": "What is actually included in the monthly retainer?",
+        "aBefore": "Every tier covers the full growth stack we're running on your behalf — ",
+        "aBold1": "strategy, local SEO, Google Business Profile management, paid media management on Google & Meta, content production, server-side conversion tracking, monthly reporting, and a dedicated point of contact",
+        "aAfter": ". Higher tiers add advanced AI call handling, multi-location orchestration, and 24/7 monitoring. Ad spend, custom software builds, and one-off website rebuilds are scoped separately."
+      },
+      "adSpend": {
+        "q": "Is ad spend included in the retainer, or do I pay Google & Meta separately?",
+        "aBold1": "Ad spend is separate.",
+        "aMid": " The retainer covers our team time — strategy, creative, campaign builds, optimisation, tracking, and reporting. Ad budget is billed directly to your card by Google and Meta so you keep full ownership of the accounts, the audit trail, and the historical data. Typical starting ad budgets run ",
+        "aBold2": "$3K–$15K/month",
+        "aAfter": " depending on tier, market, and service lines, and we'll recommend a number that's defensible against your patient-LTV math."
+      },
+      "contract": {
+        "q": "What is the minimum contract length and can I cancel?",
+        "aBefore": "We ask for a ",
+        "aBold1": "90-day initial commitment",
+        "aMid": " — SEO, review velocity, and audience-warming work need at least that to compound and prove out. After day 90 you're on a ",
+        "aBold2": "30-day rolling agreement",
+        "aAfter": ", cancel anytime with written notice. We hand back full ownership of ad accounts, GBP, website, and every asset we built. No clawbacks, no \"agency lock\" contracts."
+      },
+      "scaleElite": {
+        "q": "How is Scale Elite priced — what makes it \"custom\"?",
+        "aBefore": "Scale Elite is for ",
+        "aBold1": "multi-location groups, DSOs, and healthcare networks",
+        "aMid": " where the marketing engine has to coordinate across sites, payer mixes, and service lines. Pricing is scoped to location count, ad-spend tier, and whether the engagement includes ",
+        "aBold2": "custom software, EHR integrations, AI triage builds, or multi-state compliance work",
+        "aMid2": ". Most Scale Elite retainers land between ",
+        "aBold3": "$18K and $45K/month",
+        "aAfter": "; we share an exact number after a 60-minute scoping call."
+      },
+      "roi": {
+        "q": "When should I expect to see ROI, and what does payback look like?",
+        "aBefore": "Local Pack and GBP wins typically show in ",
+        "aBold1": "30–60 days",
+        "aMid": ". Paid media bridges the gap from week one so booked appointments start moving immediately. Most clients cross retainer break-even on net-new patient revenue between ",
+        "aBold2": "month 2 and month 4",
+        "aMid2": "; SEO and content compound through month 6+. We model the LTV-to-spend math during onboarding and put a ",
+        "aBold3": "specific revenue target on every quarter",
+        "aAfter": " — if we miss the target two quarters in a row, the next quarter is on us."
+      }
+    }
+  },
+  "cta": {
+    "eyebrow": "Ready to Scale",
+    "titleStart": "Let's build your",
+    "titleEm": "patient pipeline",
+    "titleEnd": ".",
+    "text": "Get a free 30-minute consultation with a senior practitioner. We'll audit your current funnel, recommend the right tier for your scale, and outline a custom roadmap — no commitment.",
+    "primary": "Book a Free Consultation",
+    "secondary": "View Case Studies"
+  }
+}

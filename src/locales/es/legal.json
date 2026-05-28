@@ -1,0 +1,238 @@
+{
+  "common": {
+    "section": "Legal",
+    "onThisPage": "En esta página",
+    "effectiveDate": "Fecha de vigencia",
+    "lastReviewed": "Última revisión",
+    "questions": "Consultas"
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "lastUpdated": "Última actualización: {{date}}",
+    "intro": "TheNextGen Healthcare Marketing valora su privacidad. Esta política describe qué datos recopilamos, cómo los utilizamos y cuáles son sus derechos.",
+    "eyebrow": "Legal · Privacidad",
+    "summary": "Cómo TheNextGen Healthcare Marketing recopila, utiliza y protege la información cuando usted visita este sitio o nos contrata como socio de marketing.",
+    "breadcrumb": "Privacidad",
+    "metaDescription": "Política de privacidad de TheNextGen Healthcare Marketing - qué recopilamos, cómo lo utilizamos, sub-procesadores y sus derechos.",
+    "effectiveDate": "1 de enero de 2026",
+    "reviewedDate": "1 de mayo de 2026",
+    "sections": {
+      "whoWeAre": {
+        "heading": "Quiénes somos",
+        "body": "TheNextGen Healthcare Marketing (“nosotros”, “nos” o “TheNextGen”) opera este sitio web y los servicios de marketing aquí descritos. Somos una agencia con sede en Texas que trabaja exclusivamente con organizaciones del sector salud."
+      },
+      "informationCollected": {
+        "heading": "Información que recopilamos",
+        "intro": "Recopilamos la información mínima necesaria para prestar nuestros servicios:",
+        "items": [
+          "Datos de contacto que usted envía a través de formularios de auditoría, demo o contacto.",
+          "Direcciones de correo electrónico proporcionadas al suscribirse al boletín.",
+          "Registros estándar del servidor (IP, agente de usuario, marca temporal) para fines de seguridad y analítica.",
+          "Analítica de uso agregada y desidentificada mediante herramientas que respetan la privacidad."
+        ],
+        "phiNote": "<strong>No</strong> recopilamos intencionalmente Información de Salud Protegida (PHI). Si nos contacta sobre su práctica, le solicitamos omitir los identificadores de pacientes en el mensaje."
+      },
+      "howWeUseIt": {
+        "heading": "Cómo la utilizamos",
+        "items": [
+          "Para responder consultas y agendar llamadas estratégicas.",
+          "Para enviarle el boletín al que se suscribió.",
+          "Para mejorar el sitio, el contenido y la oferta de servicios.",
+          "Para enviar facturas, contratos y comunicaciones de servicio bajo una colaboración firmada."
+        ],
+        "noSell": "No vendemos, alquilamos ni intercambiamos información personal con terceros."
+      },
+      "cookies": {
+        "heading": "Cookies y analítica",
+        "body": "El sitio utiliza cookies propias para la continuidad de la sesión y un paquete de analítica respetuoso con la privacidad para entender qué contenido resulta útil. Puede deshabilitar las cookies en su navegador sin perder la funcionalidad principal del sitio."
+      },
+      "subProcessors": {
+        "heading": "Sub-procesadores",
+        "intro": "Cuando trabajamos con clientes, podemos apoyarnos en las siguientes categorías de sub-procesadores. Cada uno está cubierto por un acuerdo escrito (y, cuando hay PHI involucrada, por un BAA):",
+        "items": [
+          "Hosting en la nube y CDN (por ejemplo, Vercel, Cloudflare).",
+          "Herramientas de email y CRM (por ejemplo, HubSpot, Postmark).",
+          "Plataformas de analítica y dashboards."
+        ]
+      },
+      "yourRights": {
+        "heading": "Sus derechos",
+        "body": "Puede solicitar acceso, rectificación o eliminación de cualquier información personal que haya proporcionado. Escriba a {{email}} y le responderemos dentro de los 10 días hábiles."
+      },
+      "changes": {
+        "heading": "Cambios en esta política",
+        "body": "Podemos actualizar esta política a medida que evolucionen nuestros servicios. Los cambios sustanciales se señalarán en la parte superior de esta página durante al menos 30 días antes de entrar en vigor."
+      }
+    }
+  },
+  "terms": {
+    "title": "Términos de uso",
+    "lastUpdated": "Última actualización: {{date}}",
+    "intro": "Estos términos regulan el uso del sitio web y los servicios de TheNextGen Healthcare Marketing.",
+    "eyebrow": "Legal · Términos",
+    "summary": "Los términos que aplican cuando usted utiliza este sitio y la relación entre este sitio y las colaboraciones que firmamos con clientes del sector salud.",
+    "breadcrumb": "Términos",
+    "metaDescription": "Términos de uso de TheNextGen Healthcare Marketing - contenido del sitio, uso aceptable, colaboraciones, descargos de responsabilidad y ley aplicable.",
+    "effectiveDate": "1 de enero de 2026",
+    "reviewedDate": "1 de mayo de 2026",
+    "sections": {
+      "acceptance": {
+        "heading": "Aceptación de los términos",
+        "body": "Al utilizar este sitio o contratar a TheNextGen Healthcare Marketing para cualquier servicio, usted acepta estos Términos de uso y cualquier Statement of Work firmado entre nosotros. Si no está de acuerdo, le solicitamos abstenerse de utilizar el sitio o los servicios."
+      },
+      "content": {
+        "heading": "Contenido del sitio y exactitud",
+        "p1": "La información de este sitio es de carácter general. No constituye asesoría legal, médica ni de cumplimiento. Las cifras de los casos de éxito se toman de colaboraciones reales y son precisas a la fecha indicada; los resultados futuros pueden variar.",
+        "p2": "Actualizamos los casos de éxito y los benchmarks de forma continua. Las afirmaciones específicas de desempeño en una colaboración se rigen por el Statement of Work, no por este sitio."
+      },
+      "ip": {
+        "heading": "Propiedad intelectual",
+        "body": "El texto del sitio, las ilustraciones, los diseños y el lenguaje de la metodología están protegidos por derechos de autor de TheNextGen Healthcare Marketing. Puede compartir extractos breves con atribución; le solicitamos no republicar páginas completas sin permiso por escrito."
+      },
+      "acceptableUse": {
+        "heading": "Uso aceptable",
+        "intro": "Usted se compromete a no:",
+        "items": [
+          "Realizar scraping, replicar o reconstruir el sitio o su contenido.",
+          "Enviar Información de Salud Protegida (PHI) a través de los formularios.",
+          "Utilizar cualquier formulario para mensajería comercial no solicitada.",
+          "Intentar eludir controles de seguridad o acceder a áreas no públicas."
+        ]
+      },
+      "engagements": {
+        "heading": "Colaboraciones y entregables",
+        "body": "Cuando firmamos un Statement of Work, los entregables, la facturación, la propiedad de los activos y los términos de terminación se rigen por ese SOW. El SOW prevalece sobre estos Términos del sitio en caso de conflicto."
+      },
+      "disclaimers": {
+        "heading": "Descargos de responsabilidad",
+        "body": "El sitio se proporciona “tal cual”. Renunciamos a las garantías implícitas de comerciabilidad e idoneidad para un fin particular en la medida permitida por la ley. Los resultados de marketing dependen de muchas variables fuera de nuestro control."
+      },
+      "liability": {
+        "heading": "Limitación de responsabilidad",
+        "body": "En la máxima medida permitida por la ley, TheNextGen Healthcare Marketing no será responsable por daños indirectos, incidentales o consecuentes derivados del uso de este sitio. La responsabilidad bajo cualquier Statement of Work firmado se rige por ese documento."
+      },
+      "law": {
+        "heading": "Ley aplicable",
+        "body": "Estos Términos se rigen por las leyes del Estado de Texas, EE. UU. La jurisdicción para cualquier disputa será el Condado de Dallas, Texas, salvo que las partes acuerden por escrito un mecanismo alternativo de resolución de controversias."
+      }
+    }
+  },
+  "accessibility": {
+    "title": "Declaración de accesibilidad",
+    "lastUpdated": "Última actualización: {{date}}",
+    "intro": "Nos comprometemos a que nuestro sitio web sea accesible para todas las personas, incluidas aquellas con discapacidad. Buscamos cumplir con WCAG 2.1 AA.",
+    "eyebrow": "Legal · Accesibilidad",
+    "summary": "Cómo TheNextGen Healthcare Marketing construye, prueba y mantiene experiencias accesibles en este sitio y en cada sitio cliente que entregamos.",
+    "breadcrumb": "Accesibilidad",
+    "metaDescription": "Declaración de accesibilidad de TheNextGen Healthcare Marketing - compromiso con WCAG 2.2 AA, proceso de pruebas y cómo reportar una barrera.",
+    "effectiveDate": "1 de enero de 2026",
+    "reviewedDate": "1 de mayo de 2026",
+    "sections": {
+      "commitment": {
+        "heading": "Nuestro compromiso",
+        "body": "El marketing en salud debe ser legible por cualquier persona que necesite atención. TheNextGen Healthcare Marketing se compromete con la conformidad continua con <strong>WCAG 2.1 Nivel AA</strong> en este sitio y en cada sitio cliente que construimos."
+      },
+      "practice": {
+        "heading": "Qué significa esto en la práctica",
+        "items": [
+          "HTML semántico con un solo H1 por página y un orden lógico de encabezados.",
+          "Navegación, modales y acordeones operables por teclado, con estados de foco visibles.",
+          "Contraste de color de al menos 4.5:1 para el texto del cuerpo y 3:1 para texto grande y componentes de interfaz.",
+          "Texto alternativo descriptivo en cada imagen significativa; las imágenes decorativas se marcan como aria-hidden.",
+          "Respeto a las preferencias de movimiento reducido en animaciones y efectos de scroll.",
+          "Campos de formulario con etiquetas explícitas, mensajes de error y descripciones ARIA."
+        ]
+      },
+      "testing": {
+        "heading": "Pruebas y herramientas",
+        "body": "Ejecutamos verificaciones automatizadas de accesibilidad en cada release con axe-core y Lighthouse, combinadas con auditorías manuales trimestrales de lectores de pantalla usando NVDA y VoiceOver. Los hallazgos se registran de forma pública en nuestro backlog interno con responsables nominados y fechas objetivo."
+      },
+      "limitations": {
+        "heading": "Limitaciones conocidas",
+        "body": "Algunos componentes embebidos de terceros (widgets de mapas, reproductores de video) traen su propio comportamiento de accesibilidad. Elegimos proveedores que publican declaraciones de conformidad; cuando existe una brecha, proporcionamos una alternativa textual."
+      },
+      "report": {
+        "heading": "Reportar una barrera",
+        "body": "Si encuentra una barrera en este sitio o en cualquier sitio que hayamos construido, escriba a {{email}} con la URL de la página y una breve descripción. Respondemos dentro de dos días hábiles y buscamos resolver los problemas críticos dentro de diez."
+      }
+    }
+  },
+  "sitemap": {
+    "title": "Mapa del sitio",
+    "subtitle": "Todas las páginas de TheNextGen Healthcare Marketing.",
+    "seo": {
+      "title": "Mapa del sitio — Todas las páginas de TheNextGen en un solo lugar",
+      "description": "Índice completo del sitio de TheNextGen Healthcare Marketing — servicios, industrias, metodología, automatización, infraestructura y recursos."
+    },
+    "eyebrow": "Mapa del sitio",
+    "heading": "Todas las páginas de TheNextGen, en un solo lugar.",
+    "lede": "El índice completo del sitio - servicios, industrias, metodología, automatización, infraestructura y recursos. Útil para la navegación, compartible con stakeholders e indexado para los motores de búsqueda.",
+    "schemaDescription": "Índice completo del sitio de TheNextGen Healthcare Marketing — servicios, industrias, metodología, automatización, infraestructura y recursos.",
+    "ariaGroups": "Grupos del mapa del sitio",
+    "sections": {
+      "main": "Principal",
+      "services": "Servicios",
+      "industries": "Industrias",
+      "resources": "Recursos",
+      "company": "Empresa",
+      "legal": "Legal",
+      "primary": "Navegación principal",
+      "allServices": "Todos los servicios",
+      "specialtyServices": "Servicios de especialidad",
+      "methodology": "Metodología",
+      "automation": "Automatización",
+      "infrastructure": "Infraestructura"
+    },
+    "links": {
+      "home": "Inicio",
+      "about": "Nosotros",
+      "team": "Equipo",
+      "ourWork": "Nuestro trabajo",
+      "pricing": "Precios",
+      "contact": "Contacto",
+      "freeGrowthAudit": "Auditoría gratuita de crecimiento",
+      "faq": "Preguntas frecuentes",
+      "servicesIndex": "Todos los servicios",
+      "seo": "Servicios SEO",
+      "googleAds": "Google Ads",
+      "googleBusinessProfile": "Perfil de Google Business",
+      "socialMedia": "Marketing en redes sociales",
+      "websiteDesign": "Diseño y desarrollo web",
+      "emailCampaigns": "Campañas de email automatizadas",
+      "contentCopywriting": "Contenido y copywriting",
+      "branding": "Identidad de marca y diseño",
+      "analytics": "Analítica y reportes",
+      "healthcareContent": "Contenido en salud",
+      "metaAds": "Meta Ads",
+      "hipaaCompliance": "Cumplimiento HIPAA",
+      "reviewsReputation": "Reseñas y reputación",
+      "patientExperience": "Experiencia del paciente",
+      "citationBuilding": "Construcción de citaciones",
+      "hyperLocalContent": "Contenido hiperlocal",
+      "aeoSchema": "AEO y schema",
+      "onsiteFieldMarketing": "Marketing en sitio y de campo",
+      "medicalAutomation": "Automatización médica",
+      "industriesIndex": "Todas las industrias",
+      "clinics": "Clínicas y multi-especialidad",
+      "medspas": "MedSpas y estética",
+      "specialtyEmergency": "Especialidad y emergencia",
+      "growthPlan": "Plan de crecimiento",
+      "phase1": "Fase 1 - Diagnóstico",
+      "phase2": "Fase 2 - Construcción",
+      "phase3": "Fase 3 - Escala",
+      "automationOverview": "Resumen de automatización",
+      "automationMoreInfo": "Automatización en profundidad",
+      "automationTemplates": "Plantillas de automatización",
+      "growthTeam": "Estructura del equipo de crecimiento",
+      "complianceProtocol": "Protocolo de cumplimiento",
+      "serviceLevelAgreements": "Acuerdos de nivel de servicio",
+      "blog": "Blog",
+      "caseStudies": "Casos de éxito",
+      "healthcareNews": "Noticias de salud",
+      "privacy": "Política de privacidad",
+      "terms": "Términos de uso",
+      "accessibility": "Declaración de accesibilidad",
+      "sitemap": "Mapa del sitio"
+    }
+  }
+}

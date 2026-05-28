@@ -1,0 +1,540 @@
+{
+  "seo": {
+    "title": "Healthcare Marketing Services | SEO, Ads, Web, Automation",
+    "description": "Full-service healthcare marketing: SEO, Google & Meta Ads, website design, branding, content, automation, and analytics — built for clinics."
+  },
+  "indexSeo": {
+    "title": "Healthcare Marketing Services — SEO, Ads, Websites & Automation",
+    "description": "Full-service healthcare marketing for clinics, medspas, urgent care and ERs. SEO, Google Ads, websites, branding, content, email, and HIPAA-aware automation."
+  },
+  "hero": {
+    "eyebrow": "Our services",
+    "title": "One agency. Every channel that moves appointments.",
+    "lede": "Strategy, paid media, organic search, content, web, automation, and analytics — orchestrated as one growth engine.",
+    "h1Line1": "Healthcare",
+    "h1Line2": "Marketing",
+    "h1Line3": "Services",
+    "ctaPrimary": "Get Your Growth Plan",
+    "ctaSecondary": "View Case Studies",
+    "metaLeft": "HIPAA-Compliant",
+    "metaRight": "Built for Texas",
+    "sub": "We deploy a comprehensive, HIPAA-compliant marketing ecosystem designed to dominate local search, acquire high-acuity patients, and automate your front-desk operations across Texas.",
+    "capabilitiesLabel": "Core Capabilities",
+    "capabilitiesAria": "Service capabilities",
+    "growthOsLine1": "Healthcare",
+    "growthOsLine2": "Growth OS",
+    "orbit": {
+      "seo": { "label": "SEO & Local", "sub": "Rank higher. Get found locally." },
+      "paid": { "label": "Paid Media", "sub": "Targeted campaigns. Measurable." },
+      "branding": { "label": "Branding", "sub": "A memorable brand that converts." },
+      "automation": { "label": "Automation", "sub": "Streamline. Nurture. Scale." },
+      "web": { "label": "Web Design", "sub": "High-performance sites that convert." },
+      "content": { "label": "Content", "sub": "Editorial that educates patients." }
+    },
+    "capabilities": {
+      "seo": "SEO Services",
+      "googleAds": "Google Ads",
+      "metaAds": "Meta Ads",
+      "socialMedia": "Social Media Marketing",
+      "content": "Content & Copywriting",
+      "gbp": "Google Business Profile",
+      "web": "Website Design & Development",
+      "brand": "Brand Identity Design",
+      "print": "Brochure & Print",
+      "strategy": "Strategy & Planning",
+      "field": "Onsite Field Marketing",
+      "analytics": "Analytics & Reporting"
+    }
+  },
+  "pillars": {
+    "eyebrow": "Service pillars",
+    "title": "Four pillars, one outcome",
+    "subtitle": "Visibility, conversion, retention, and intelligence — each pillar reinforces the others.",
+    "customSoftware": {
+      "eyebrow": "Engineering",
+      "title": "Custom Software & Vibe Coding.",
+      "sub": "Tailored systems built on top of your marketing engine - from patient portals to API integrations that move clinical data securely.",
+      "panes": {
+        "portal": {
+          "tag": "Patient Portal",
+          "listTitle": "Custom Patient Portals",
+          "listSub": "Secure portals for intake, records, and telehealth.",
+          "detailTitle": "Custom Patient Portals",
+          "detailText": "Secure, branded portals built around your clinical workflows - intake, records access, prescription requests, and telehealth all in one place. Designed to reduce front-desk load while improving patient experience.",
+          "bullets": [
+            "<strong>HIPAA-aware</strong> data handling and BAA-ready hosting",
+            "<strong>Telehealth</strong> sessions with secure video and chat",
+            "<strong>Digital intake</strong> forms with insurance verification",
+            "<strong>Records & results</strong> accessible on any device"
+          ],
+          "foot": "Build - Week 4–8"
+        },
+        "integrations": {
+          "tag": "Integrations",
+          "listTitle": "Integrations & APIs",
+          "listSub": "EHR, billing, and analytics integrations via secure APIs.",
+          "detailTitle": "Integrations & APIs",
+          "detailText": "Connect your EHR, billing platform, CRM, and analytics stack through secure, well-documented APIs. We engineer reliable data flows that eliminate manual work and keep every system in sync.",
+          "bullets": [
+            "<strong>EHR connectors</strong> for Epic, Cerner, Athena, and more",
+            "<strong>Billing & payments</strong> integrated with claims workflows",
+            "<strong>Analytics piping</strong> from source systems to dashboards",
+            "<strong>Webhook orchestration</strong> with retry & observability"
+          ],
+          "foot": "Integration - Week 6–12"
+        }
+      }
+    },
+    "automation": {
+      "eyebrow": "Automation",
+      "title": "Automation & AI for Clinical Workflows.",
+      "sub": "Intelligent systems that handle routine clinical operations - freeing your staff to focus on patients, not paperwork.",
+      "panes": {
+        "intake": {
+          "tag": "AI Intake",
+          "listTitle": "AI Intake Automation",
+          "listSub": "Secure, conversational intake that verifies insurance and obtains consent.",
+          "detailTitle": "AI Intake Automation",
+          "detailText": "Conversational intake that handles new-patient onboarding 24/7 - verifies insurance eligibility in real time, obtains digital consent, and routes complete records to your EHR before the appointment.",
+          "bullets": [
+            "<strong>Real-time eligibility</strong> checks against major payers",
+            "<strong>Digital consent</strong> with audit-ready signatures",
+            "<strong>Multi-language</strong> support for diverse patient bases",
+            "<strong>EHR sync</strong> - intake lands in the chart, not a PDF"
+          ],
+          "foot": "Live - Day 14–21"
+        },
+        "scheduling": {
+          "tag": "Scheduling",
+          "listTitle": "Automated Scheduling",
+          "listSub": "Real-time availability and reminders to reduce no-shows.",
+          "detailTitle": "Automated Scheduling",
+          "detailText": "Real-time availability surfaces directly on your site, ad landing pages, and Google Business Profile. Smart reminders - SMS, email, and voice - cut no-show rates dramatically without adding staff.",
+          "bullets": [
+            "<strong>Real-time slots</strong> synced to provider calendars",
+            "<strong>Smart reminders</strong> via SMS, email, and voice",
+            "<strong>Self-service rescheduling</strong> reduces phone volume",
+            "<strong>No-show prediction</strong> flags high-risk appointments"
+          ],
+          "foot": "Live - Day 7–14"
+        }
+      }
+    }
+  },
+  "list": {
+    "eyebrow": "Service catalogue",
+    "title": "Every service we offer",
+    "subtitle": "Pick the channels that fit your stage — or run the full system.",
+    "indexEyebrow": "Our Services",
+    "indexTitle": "Our Services.",
+    "indexSub": "Everything your healthcare practice needs to own the digital space - from search visibility to brand identity.",
+    "indexBadgeLeft": "12 Capabilities",
+    "indexBadgeRight": "Full-Service Coverage",
+    "showLess": "Show less",
+    "seeMore": "See more services",
+    "items": {
+      "seo": { "meta": "Search", "title": "SEO Services", "sub": "Full-suite SEO - technical, on-page, off-page, local, AEO, content." },
+      "googleAds": { "meta": "Paid Media", "title": "Google Ads", "sub": "Search · PMax · Display · YouTube · Shopping · LSA - tuned weekly." },
+      "metaAds": { "meta": "Social Ads", "title": "Meta Ads", "sub": "Conversion-focused campaigns on Facebook & Instagram." },
+      "socialMedia": { "meta": "Social", "title": "Social Media Marketing", "sub": "Show up where your patients spend their time." },
+      "content": { "meta": "Content", "title": "Content & Copywriting", "sub": "Healthcare content that ranks & converts." },
+      "gbp": { "meta": "Local", "title": "Google Business Profile", "sub": "Dominate the Local Pack with weekly GBP optimization." },
+      "web": { "meta": "Web", "title": "Website Design & Development", "sub": "Fast, accessible sites built to convert." },
+      "brand": { "meta": "Identity", "title": "Brand Identity Design", "sub": "Memorable visual systems for healthcare brands." },
+      "email": { "meta": "Lifecycle", "title": "Email Drip Campaigns", "sub": "Welcome · recall · win-back · referral - all BAA-covered." },
+      "strategy": { "meta": "Strategy", "title": "Strategy & Planning", "sub": "Roadmaps grounded in data & clinical reality." },
+      "field": { "meta": "Field", "title": "Onsite Field Marketing", "sub": "Community presence that drives walk-in volume." },
+      "analytics": { "meta": "Insights", "title": "Analytics & Reporting", "sub": "Real-time dashboards tied to revenue." }
+    }
+  },
+  "trust": {
+    "eyebrow": "Trust signals",
+    "title": "Built for healthcare compliance",
+    "subtitle": "Server-side tracking, BAA-ready stack, and PHI-aware workflows.",
+    "infraEyebrow": "Trust & Infrastructure",
+    "infraTitle": "Built on the same standards as your practice.",
+    "infraSub": "Your digital presence must convey the same level of clinical excellence and security as your physical facility - engineered for trust, accessibility, and compliance from day one.",
+    "ctaLabel": "Talk to a specialist",
+    "cards": {
+      "reputation": {
+        "tag": "Patient Trust",
+        "title": "Reputation Management",
+        "text": "Active monitoring and response across Google, Healthgrades, and Vitals - turning patient feedback into a competitive advantage.",
+        "bullets": [
+          "Review monitoring & response automation",
+          "Sentiment analysis dashboards",
+          "HIPAA-compliant response templates",
+          "Multi-platform reputation scoring"
+        ]
+      },
+      "hipaaWeb": {
+        "tag": "Compliance",
+        "title": "HIPAA-Compliant Web Design",
+        "text": "Secure, accessible websites engineered for the healthcare standard - encrypted forms, BAA-ready hosting, and ADA accessibility.",
+        "bullets": [
+          "SSL encryption & secure form handling",
+          "BAA-ready hosting infrastructure",
+          "WCAG 2.1 AA accessibility compliance",
+          "Annual security audits & updates"
+        ]
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "How we work",
+    "title": "The engagement timeline",
+    "subtitle": "From kickoff to month-6 compounding — here's exactly what to expect.",
+    "indexEyebrow": "Our Process",
+    "indexTitle": "A clear path from audit to scale.",
+    "indexIntro": "A repeatable, data-driven system designed for clinics, medspas, and wellness brands ready to grow predictably.",
+    "steps": {
+      "discovery": { "title": "Discovery & Audit", "desc": "We dive into your current marketing, identify gaps, and learn about your patients." },
+      "strategy": { "title": "Custom Strategy", "desc": "You get a tailored marketing plan based on real data, not guesswork." },
+      "build": { "title": "Build & Setup", "desc": "We deploy your tech stack - landing pages, tracking, automation, and dashboards." },
+      "launch": { "title": "Launch", "desc": "We execute campaigns across every channel - search, social, and email." },
+      "optimize": { "title": "Optimize", "desc": "We run A/B tests, analyze results, and refine your campaigns weekly." },
+      "scale": { "title": "Scale", "desc": "When we find what works, we double down to boost your patient volume." }
+    }
+  },
+  "whoWeServe": {
+    "eyebrow": "Who we serve",
+    "title": "Healthcare verticals we know cold",
+    "indexEyebrow": "Who We Serve",
+    "indexTitle": "Built for healthcare practices that want to lead.",
+    "indexSub": "We exclusively serve healthcare practices that want to dominate their market - from solo medspas to multi-location networks.",
+    "cards": {
+      "clinics": {
+        "tag": "Clinical",
+        "title": "Clinics & Multi-Specialty Practices",
+        "desc": "Search, paid, and patient-acquisition systems engineered for single offices and multi-location networks alike.",
+        "points": ["Family Practice", "Cardiology", "Dental", "Pediatrics"],
+        "stat": "200+ clinics served",
+        "cta": "Explore clinics"
+      },
+      "medspas": {
+        "tag": "Aesthetic",
+        "title": "MedSpas & Wellness Brands",
+        "desc": "High-volume social, Meta campaigns, and conversion-engineered sites tuned for elective and aesthetic services.",
+        "points": ["MedSpa", "Aesthetics", "IV Therapy", "Wellness"],
+        "stat": "40+ medspas activated",
+        "cta": "Explore medspas"
+      },
+      "specialty": {
+        "tag": "Acuity",
+        "title": "Specialty & Emergency Care",
+        "desc": "Compliance-aware, urgency-first patient acquisition for ERs, urgent care, and specialty practices.",
+        "points": ["Emergency", "Urgent Care", "Orthopedics", "Oncology"],
+        "stat": "12+ ER & specialty networks",
+        "cta": "Explore specialty"
+      }
+    }
+  },
+  "featurePairs": {
+    "eyebrow": "Capability pairs",
+    "title": "Where two channels become greater than the sum",
+    "indexEyebrow": "Local SEO & Visibility",
+    "indexTitle": "Own your local search - from map pack to AI Overviews.",
+    "indexSub": "A four-pillar approach to local search visibility, structured data, and AI-driven discovery for your healthcare practice.",
+    "learnMore": "Learn More",
+    "cards": {
+      "gbp": { "tag": "Local Pack", "title": "Google Business Profile", "desc": "Complete optimization and weekly management of your GBP to secure Local Pack rankings." },
+      "citation": { "tag": "Authority", "title": "Citation Building", "desc": "Establishing authoritative backlinks and consistent NAP data across healthcare directories." },
+      "hyperLocal": { "tag": "Geo-Targeted", "title": "Hyper-Local Content", "desc": "Creating programmatic landing pages for surrounding Texas municipalities and suburbs." },
+      "aeo": { "tag": "AI Search", "title": "AEO & Schema", "desc": "Structuring data for AI Overviews and voice search dominance in the medical sector." }
+    }
+  },
+  "faqs": {
+    "eyebrow": "FAQ",
+    "title": "Healthcare marketing services — FAQ",
+    "indexEyebrow": "Services, Pricing & Scope",
+    "indexTitleLine1": "Service",
+    "indexTitleAccent": "Questions",
+    "indexIntro": "How scope, timelines, ad budgets, compliance, and engagement model actually work when you bring on a healthcare growth partner - written for the people doing the hiring.",
+    "stillCardTitle": "Need a custom scope?",
+    "stillCardP1": "Multi-location group, brand-new launch, or an existing agency you're ready to replace - we'll size the engagement to your stage. No template proposals.",
+    "stillCardP2": "One call. We'll audit your current funnel, name the three biggest revenue leaks, and tell you which services would actually move them.",
+    "stillCardCta": "Book a Free Audit",
+    "items": [
+      {
+        "q": "What healthcare marketing services do you actually deliver?",
+        "a": "We run a full healthcare growth stack under one roof - <strong>local SEO, Google Business Profile optimization, Google & Meta paid media, content + schema, conversion-focused website builds, review and reputation engines, and HIPAA-aware tracking</strong>. On top of that, we ship <strong>custom software and clinical automation / AI workflows</strong> when your growth bottleneck is operational, not marketing. Most clients engage us as their outsourced growth team rather than a single-channel vendor."
+      },
+      {
+        "q": "How long does SEO take to grow patient bookings?",
+        "a": "Local Pack and Google Business Profile wins typically show in the first <strong>30–60 days</strong> - category accuracy, photo cadence, review velocity, NAP consistency, and on-page schema fixes move fast. Organic search rankings for high-intent service keywords compound through <strong>months 3–6</strong>, and the long-tail content / authority work lifts traffic across <strong>months 6–12</strong>. Paid media bridges the gap from day one so you have booked appointments while organic catches up."
+      },
+      {
+        "q": "Should we run Google Ads, Meta Ads, or both?",
+        "a": "It depends on intent. <strong>Google Ads</strong> captures patients already searching (urgent care, ER, emergency dental, \"near me\" terms) - high CPC but high intent. <strong>Meta & Instagram Ads</strong> create demand for elective and aesthetic services (MedSpa, plastic surgery, orthodontics) where the patient hasn't typed a search query yet. Most multi-service clinics run both, weighted by service line. We rebuild your tracking with <strong>server-side conversions and offline conversion uploads</strong> so spend gets attributed to actual booked revenue, not just form fills."
+      },
+      {
+        "q": "What custom software, automations, and AI workflows can you build for a clinic?",
+        "a": "Anything that lives between your marketing engine and your clinical ops. Common builds: <strong>AI patient triage chatbots, intake form automations, EHR / practice-management API integrations, automated recall and no-show recovery sequences, real-time reporting dashboards, and HIPAA-compliant patient portals</strong>. We deploy these on top of your existing stack (Athena, eClinicalWorks, NextGen, Epic, OpenDental, etc.) so the front desk runs lighter and marketing data flows back into the EHR cleanly."
+      },
+      {
+        "q": "How do you keep tracking, retargeting, and ad creative HIPAA-compliant?",
+        "a": "We rebuilt our tracking stack after Meta's 2023 healthcare audit and the FTC's pixel guidance. Standard kit: <strong>server-side GTM, hashed conversions, IP redaction, BAA-covered vendors, custom-event-only retargeting (never PHI-based audiences), and clinical-claim review on every paid ad</strong>. We also stand up consent banners and explicit opt-ins where state telehealth or therapy rules require them. If a vendor in your funnel can't sign a BAA, we route around it."
+      },
+      {
+        "q": "Do you charge per service or as a bundled monthly retainer?",
+        "a": "Mostly <strong>monthly retainers</strong> - that's how compounding channels (SEO, content, review velocity, retargeting audiences) actually pay back. Retainers are scoped by service mix and ad-spend tier, with a flat strategy fee on top so the agency makes money on outcomes, not ad-buying volume. One-off engagements (website rebuilds, custom software, automation projects, audit-only engagements) are quoted as <strong>fixed-fee projects</strong>. We share pricing on the discovery call once we've seen your funnel."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Ready to Grow?",
+    "titleLine": "Let's build your",
+    "titleAccent": "patient pipeline",
+    "text": "Get a free strategy session with a healthcare growth specialist. We'll audit your funnel, map your opportunity, and show you exactly where to start.",
+    "button": "Book a Free Consultation Call"
+  },
+  "detailPages": {
+    "backToServices": "Back to Services",
+    "relatedServicesHeading": "Related services",
+    "viewAllHeading": "Explore all services",
+    "ctaTitle": "Ready to launch this service?",
+    "ctaSubtitle": "Book a free 30-minute strategy call. We'll scope the engagement and share next steps."
+  },
+  "websiteDesign": {
+    "doCards": {
+      "ux": { "name": "UX Design", "desc": "Patient journey maps drive every layout, click target, and copy choice." },
+      "conversion": { "name": "Conversion Design", "desc": "Hero, proof, offer, CTA - every section earns its scroll." },
+      "speed": { "name": "Speed Optimization", "desc": "Sub-2s loads on 4G, image pipeline, lazy-load, edge cached." },
+      "mobile": { "name": "Mobile-First", "desc": "70% of patient traffic is mobile - that's where the design starts." },
+      "cms": { "name": "CMS & Handoff", "desc": "Built on Webflow, WordPress, or Next.js - your team owns it after." },
+      "a11y": { "name": "Accessibility", "desc": "WCAG 2.2 AA compliant by default. Healthcare requires it." }
+    },
+    "carePlans": {
+      "maintain": {
+        "name": "Maintain",
+        "tagline": "Hosting, monitoring, and security patches so the site you just launched stays fast and safe.",
+        "includes": [
+          "BAA-covered managed hosting",
+          "99.9% uptime monitoring + alerts",
+          "Monthly security patches & dep updates",
+          "Quarterly performance & a11y re-audit",
+          "Backups (daily, 30-day retention)"
+        ]
+      },
+      "optimize": {
+        "name": "Optimize",
+        "badge": "Most popular",
+        "tagline": "Everything in Maintain, plus a monthly CRO experiment and ongoing content updates.",
+        "includes": [
+          "One A/B test or CRO experiment / month",
+          "Heatmap + session-replay review",
+          "2 hours of content / copy updates",
+          "Booking-funnel diagnostics",
+          "Monthly performance retro w/ video"
+        ]
+      },
+      "growthPartner": {
+        "name": "Growth Partner",
+        "tagline": "Optimize, plus a quarterly redesign cycle and integrated SEO so the site keeps compounding.",
+        "includes": [
+          "Quarterly redesign cycle (one section)",
+          "Integrated local & technical SEO",
+          "Schema additions for new services",
+          "Editorial content (2 articles / mo)",
+          "Dedicated growth lead"
+        ]
+      },
+      "perMonth": "/ mo"
+    },
+    "packages": {
+      "perMonth": "",
+      "getQuote": "Get a quote",
+      "mostPopular": "Most popular",
+      "essential": {
+        "name": "Essential",
+        "price": "from $7,500",
+        "priceNote": "one-time, 6-8 wk delivery",
+        "tagline": "Single-location practices that need a modern, conversion-focused site.",
+        "bestFor": "Solo clinics, single MedSpas, individual physicians",
+        "bullets": [
+          "Up to 12 unique pages",
+          "Modern Next.js or Webflow build",
+          "WCAG 2.2 AA audit report",
+          "Booking widget (provider of your choice)",
+          "GA4 server-side + Search Console",
+          "Hosting setup + 30-day post-launch support"
+        ]
+      },
+      "growth": {
+        "name": "Growth",
+        "price": "from $14,500",
+        "priceNote": "one-time, 8-10 wk delivery",
+        "tagline": "Growing practices that need CRO-baked design and ongoing SEO momentum.",
+        "bestFor": "Clinics ready to expand or rebrand for higher-tier patients",
+        "bullets": [
+          "Up to 30 unique pages",
+          "Headless CMS so your team ships posts",
+          "EHR / PMS booking integration",
+          "CRO baseline: heatmaps + 2 launch experiments",
+          "Blog + condition pillar architecture",
+          "90-day post-launch optimization"
+        ]
+      },
+      "multiLocation": {
+        "name": "Multi-location",
+        "price": "from $28,000",
+        "priceNote": "one-time, 10-14 wk delivery",
+        "tagline": "Groups with multiple clinics, complex integrations, or compliance scrutiny.",
+        "bestFor": "4+ locations, specialty surgery groups, dental DSOs",
+        "bullets": [
+          "50+ pages w/ dynamic location templates",
+          "Per-location LocalBusiness + Physician schema",
+          "Direct EHR API integration (Athena / eCW / NextGen)",
+          "HIPAA-architecture diagram + threat model",
+          "Multi-region CDN + edge functions",
+          "Dedicated launch + 6-mo white-glove support"
+        ]
+      }
+    },
+    "steps": {
+      "audit": { "name": "Audit", "desc": "Performance, UX, and conversion benchmark on the current site." },
+      "strategy": { "name": "Strategy", "desc": "Information architecture and page-by-page brief signed off." },
+      "execution": { "name": "Execution", "desc": "Design system, build, content load, integrations, QA." },
+      "optimization": { "name": "Optimization", "desc": "A/B tests, heatmaps, monthly performance retro." }
+    },
+    "stats": {
+      "conversion": "Avg conversion rate",
+      "speed": "Page speed score",
+      "bounce": "Bounce rate",
+      "mobile": "Mobile UX rating"
+    },
+    "industries": {
+      "dental": { "label": "Dental groups", "blurb": "Multi-location, schema-rich, per-clinic landing pages." },
+      "medspas": { "label": "MedSpas", "blurb": "Editorial visual systems and consult-driving offers." },
+      "specialty": { "label": "Specialty & emergency", "blurb": "High-acuity intent, fast bookings, condition pages." },
+      "wellness": { "label": "Wellness clinics", "blurb": "Membership flows, content depth, retention loops." },
+      "mentalHealth": { "label": "Mental health", "blurb": "Therapist directories, condition pillars, encrypted intake." },
+      "plastic": { "label": "Plastic surgery", "blurb": "Procedure pages, gallery performance, PHI-safe forms." },
+      "urgent": { "label": "Urgent & primary care", "blurb": "Walk-in volume, wait-time signals, GBP-linked locations." },
+      "vision": { "label": "Vision & optometry", "blurb": "Per-city dominance, frame catalogs, exam booking." }
+    },
+    "comparison": {
+      "lcp": { "label": "Largest Contentful Paint", "before": "Multi-second LCP on most Wix or WordPress builds.", "after": "Green-band Core Web Vitals on every page we ship." },
+      "booking": { "label": "Booking conversion", "before": "Generic contact form, no clear next step.", "after": "EHR-wired booking widget embedded into the page." },
+      "pages": { "label": "Service / location pages", "before": "One generic \"Services\" page covering every line.", "after": "One unique page per service × per location, with schema." },
+      "a11y": { "label": "Accessibility", "before": "Common WCAG failures on Lighthouse / axe.", "after": "WCAG 2.2 AA at launch with a documented audit trail." },
+      "editing": { "label": "Editing experience", "before": "Editing requires the agency every time.", "after": "Headless CMS - your team ships copy without dev help." }
+    },
+    "compliance": {
+      "a11y": {
+        "tag": "WCAG 2.2 AA",
+        "title": "Accessibility-defensible at launch.",
+        "lede": "Healthcare websites are the most-sued vertical for ADA accessibility. Every site we ship is audited before it goes live.",
+        "bullets": [
+          { "label": "Automated axe + Lighthouse", "detail": "Continuous CI checks throughout the build." },
+          { "label": "Manual screen-reader pass", "detail": "JAWS / NVDA / VoiceOver on every template." },
+          { "label": "Contrast & focus guarantee", "detail": "Body ≥ 4.5:1, large text ≥ 3:1, visible keyboard focus." },
+          { "label": "Written audit report", "detail": "Hand it to legal if a demand letter arrives." }
+        ],
+        "linkLabel": "Our accessibility commitment"
+      },
+      "hipaa": {
+        "tag": "HIPAA-aware build",
+        "title": "PHI-clean, BAA-covered, audit-friendly.",
+        "lede": "The 2022 HHS Bulletin made third-party pixels on PHI pages a real liability. We build around it - not on top of it.",
+        "bullets": [
+          { "label": "BAA-covered hosting", "detail": "AWS / GCP / Vercel Enterprise with signed BAAs." },
+          { "label": "Encrypted forms in transit", "detail": "TLS 1.3, no PHI in URLs, server-side validation." },
+          { "label": "No pixels on PHI pages", "detail": "GA4 server-side, consent-aware loading." },
+          { "label": "HIPAA-architecture diagram", "detail": "Delivered at launch for your compliance file." }
+        ],
+        "linkLabel": "How we handle HIPAA"
+      }
+    },
+    "stackGroups": {
+      "build": {
+        "label": "Build stack",
+        "caption": "We pick the stack the project needs - not the one we resell.",
+        "notes": {
+          "Next.js": "Default for new builds",
+          "Astro": "Marketing-first sites",
+          "Webflow": "Non-dev editing",
+          "WordPress": "Daily blog publishing",
+          "Sanity": "Headless CMS",
+          "Tailwind": "Design system",
+          "Cloudflare": "Edge + WAF",
+          "Vercel": "Hosting"
+        }
+      },
+      "integrations": {
+        "label": "Healthcare integrations",
+        "caption": "Booking, EHR, payments, and analytics - wired to the systems you already run.",
+        "notes": {
+          "Athena": "EHR schedule API",
+          "eClinicalWorks": "EHR + intake",
+          "NextGen": "EHR",
+          "Kareo / Tebra": "PM + booking",
+          "Dr. Chrono": "Booking API",
+          "Zocdoc": "Widget embed",
+          "Calendly Health": "BAA-covered",
+          "GA4 server-side": "PHI-clean tracking"
+        }
+      }
+    },
+    "related": {
+      "pairWith": "Pair with",
+      "seo": { "name": "SEO Services", "blurb": "Get the new site ranking - technical, on-page, local - the month it ships." },
+      "brand": { "name": "Brand Identity & Design", "blurb": "Make sure the system the site is built on actually scales." },
+      "analytics": { "name": "Analytics & Reporting", "blurb": "Wire the dashboard that proves the new site is converting." }
+    },
+    "faqs": [
+      { "q": "How long does a new clinic site take?", "a": "Design plus build runs 6 to 9 weeks for single-location practices, 10 to 14 for multi-location systems. We sequence content collection up front so the build never stalls waiting on copy." },
+      { "q": "Will the new site be HIPAA-compliant?", "a": "Yes. Every site we ship runs on BAA-covered hosting with encrypted forms, audit-friendly logging, and zero third-party pixels on pages that touch PHI. We hand you a HIPAA-architecture diagram at launch." },
+      { "q": "Can the booking widget connect to our EHR?", "a": "Most modern EHRs (Athena, eClinicalWorks, NextGen, Kareo, Cerner, Epic via integration partners) expose schedule APIs we can wire to. We also support widget-style providers (Solv, Zocdoc) when direct API isn't available." },
+      { "q": "Does it have to be in WordPress?", "a": "No. We default to a modern Next.js stack for new builds because it's faster, more secure, and easier to update. WordPress is fine when the team needs to ship blog posts daily; we still harden it for HIPAA." },
+      { "q": "What about Core Web Vitals and SEO impact?", "a": "Every new site ships with green-band LCP, INP, and CLS, structured data on every service and location, and a redirect map so legacy URLs don't lose authority. We measure SEO impact monthly post-launch." },
+      { "q": "How do you handle ADA / WCAG compliance?", "a": "We run automated axe / Lighthouse checks throughout the build and a manual screen-reader pass before launch. Every site ships with a written WCAG 2.2 AA audit report you can hand to legal if a demand letter arrives." },
+      { "q": "Will the redesign hurt our existing rankings?", "a": "Not if it is done right. We map every legacy URL to its new destination with 301s, preserve title / meta / heading equity on top pages, and re-submit the sitemap. Most sites we relaunch hold or gain rank within 60 days." },
+      { "q": "Who owns the site after launch?", "a": "You do. Code, design files, hosting account, domain - all in your name from day one. We can manage hosting and updates as a retainer, or hand off cleanly." }
+    ],
+    "cases": {
+      "dental": {
+        "numLbl": "Booking conv.",
+        "sector": "Multi-location dental",
+        "name": "Regional dental group · 11 clinics",
+        "problem": "Legacy WordPress site, 4s LCP on mobile, single generic services page, zero local schema.",
+        "result": "Per-location landing pages with green CWV, ADA-defensible, booking widget wired to Athena."
+      },
+      "medspa": {
+        "numLbl": "Consult requests",
+        "sector": "Luxury medspa",
+        "name": "Solo medspa rebrand",
+        "problem": "Old Wix site reading like a 2018 spa brochure. Premium pricing, but brand was not earning it.",
+        "result": "Editorial visual system, 100 PageSpeed, time-on-site 6:42 → 9:18, organic consults tripled."
+      },
+      "surgery": {
+        "numLbl": "Organic intake",
+        "sector": "Specialty surgery",
+        "name": "Multi-physician surgical group",
+        "problem": "Procedure pages buried 3 clicks deep, no FAQ schema, AI Overviews citing competitors.",
+        "result": "#1 local rank for 14 procedures, FAQ + Physician schema, EHR-integrated patient intake."
+      },
+      "mental": {
+        "numLbl": "Bounce rate",
+        "sector": "Mental health",
+        "name": "Group practice · 7 therapists",
+        "problem": "Therapist bios in PDF, no condition-level pages, intake form abandoned at 80%.",
+        "result": "Condition pillar pages with schema, 6-field progressive intake, encrypted form submissions."
+      },
+      "vision": {
+        "numLbl": "Map-pack clicks",
+        "sector": "Vision care",
+        "name": "Optometry · 4 locations",
+        "problem": "One site for four cities, identical content, getting filtered out of the local pack.",
+        "result": "Unique city pages with GBP linkage, LocalBusiness schema per location, sub-1.5s LCP."
+      },
+      "aesthetics": {
+        "numLbl": "Procedure leads",
+        "sector": "Aesthetics",
+        "name": "Plastic surgery practice",
+        "problem": "Before/after gallery slow, no procedure FAQ, ad-pixel risk on consult forms.",
+        "result": "CDN-served gallery, FAQ schema per procedure, server-side conversions, PHI-clean tracking."
+      }
+    }
+  }
+}

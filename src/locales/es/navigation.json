@@ -1,0 +1,67 @@
+{
+  "primary": {
+    "services": "Servicios",
+    "industries": "Industrias",
+    "about": "Nosotros",
+    "contactUs": "Contáctanos"
+  },
+  "resources": {
+    "label": "Recursos",
+    "items": {
+      "blog": {
+        "label": "Blog",
+        "desc": "Resumen semanal con tácticas listas para aplicar"
+      },
+      "caseStudies": {
+        "label": "Casos de éxito",
+        "desc": "Historias reales de crecimiento de clientes"
+      },
+      "healthcareNews": {
+        "label": "Noticias del sector salud",
+        "desc": "Actualizaciones de HIPAA y la industria"
+      },
+      "automation": {
+        "label": "Automatización",
+        "desc": "Flujos de IA e integraciones"
+      },
+      "pricing": {
+        "label": "Precios",
+        "desc": "Planes de colaboración transparentes"
+      }
+    }
+  },
+  "footerServices": {
+    "seo": "Servicios SEO",
+    "googleAds": "Google Ads",
+    "socialMedia": "Redes sociales",
+    "websiteDesign": "Diseño web",
+    "emailCampaigns": "Campañas de email",
+    "contentMarketing": "Marketing de contenido",
+    "googleBusinessProfile": "Perfil de Google Business",
+    "analytics": "Analítica",
+    "branding": "Branding"
+  },
+  "footerCompany": {
+    "about": "Nosotros",
+    "faq": "Preguntas frecuentes",
+    "freeGrowthAudit": "Auditoría gratuita",
+    "pricing": "Precios",
+    "blog": "Blog",
+    "industries": "Industrias",
+    "team": "Equipo"
+  },
+  "footerLegal": {
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "sitemap": "Mapa del sitio",
+    "accessibility": "Accesibilidad"
+  },
+  "aria": {
+    "primary": "Principal",
+    "homeLogo": "{{name}} - Inicio",
+    "mainMenu": "Menú principal",
+    "accountAriaLabel": "Cuenta",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  }
+}

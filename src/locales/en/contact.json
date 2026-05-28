@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Contact TheNextGen — Healthcare Marketing in Irving, Texas",
+    "description": "Tell us about your practice — we respond within 4 business hours with a custom roadmap. Calls, audits and quotes for clinics, medspas, urgent care & ERs."
+  },
+  "hero": {
+    "eyebrow": "Get Your Custom Quote",
+    "titleStart": "Tell us about your practice.",
+    "titleAccent": "We'll respond in 4 hours.",
+    "lede": "Answer 4 quick questions about your facility, scale, budget, and goals — we'll send a custom marketing roadmap within one business half-day."
+  },
+  "quote": {
+    "progressAria": "Quote progress",
+    "stepLabels": {
+      "facility": "Facility",
+      "scale": "Scale",
+      "budget": "Budget",
+      "goals": "Goals",
+      "contact": "Contact"
+    },
+    "steps": {
+      "facility": {
+        "tag": "Step 01 — Facility Type",
+        "title": "Which type of facility do you operate?",
+        "sub": "Each specialty has its own patient psychology and acquisition dynamics. We'll match you with the right playbook.",
+        "choices": {
+          "fser": { "label": "Freestanding ER", "meta": "High-acuity / trauma" },
+          "urgent": { "label": "Urgent Care", "meta": "Walk-in volume" },
+          "wellness": { "label": "Wellness Clinic", "meta": "Aesthetic / longevity" },
+          "multi": { "label": "Multi-Specialty", "meta": "Combined practice" }
+        }
+      },
+      "scale": {
+        "tag": "Step 02 — Scale Metrics",
+        "title": "How many physical locations do you operate?",
+        "sub": "Scale changes everything — from local SEO strategy to multi-location reputation systems.",
+        "choices": {
+          "single": { "label": "1 Location", "meta": "Single-site practice" },
+          "small": { "label": "2 – 5 Locations", "meta": "Small group" },
+          "mid": { "label": "6 – 10 Locations", "meta": "Mid-size network" },
+          "enterprise": { "label": "10+ Locations", "meta": "Enterprise" }
+        }
+      },
+      "budget": {
+        "tag": "Step 03 — Financial Qualifier",
+        "title": "Current or projected monthly ad spend?",
+        "sub": "This helps us scope the right channel mix and forecast realistic patient acquisition velocity for your practice.",
+        "choices": {
+          "under5k": { "label": "Under $5,000", "meta": "Starter budget" },
+          "growth": { "label": "$5K – $15K", "meta": "Growth phase" },
+          "scale": { "label": "$15K – $50K", "meta": "Scale" },
+          "enterprise": { "label": "$50,000+", "meta": "Enterprise" }
+        }
+      },
+      "goals": {
+        "tag": "Step 04 — Primary Objectives",
+        "title": "What are your main growth objectives?",
+        "sub": "Select all that apply — we'll prioritize the right tactics in your custom roadmap.",
+        "choices": {
+          "callVolume": { "label": "Increase Call Volume", "meta": "More patient inquiries" },
+          "frontDesk": { "label": "Reduce Front-Desk Load", "meta": "AI intake automation" },
+          "maps": { "label": "Improve Map Rankings", "meta": "Local pack visibility" },
+          "reviews": { "label": "Automate Reviews", "meta": "Reputation management" },
+          "scheduling": { "label": "AI Scheduling", "meta": "Automated booking" },
+          "cpa": { "label": "Lower Cost Per Acquisition", "meta": "Better ROI on spend" }
+        }
+      },
+      "contact": {
+        "tag": "Step 05 — Your Contact",
+        "title": "Where should we send your custom roadmap?",
+        "sub": "We'll send your tailored growth plan and pricing within 4 business hours — straight to your inbox.",
+        "nameLabel": "Full Name",
+        "namePlaceholder": "Dr. Jane Smith",
+        "emailLabel": "Work Email",
+        "emailPlaceholder": "jane@yourpractice.com",
+        "required": "*"
+      }
+    },
+    "actions": {
+      "back": "Back",
+      "continue": "Continue",
+      "submit": "Submit Quote Request",
+      "stepsSuffix": "/ 05 Steps"
+    },
+    "success": {
+      "title": "Your roadmap is on the way.",
+      "body": "We've received your details and will respond within 4 business hours with a custom marketing plan tailored to your practice."
+    }
+  },
+  "info": {
+    "eyebrow": "Other Ways to Reach Us",
+    "title": "Prefer email or a quick message?",
+    "subtitle": "Send us a general inquiry, subscribe for healthcare marketing insights, or reach our team directly through the channels below."
+  },
+  "inquiry": {
+    "eyebrow": "General Inquiry",
+    "title": "Send us a message",
+    "text": "Have a question, a complaint, or need help choosing the right service for your practice? Feel free to contact us — we typically reply in under 4 hours.",
+    "firstName": "First Name",
+    "firstNamePlaceholder": "Enter your first name",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Enter your last name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "phone": "Contact Details",
+    "phonePlaceholder": "Enter your contact number",
+    "countryCodeAria": "Country code",
+    "message": "Message",
+    "messagePlaceholder": "Enter your message",
+    "submit": "Send a Message",
+    "errors": {
+      "missing": "Please fill in first name, last name, email, and message.",
+      "invalidEmail": "Please enter a valid email."
+    },
+    "success": "Message sent! We will respond within 4 hours."
+  },
+  "newsletter": {
+    "eyebrow": "Our Newsletter",
+    "title": "Healthcare growth, weekly.",
+    "text": "Field-tested patient acquisition tactics, HIPAA updates, and case studies from 200+ Texas practices — delivered every Tuesday morning. No fluff, no spam.",
+    "placeholder": "Enter your work email",
+    "submit": "Subscribe",
+    "invalidEmail": "Please enter a valid email.",
+    "success": "Thank you! You'll get updates soon."
+  },
+  "help": {
+    "eyebrow": "Hi! We are always here",
+    "title": "to help you.",
+    "rows": {
+      "hotline": { "tag": "Hotline", "value": "+1 (972) 848-1153" },
+      "sms": { "tag": "SMS / WhatsApp", "value": "+1 (972) 848-1153" },
+      "email": { "tag": "Email" }
+    },
+    "social": "Connect with us",
+    "socials": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "twitter": "X / Twitter"
+    }
+  }
+}

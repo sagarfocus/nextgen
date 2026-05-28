@@ -1,0 +1,540 @@
+{
+  "seo": {
+    "title": "Servicios de marketing en salud | SEO, anuncios, web, automatización",
+    "description": "Marketing integral en salud: SEO, Google y Meta Ads, diseño web, branding, contenido, automatización y analítica — pensado para clínicas."
+  },
+  "indexSeo": {
+    "title": "Servicios de marketing en salud — SEO, anuncios, sitios web y automatización",
+    "description": "Marketing integral en salud para clínicas, medspas, urgencias y ER. SEO, Google Ads, sitios web, branding, contenido, email y automatización compatible con HIPAA."
+  },
+  "hero": {
+    "eyebrow": "Nuestros servicios",
+    "title": "Una agencia. Todos los canales que mueven citas.",
+    "lede": "Estrategia, anuncios pagados, búsqueda orgánica, contenido, web, automatización y analítica — orquestados como un solo motor de crecimiento.",
+    "h1Line1": "Marketing",
+    "h1Line2": "en Salud",
+    "h1Line3": "Servicios",
+    "ctaPrimary": "Obtén tu plan de crecimiento",
+    "ctaSecondary": "Ver casos de éxito",
+    "metaLeft": "Compatible con HIPAA",
+    "metaRight": "Hecho para Texas",
+    "sub": "Desplegamos un ecosistema de marketing integral, compatible con HIPAA, diseñado para dominar la búsqueda local, atraer pacientes de alta complejidad y automatizar la operación de tu recepción en todo Texas.",
+    "capabilitiesLabel": "Capacidades clave",
+    "capabilitiesAria": "Capacidades de servicio",
+    "growthOsLine1": "Healthcare",
+    "growthOsLine2": "Growth OS",
+    "orbit": {
+      "seo": { "label": "SEO y Local", "sub": "Posiciónate más alto. Que te encuentren cerca." },
+      "paid": { "label": "Anuncios pagados", "sub": "Campañas segmentadas. Medibles." },
+      "branding": { "label": "Branding", "sub": "Una marca memorable que convierte." },
+      "automation": { "label": "Automatización", "sub": "Agiliza. Nutre. Escala." },
+      "web": { "label": "Diseño web", "sub": "Sitios de alto desempeño que convierten." },
+      "content": { "label": "Contenido", "sub": "Editorial que educa pacientes." }
+    },
+    "capabilities": {
+      "seo": "Servicios SEO",
+      "googleAds": "Google Ads",
+      "metaAds": "Meta Ads",
+      "socialMedia": "Marketing en redes sociales",
+      "content": "Contenido y copywriting",
+      "gbp": "Google Business Profile",
+      "web": "Diseño y desarrollo web",
+      "brand": "Diseño de identidad de marca",
+      "print": "Folletos e impresos",
+      "strategy": "Estrategia y planeación",
+      "field": "Marketing en sitio y de campo",
+      "analytics": "Analítica y reportes"
+    }
+  },
+  "pillars": {
+    "eyebrow": "Pilares de servicio",
+    "title": "Cuatro pilares, un resultado",
+    "subtitle": "Visibilidad, conversión, retención e inteligencia — cada pilar refuerza a los demás.",
+    "customSoftware": {
+      "eyebrow": "Ingeniería",
+      "title": "Software a medida y Vibe Coding.",
+      "sub": "Sistemas a medida construidos sobre tu motor de marketing — desde portales del paciente hasta integraciones de API que mueven datos clínicos de forma segura.",
+      "panes": {
+        "portal": {
+          "tag": "Portal del paciente",
+          "listTitle": "Portales del paciente a medida",
+          "listSub": "Portales seguros para intake, expedientes y telemedicina.",
+          "detailTitle": "Portales del paciente a medida",
+          "detailText": "Portales seguros y con tu marca, construidos en torno a tus flujos clínicos — intake, acceso a expedientes, solicitudes de receta y telemedicina, todo en un solo lugar. Diseñados para aliviar la carga de la recepción y mejorar la experiencia del paciente.",
+          "bullets": [
+            "Manejo de datos <strong>compatible con HIPAA</strong> y hosting listo para BAA",
+            "Sesiones de <strong>telemedicina</strong> con video y chat seguros",
+            "Formularios de <strong>intake digital</strong> con verificación de seguro",
+            "<strong>Expedientes y resultados</strong> accesibles desde cualquier dispositivo"
+          ],
+          "foot": "Build — Semana 4–8"
+        },
+        "integrations": {
+          "tag": "Integraciones",
+          "listTitle": "Integraciones y APIs",
+          "listSub": "Integraciones de EHR, facturación y analítica vía APIs seguras.",
+          "detailTitle": "Integraciones y APIs",
+          "detailText": "Conecta tu EHR, plataforma de facturación, CRM y stack de analítica a través de APIs seguras y bien documentadas. Diseñamos flujos de datos confiables que eliminan el trabajo manual y mantienen cada sistema en sincronía.",
+          "bullets": [
+            "<strong>Conectores EHR</strong> para Epic, Cerner, Athena y más",
+            "<strong>Facturación y pagos</strong> integrados con flujos de reclamos",
+            "<strong>Datos de analítica</strong> de los sistemas fuente a los dashboards",
+            "<strong>Orquestación de webhooks</strong> con reintentos y observabilidad"
+          ],
+          "foot": "Integración — Semana 6–12"
+        }
+      }
+    },
+    "automation": {
+      "eyebrow": "Automatización",
+      "title": "Automatización e IA para flujos clínicos.",
+      "sub": "Sistemas inteligentes que manejan operaciones clínicas rutinarias — liberando a tu equipo para enfocarse en pacientes, no en papeleo.",
+      "panes": {
+        "intake": {
+          "tag": "Intake con IA",
+          "listTitle": "Automatización de intake con IA",
+          "listSub": "Intake conversacional seguro que verifica seguro y obtiene consentimiento.",
+          "detailTitle": "Automatización de intake con IA",
+          "detailText": "Intake conversacional que atiende el onboarding de pacientes nuevos 24/7 — verifica elegibilidad de seguro en tiempo real, obtiene consentimiento digital y envía expedientes completos a tu EHR antes de la cita.",
+          "bullets": [
+            "Chequeos de <strong>elegibilidad en tiempo real</strong> contra los principales pagadores",
+            "<strong>Consentimiento digital</strong> con firmas listas para auditoría",
+            "Soporte <strong>multilingüe</strong> para bases de pacientes diversas",
+            "<strong>Sincronización con EHR</strong> — el intake llega al expediente, no a un PDF"
+          ],
+          "foot": "En vivo — Día 14–21"
+        },
+        "scheduling": {
+          "tag": "Agendamiento",
+          "listTitle": "Agendamiento automatizado",
+          "listSub": "Disponibilidad en tiempo real y recordatorios para reducir no-shows.",
+          "detailTitle": "Agendamiento automatizado",
+          "detailText": "La disponibilidad en tiempo real aparece directamente en tu sitio, en las landings de anuncios y en tu Google Business Profile. Recordatorios inteligentes — SMS, email y voz — recortan drásticamente los no-shows sin sumar personal.",
+          "bullets": [
+            "<strong>Espacios en tiempo real</strong> sincronizados con los calendarios de los proveedores",
+            "<strong>Recordatorios inteligentes</strong> por SMS, email y voz",
+            "El <strong>autoservicio de reagendamiento</strong> reduce el volumen telefónico",
+            "<strong>Predicción de no-shows</strong> marca las citas de alto riesgo"
+          ],
+          "foot": "En vivo — Día 7–14"
+        }
+      }
+    }
+  },
+  "list": {
+    "eyebrow": "Catálogo de servicios",
+    "title": "Todos los servicios que ofrecemos",
+    "subtitle": "Elige los canales que encajen con tu etapa — o corre el sistema completo.",
+    "indexEyebrow": "Nuestros servicios",
+    "indexTitle": "Nuestros servicios.",
+    "indexSub": "Todo lo que tu práctica de salud necesita para dominar el espacio digital — desde visibilidad en buscadores hasta identidad de marca.",
+    "indexBadgeLeft": "12 capacidades",
+    "indexBadgeRight": "Cobertura integral",
+    "showLess": "Mostrar menos",
+    "seeMore": "Ver más servicios",
+    "items": {
+      "seo": { "meta": "Búsqueda", "title": "Servicios SEO", "sub": "SEO integral — técnico, on-page, off-page, local, AEO, contenido." },
+      "googleAds": { "meta": "Anuncios pagados", "title": "Google Ads", "sub": "Search · PMax · Display · YouTube · Shopping · LSA — afinados semanalmente." },
+      "metaAds": { "meta": "Anuncios sociales", "title": "Meta Ads", "sub": "Campañas enfocadas a conversión en Facebook e Instagram." },
+      "socialMedia": { "meta": "Social", "title": "Marketing en redes sociales", "sub": "Aparece donde tus pacientes pasan su tiempo." },
+      "content": { "meta": "Contenido", "title": "Contenido y copywriting", "sub": "Contenido de salud que posiciona y convierte." },
+      "gbp": { "meta": "Local", "title": "Google Business Profile", "sub": "Domina el Local Pack con optimización semanal del GBP." },
+      "web": { "meta": "Web", "title": "Diseño y desarrollo web", "sub": "Sitios rápidos y accesibles, diseñados para convertir." },
+      "brand": { "meta": "Identidad", "title": "Diseño de identidad de marca", "sub": "Sistemas visuales memorables para marcas de salud." },
+      "email": { "meta": "Ciclo de vida", "title": "Campañas de email drip", "sub": "Bienvenida · recordatorio · win-back · referidos — todo cubierto por BAA." },
+      "strategy": { "meta": "Estrategia", "title": "Estrategia y planeación", "sub": "Hojas de ruta con base en datos y realidad clínica." },
+      "field": { "meta": "Campo", "title": "Marketing en sitio y de campo", "sub": "Presencia comunitaria que impulsa el volumen walk-in." },
+      "analytics": { "meta": "Insights", "title": "Analítica y reportes", "sub": "Dashboards en tiempo real atados a los ingresos." }
+    }
+  },
+  "trust": {
+    "eyebrow": "Señales de confianza",
+    "title": "Diseñado para el cumplimiento en salud",
+    "subtitle": "Tracking del lado del servidor, stack listo para BAA y flujos conscientes de PHI.",
+    "infraEyebrow": "Confianza e infraestructura",
+    "infraTitle": "Construido con los mismos estándares de tu práctica.",
+    "infraSub": "Tu presencia digital debe transmitir el mismo nivel de excelencia clínica y seguridad que tus instalaciones físicas — diseñada para la confianza, la accesibilidad y el cumplimiento desde el día uno.",
+    "ctaLabel": "Habla con un especialista",
+    "cards": {
+      "reputation": {
+        "tag": "Confianza del paciente",
+        "title": "Gestión de reputación",
+        "text": "Monitoreo y respuesta activa en Google, Healthgrades y Vitals — convirtiendo el feedback de pacientes en una ventaja competitiva.",
+        "bullets": [
+          "Monitoreo y automatización de respuesta de reseñas",
+          "Dashboards de análisis de sentimiento",
+          "Plantillas de respuesta compatibles con HIPAA",
+          "Puntuación de reputación multi-plataforma"
+        ]
+      },
+      "hipaaWeb": {
+        "tag": "Cumplimiento",
+        "title": "Diseño web compatible con HIPAA",
+        "text": "Sitios seguros y accesibles, diseñados con el estándar de salud — formularios encriptados, hosting listo para BAA y accesibilidad ADA.",
+        "bullets": [
+          "Encriptación SSL y manejo seguro de formularios",
+          "Infraestructura de hosting lista para BAA",
+          "Accesibilidad WCAG 2.1 AA",
+          "Auditorías de seguridad y actualizaciones anuales"
+        ]
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Cómo trabajamos",
+    "title": "Cronograma del compromiso",
+    "subtitle": "Desde el kickoff hasta la acumulación del mes 6 — esto es lo que puedes esperar.",
+    "indexEyebrow": "Nuestro proceso",
+    "indexTitle": "Un camino claro de la auditoría a la escala.",
+    "indexIntro": "Un sistema repetible y basado en datos, diseñado para clínicas, medspas y marcas de wellness listas para crecer de forma predecible.",
+    "steps": {
+      "discovery": { "title": "Descubrimiento y auditoría", "desc": "Profundizamos en tu marketing actual, identificamos brechas y conocemos a tus pacientes." },
+      "strategy": { "title": "Estrategia a medida", "desc": "Recibes un plan de marketing a tu medida basado en datos reales, no en suposiciones." },
+      "build": { "title": "Build y setup", "desc": "Desplegamos tu stack tecnológico — landings, tracking, automatización y dashboards." },
+      "launch": { "title": "Lanzamiento", "desc": "Ejecutamos campañas en cada canal — búsqueda, social y email." },
+      "optimize": { "title": "Optimización", "desc": "Corremos pruebas A/B, analizamos resultados y refinamos tus campañas cada semana." },
+      "scale": { "title": "Escala", "desc": "Cuando encontramos lo que funciona, doblamos la apuesta para subir tu volumen de pacientes." }
+    }
+  },
+  "whoWeServe": {
+    "eyebrow": "A quién atendemos",
+    "title": "Verticales de salud que conocemos a fondo",
+    "indexEyebrow": "A quién atendemos",
+    "indexTitle": "Hecho para prácticas de salud que quieren liderar.",
+    "indexSub": "Atendemos exclusivamente prácticas de salud que quieren dominar su mercado — desde medspas individuales hasta redes multi-ubicación.",
+    "cards": {
+      "clinics": {
+        "tag": "Clínico",
+        "title": "Clínicas y prácticas multi-especialidad",
+        "desc": "Sistemas de búsqueda, anuncios pagados y adquisición de pacientes diseñados tanto para consultorios únicos como para redes multi-ubicación.",
+        "points": ["Medicina familiar", "Cardiología", "Dental", "Pediatría"],
+        "stat": "200+ clínicas atendidas",
+        "cta": "Explorar clínicas"
+      },
+      "medspas": {
+        "tag": "Estético",
+        "title": "MedSpas y marcas de wellness",
+        "desc": "Social de alto volumen, campañas en Meta y sitios diseñados para convertir — afinados para servicios electivos y estéticos.",
+        "points": ["MedSpa", "Estética", "Terapia IV", "Wellness"],
+        "stat": "40+ medspas activados",
+        "cta": "Explorar medspas"
+      },
+      "specialty": {
+        "tag": "Complejidad",
+        "title": "Especialidad y emergencias",
+        "desc": "Adquisición de pacientes consciente del cumplimiento y orientada a la urgencia para ER, urgencias y prácticas de especialidad.",
+        "points": ["Emergencia", "Urgencias", "Ortopedia", "Oncología"],
+        "stat": "12+ redes de ER y especialidad",
+        "cta": "Explorar especialidad"
+      }
+    }
+  },
+  "featurePairs": {
+    "eyebrow": "Capacidades combinadas",
+    "title": "Donde dos canales suman más que la suma",
+    "indexEyebrow": "SEO local y visibilidad",
+    "indexTitle": "Domina tu búsqueda local — del map pack a los AI Overviews.",
+    "indexSub": "Un enfoque de cuatro pilares para visibilidad en búsqueda local, datos estructurados y descubrimiento con IA para tu práctica de salud.",
+    "learnMore": "Conoce más",
+    "cards": {
+      "gbp": { "tag": "Local Pack", "title": "Google Business Profile", "desc": "Optimización completa y gestión semanal de tu GBP para asegurar posiciones en el Local Pack." },
+      "citation": { "tag": "Autoridad", "title": "Construcción de citaciones", "desc": "Construcción de backlinks de autoridad y datos NAP consistentes en directorios de salud." },
+      "hyperLocal": { "tag": "Geo-targeted", "title": "Contenido hiperlocal", "desc": "Creación de landings programáticas para municipios y suburbios de Texas." },
+      "aeo": { "tag": "Búsqueda con IA", "title": "AEO y Schema", "desc": "Estructuración de datos para AI Overviews y dominio de búsqueda por voz en el sector médico." }
+    }
+  },
+  "faqs": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Servicios de marketing en salud — Preguntas frecuentes",
+    "indexEyebrow": "Servicios, precios y alcance",
+    "indexTitleLine1": "Preguntas",
+    "indexTitleAccent": "de servicio",
+    "indexIntro": "Cómo funcionan en la práctica el alcance, los tiempos, los presupuestos de anuncios, el cumplimiento y el modelo de colaboración al sumar un socio de crecimiento en salud — escrito para quienes toman la decisión.",
+    "stillCardTitle": "¿Necesitas un alcance a la medida?",
+    "stillCardP1": "Grupo multi-ubicación, lanzamiento nuevo o una agencia actual que estás listo para reemplazar — dimensionamos el compromiso a tu etapa. Sin propuestas tipo plantilla.",
+    "stillCardP2": "Una llamada. Auditamos tu funnel actual, nombramos las tres fugas de ingresos más grandes y te decimos qué servicios realmente las moverían.",
+    "stillCardCta": "Agenda una auditoría gratuita",
+    "items": [
+      {
+        "q": "¿Qué servicios de marketing en salud entregan realmente?",
+        "a": "Operamos un stack completo de crecimiento en salud bajo un mismo techo — <strong>SEO local, optimización de Google Business Profile, anuncios pagados en Google y Meta, contenido + schema, sitios web enfocados a conversión, motores de reseñas y reputación, y tracking compatible con HIPAA</strong>. Encima de eso, lanzamos <strong>software a medida y flujos de automatización / IA clínica</strong> cuando el cuello de botella de tu crecimiento es operativo, no de marketing. La mayoría de clientes nos contrata como su equipo de crecimiento externo, no como un proveedor de un solo canal."
+      },
+      {
+        "q": "¿Cuánto tarda el SEO en crecer las citas de pacientes?",
+        "a": "Las victorias en Local Pack y Google Business Profile suelen aparecer en los primeros <strong>30 a 60 días</strong> — precisión de categorías, cadencia de fotos, velocidad de reseñas, consistencia de NAP y arreglos de schema on-page se mueven rápido. Las posiciones orgánicas para keywords de servicio de alta intención se acumulan a lo largo de los <strong>meses 3–6</strong>, y el trabajo de contenido long-tail / autoridad eleva el tráfico durante los <strong>meses 6–12</strong>. Los anuncios pagados cierran la brecha desde el día uno para que tengas citas reservadas mientras el orgánico se pone al día."
+      },
+      {
+        "q": "¿Conviene correr Google Ads, Meta Ads o ambos?",
+        "a": "Depende de la intención. <strong>Google Ads</strong> captura pacientes que ya están buscando (urgencias, ER, dental de emergencia, términos \"near me\") — CPC alto pero intención alta. <strong>Meta e Instagram Ads</strong> generan demanda para servicios electivos y estéticos (MedSpa, cirugía plástica, ortodoncia) donde el paciente todavía no ha escrito una búsqueda. La mayoría de clínicas multi-servicio corren ambos, ponderados por línea de servicio. Reconstruimos tu tracking con <strong>conversiones del lado del servidor y carga de conversiones offline</strong> para que la inversión se atribuya a ingresos reales reservados, no solo a llenado de formularios."
+      },
+      {
+        "q": "¿Qué software a medida, automatizaciones y flujos de IA pueden construir para una clínica?",
+        "a": "Cualquier cosa que viva entre tu motor de marketing y tu operación clínica. Builds comunes: <strong>chatbots de triage con IA, automatizaciones de formularios de intake, integraciones de API con EHR / sistemas de gestión, secuencias automatizadas de recall y recuperación de no-shows, dashboards de reportes en tiempo real y portales del paciente compatibles con HIPAA</strong>. Los desplegamos sobre tu stack actual (Athena, eClinicalWorks, NextGen, Epic, OpenDental, etc.) para que la recepción opere más ligera y los datos de marketing regresen limpios al EHR."
+      },
+      {
+        "q": "¿Cómo mantienen el tracking, el retargeting y los creativos compatibles con HIPAA?",
+        "a": "Reconstruimos nuestro stack de tracking tras la auditoría de salud de Meta en 2023 y la guía de pixels de la FTC. Kit estándar: <strong>GTM del lado del servidor, conversiones hasheadas, redacción de IP, proveedores cubiertos por BAA, retargeting solo con eventos personalizados (nunca audiencias basadas en PHI) y revisión de claims clínicos en cada anuncio pagado</strong>. También montamos banners de consentimiento y opt-ins explícitos donde las reglas estatales de telemedicina o terapia lo requieren. Si un proveedor en tu funnel no puede firmar un BAA, lo rodeamos."
+      },
+      {
+        "q": "¿Cobran por servicio o como retainer mensual integrado?",
+        "a": "Mayormente <strong>retainers mensuales</strong> — así es como los canales que se acumulan (SEO, contenido, velocidad de reseñas, audiencias de retargeting) realmente pagan. Los retainers se dimensionan por mix de servicios y tier de inversión publicitaria, con una tarifa de estrategia plana encima para que la agencia gane por resultados, no por volumen de compra de anuncios. Compromisos puntuales (rediseños de sitio, software a medida, proyectos de automatización, solo-auditorías) se cotizan como <strong>proyectos de tarifa fija</strong>. Compartimos precios en la llamada de descubrimiento, ya que vimos tu funnel."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "¿Listo para crecer?",
+    "titleLine": "Construyamos tu",
+    "titleAccent": "pipeline de pacientes",
+    "text": "Recibe una sesión de estrategia gratuita con un especialista en crecimiento en salud. Auditamos tu funnel, mapeamos tu oportunidad y te mostramos exactamente por dónde empezar.",
+    "button": "Agenda una llamada de consultoría gratuita"
+  },
+  "detailPages": {
+    "backToServices": "Volver a Servicios",
+    "relatedServicesHeading": "Servicios relacionados",
+    "viewAllHeading": "Explorar todos los servicios",
+    "ctaTitle": "¿Listo para lanzar este servicio?",
+    "ctaSubtitle": "Agenda una llamada estratégica gratuita de 30 minutos. Definimos el alcance y los próximos pasos."
+  },
+  "websiteDesign": {
+    "doCards": {
+      "ux": { "name": "Diseño UX", "desc": "Los mapas de journey del paciente guían cada layout, cada CTA y cada elección de copy." },
+      "conversion": { "name": "Diseño para conversión", "desc": "Hero, prueba, oferta, CTA — cada sección se gana su scroll." },
+      "speed": { "name": "Optimización de velocidad", "desc": "Cargas sub-2s en 4G, pipeline de imágenes, lazy-load, edge cache." },
+      "mobile": { "name": "Mobile-first", "desc": "El 70% del tráfico de pacientes es móvil — ahí empieza el diseño." },
+      "cms": { "name": "CMS y handoff", "desc": "Construido en Webflow, WordPress o Next.js — tu equipo lo opera después." },
+      "a11y": { "name": "Accesibilidad", "desc": "Cumple WCAG 2.2 AA por defecto. La salud lo exige." }
+    },
+    "carePlans": {
+      "maintain": {
+        "name": "Maintain",
+        "tagline": "Hosting, monitoreo y parches de seguridad para que el sitio recién lanzado siga rápido y seguro.",
+        "includes": [
+          "Hosting administrado cubierto por BAA",
+          "Monitoreo de uptime 99.9% + alertas",
+          "Parches de seguridad y actualizaciones mensuales",
+          "Re-auditoría trimestral de desempeño y accesibilidad",
+          "Backups (diarios, retención de 30 días)"
+        ]
+      },
+      "optimize": {
+        "name": "Optimize",
+        "badge": "Más popular",
+        "tagline": "Todo lo de Maintain, más un experimento de CRO mensual y actualizaciones de contenido continuas.",
+        "includes": [
+          "Un test A/B o experimento de CRO al mes",
+          "Revisión de heatmap + session-replay",
+          "2 horas de actualizaciones de contenido / copy",
+          "Diagnóstico del funnel de agendamiento",
+          "Retro mensual de desempeño con video"
+        ]
+      },
+      "growthPartner": {
+        "name": "Growth Partner",
+        "tagline": "Optimize, más un ciclo trimestral de rediseño y SEO integrado para que el sitio siga acumulando.",
+        "includes": [
+          "Ciclo trimestral de rediseño (una sección)",
+          "SEO local y técnico integrado",
+          "Adición de schema para nuevos servicios",
+          "Contenido editorial (2 artículos al mes)",
+          "Líder de crecimiento dedicado"
+        ]
+      },
+      "perMonth": "/ mes"
+    },
+    "packages": {
+      "perMonth": "",
+      "getQuote": "Pide una cotización",
+      "mostPopular": "Más popular",
+      "essential": {
+        "name": "Essential",
+        "price": "desde $7,500",
+        "priceNote": "pago único, entrega en 6–8 semanas",
+        "tagline": "Prácticas de una sola ubicación que necesitan un sitio moderno y enfocado a conversión.",
+        "bestFor": "Clínicas individuales, MedSpas individuales, médicos solos",
+        "bullets": [
+          "Hasta 12 páginas únicas",
+          "Build moderno en Next.js o Webflow",
+          "Reporte de auditoría WCAG 2.2 AA",
+          "Widget de agendamiento (proveedor a tu elección)",
+          "GA4 del lado del servidor + Search Console",
+          "Setup de hosting + soporte de 30 días post-lanzamiento"
+        ]
+      },
+      "growth": {
+        "name": "Growth",
+        "price": "desde $14,500",
+        "priceNote": "pago único, entrega en 8–10 semanas",
+        "tagline": "Prácticas en crecimiento que necesitan diseño con CRO incorporado y momentum SEO continuo.",
+        "bestFor": "Clínicas listas para expandir o rebrandear para pacientes de mayor ticket",
+        "bullets": [
+          "Hasta 30 páginas únicas",
+          "Headless CMS para que tu equipo publique",
+          "Integración de agendamiento EHR / PMS",
+          "Baseline de CRO: heatmaps + 2 experimentos al lanzamiento",
+          "Blog + arquitectura de pillars por condición",
+          "Optimización de 90 días post-lanzamiento"
+        ]
+      },
+      "multiLocation": {
+        "name": "Multi-ubicación",
+        "price": "desde $28,000",
+        "priceNote": "pago único, entrega en 10–14 semanas",
+        "tagline": "Grupos con varias clínicas, integraciones complejas o escrutinio de cumplimiento.",
+        "bestFor": "4+ ubicaciones, grupos de cirugía especializada, DSOs dentales",
+        "bullets": [
+          "50+ páginas con plantillas dinámicas por ubicación",
+          "Schema LocalBusiness + Physician por ubicación",
+          "Integración directa con API de EHR (Athena / eCW / NextGen)",
+          "Diagrama de arquitectura HIPAA + modelo de amenazas",
+          "CDN multi-región + edge functions",
+          "Lanzamiento dedicado + soporte white-glove de 6 meses"
+        ]
+      }
+    },
+    "steps": {
+      "audit": { "name": "Auditoría", "desc": "Benchmark de desempeño, UX y conversión en el sitio actual." },
+      "strategy": { "name": "Estrategia", "desc": "Arquitectura de información y brief página por página firmado." },
+      "execution": { "name": "Ejecución", "desc": "Sistema de diseño, build, carga de contenido, integraciones, QA." },
+      "optimization": { "name": "Optimización", "desc": "Pruebas A/B, heatmaps, retro mensual de desempeño." }
+    },
+    "stats": {
+      "conversion": "Tasa de conversión promedio",
+      "speed": "Puntaje de velocidad de página",
+      "bounce": "Tasa de rebote",
+      "mobile": "Calificación de UX móvil"
+    },
+    "industries": {
+      "dental": { "label": "Grupos dentales", "blurb": "Multi-ubicación, ricos en schema, landings por clínica." },
+      "medspas": { "label": "MedSpas", "blurb": "Sistemas visuales editoriales y ofertas que generan consultas." },
+      "specialty": { "label": "Especialidad y emergencia", "blurb": "Intención de alta complejidad, agendamientos rápidos, páginas de condición." },
+      "wellness": { "label": "Clínicas de wellness", "blurb": "Flujos de membresía, profundidad de contenido, loops de retención." },
+      "mentalHealth": { "label": "Salud mental", "blurb": "Directorios de terapeutas, pillars de condición, intake encriptado." },
+      "plastic": { "label": "Cirugía plástica", "blurb": "Páginas de procedimiento, desempeño de galería, formularios seguros para PHI." },
+      "urgent": { "label": "Urgencias y atención primaria", "blurb": "Volumen walk-in, señales de tiempo de espera, ubicaciones ligadas a GBP." },
+      "vision": { "label": "Visión y optometría", "blurb": "Dominio por ciudad, catálogos de armazones, agendamiento de exámenes." }
+    },
+    "comparison": {
+      "lcp": { "label": "Largest Contentful Paint", "before": "LCP de varios segundos en la mayoría de builds en Wix o WordPress.", "after": "Core Web Vitals en verde en cada página que entregamos." },
+      "booking": { "label": "Conversión de agendamiento", "before": "Formulario de contacto genérico, sin un siguiente paso claro.", "after": "Widget de agendamiento conectado al EHR, embebido en la página." },
+      "pages": { "label": "Páginas de servicio / ubicación", "before": "Una sola página \"Servicios\" cubriendo todas las líneas.", "after": "Una página única por servicio × por ubicación, con schema." },
+      "a11y": { "label": "Accesibilidad", "before": "Fallas comunes de WCAG en Lighthouse / axe.", "after": "WCAG 2.2 AA al lanzar, con auditoría documentada." },
+      "editing": { "label": "Experiencia de edición", "before": "Editar requiere a la agencia cada vez.", "after": "Headless CMS — tu equipo publica copy sin ayuda de dev." }
+    },
+    "compliance": {
+      "a11y": {
+        "tag": "WCAG 2.2 AA",
+        "title": "Defendible en accesibilidad al lanzar.",
+        "lede": "Los sitios web de salud son la vertical más demandada por accesibilidad ADA. Cada sitio que entregamos se audita antes de salir en vivo.",
+        "bullets": [
+          { "label": "axe + Lighthouse automatizados", "detail": "Chequeos continuos en CI durante todo el build." },
+          { "label": "Pasada manual con lector de pantalla", "detail": "JAWS / NVDA / VoiceOver en cada plantilla." },
+          { "label": "Garantía de contraste y foco", "detail": "Body ≥ 4.5:1, texto grande ≥ 3:1, foco de teclado visible." },
+          { "label": "Reporte de auditoría escrito", "detail": "Entrégaselo a legal si llega una demand letter." }
+        ],
+        "linkLabel": "Nuestro compromiso de accesibilidad"
+      },
+      "hipaa": {
+        "tag": "Build compatible con HIPAA",
+        "title": "Limpio de PHI, cubierto por BAA, amigable con auditorías.",
+        "lede": "El Bulletin del HHS de 2022 hizo de los pixels de terceros en páginas con PHI una verdadera responsabilidad. Construimos alrededor — no encima.",
+        "bullets": [
+          { "label": "Hosting cubierto por BAA", "detail": "AWS / GCP / Vercel Enterprise con BAAs firmados." },
+          { "label": "Formularios encriptados en tránsito", "detail": "TLS 1.3, sin PHI en URLs, validación del lado del servidor." },
+          { "label": "Sin pixels en páginas con PHI", "detail": "GA4 del lado del servidor, carga consciente del consentimiento." },
+          { "label": "Diagrama de arquitectura HIPAA", "detail": "Entregado al lanzar para tu archivo de cumplimiento." }
+        ],
+        "linkLabel": "Cómo manejamos HIPAA"
+      }
+    },
+    "stackGroups": {
+      "build": {
+        "label": "Build stack",
+        "caption": "Elegimos el stack que el proyecto necesita — no el que revendemos.",
+        "notes": {
+          "Next.js": "Default para builds nuevos",
+          "Astro": "Sitios marketing-first",
+          "Webflow": "Edición sin dev",
+          "WordPress": "Publicación diaria de blog",
+          "Sanity": "Headless CMS",
+          "Tailwind": "Sistema de diseño",
+          "Cloudflare": "Edge + WAF",
+          "Vercel": "Hosting"
+        }
+      },
+      "integrations": {
+        "label": "Integraciones de salud",
+        "caption": "Agendamiento, EHR, pagos y analítica — conectados a los sistemas que ya operas.",
+        "notes": {
+          "Athena": "API de agenda EHR",
+          "eClinicalWorks": "EHR + intake",
+          "NextGen": "EHR",
+          "Kareo / Tebra": "PM + agendamiento",
+          "Dr. Chrono": "API de agendamiento",
+          "Zocdoc": "Embed de widget",
+          "Calendly Health": "Cubierto por BAA",
+          "GA4 server-side": "Tracking limpio de PHI"
+        }
+      }
+    },
+    "related": {
+      "pairWith": "Combínalo con",
+      "seo": { "name": "Servicios SEO", "blurb": "Pon el nuevo sitio a posicionar — técnico, on-page, local — el mismo mes que sale." },
+      "brand": { "name": "Identidad de marca y diseño", "blurb": "Asegúrate de que el sistema sobre el que está construido el sitio realmente escale." },
+      "analytics": { "name": "Analítica y reportes", "blurb": "Conecta el dashboard que prueba que el nuevo sitio está convirtiendo." }
+    },
+    "faqs": [
+      { "q": "¿Cuánto tarda un sitio nuevo para una clínica?", "a": "Diseño más build toma de 6 a 9 semanas para prácticas de una ubicación, y de 10 a 14 para sistemas multi-ubicación. Secuenciamos la recolección de contenido por adelantado para que el build nunca se atore esperando copy." },
+      { "q": "¿El nuevo sitio será compatible con HIPAA?", "a": "Sí. Cada sitio que entregamos corre en hosting cubierto por BAA con formularios encriptados, logging amigable con auditorías y cero pixels de terceros en páginas que tocan PHI. Te entregamos un diagrama de arquitectura HIPAA al lanzar." },
+      { "q": "¿El widget de agendamiento puede conectarse con nuestro EHR?", "a": "La mayoría de EHRs modernos (Athena, eClinicalWorks, NextGen, Kareo, Cerner, Epic vía partners de integración) exponen APIs de agenda a las que podemos conectarnos. También soportamos proveedores tipo widget (Solv, Zocdoc) cuando no hay API directa." },
+      { "q": "¿Tiene que ser en WordPress?", "a": "No. Para builds nuevos vamos por default a un stack moderno en Next.js porque es más rápido, más seguro y más fácil de actualizar. WordPress está bien cuando el equipo necesita publicar posts de blog a diario; aun así lo blindamos para HIPAA." },
+      { "q": "¿Qué pasa con Core Web Vitals y el impacto SEO?", "a": "Cada sitio nuevo se entrega con LCP, INP y CLS en verde, datos estructurados en cada servicio y ubicación, y un mapa de redirects para que las URLs viejas no pierdan autoridad. Medimos el impacto SEO mensualmente post-lanzamiento." },
+      { "q": "¿Cómo manejan el cumplimiento ADA / WCAG?", "a": "Corremos chequeos automatizados de axe / Lighthouse durante todo el build y una pasada manual con lector de pantalla antes del lanzamiento. Cada sitio se entrega con un reporte de auditoría WCAG 2.2 AA por escrito que puedes entregar a legal si llega una demand letter." },
+      { "q": "¿El rediseño dañará nuestras posiciones actuales?", "a": "No si se hace bien. Mapeamos cada URL antigua a su nuevo destino con 301s, preservamos la equidad de title / meta / heading en las páginas top y re-enviamos el sitemap. La mayoría de sitios que relanzamos mantienen o ganan posición en 60 días." },
+      { "q": "¿Quién es dueño del sitio después del lanzamiento?", "a": "Tú. Código, archivos de diseño, cuenta de hosting, dominio — todo a tu nombre desde el día uno. Podemos gestionar el hosting y las actualizaciones como retainer, o entregártelo limpio." }
+    ],
+    "cases": {
+      "dental": {
+        "numLbl": "Conversión de agendamiento",
+        "sector": "Dental multi-ubicación",
+        "name": "Grupo dental regional · 11 clínicas",
+        "problem": "Sitio WordPress legacy, LCP de 4s en móvil, una sola página genérica de servicios, cero schema local.",
+        "result": "Landings por ubicación con CWV en verde, defendibles ante ADA, widget de agendamiento conectado a Athena."
+      },
+      "medspa": {
+        "numLbl": "Solicitudes de consulta",
+        "sector": "MedSpa de lujo",
+        "name": "Rebranding de medspa individual",
+        "problem": "Sitio viejo en Wix que se leía como un folleto de spa de 2018. Precios premium, pero la marca no los justificaba.",
+        "result": "Sistema visual editorial, 100 en PageSpeed, time-on-site 6:42 → 9:18, consultas orgánicas triplicadas."
+      },
+      "surgery": {
+        "numLbl": "Intake orgánico",
+        "sector": "Cirugía especializada",
+        "name": "Grupo quirúrgico multi-médico",
+        "problem": "Páginas de procedimiento a 3 clics de profundidad, sin schema de FAQ, AI Overviews citando a la competencia.",
+        "result": "Posición #1 local en 14 procedimientos, schema de FAQ + Physician, intake de pacientes integrado al EHR."
+      },
+      "mental": {
+        "numLbl": "Tasa de rebote",
+        "sector": "Salud mental",
+        "name": "Práctica grupal · 7 terapeutas",
+        "problem": "Bios de terapeutas en PDF, sin páginas por condición, formulario de intake abandonado al 80%.",
+        "result": "Páginas pillar por condición con schema, intake progresivo de 6 campos, envíos de formulario encriptados."
+      },
+      "vision": {
+        "numLbl": "Clics en map pack",
+        "sector": "Cuidado visual",
+        "name": "Optometría · 4 ubicaciones",
+        "problem": "Un sitio para cuatro ciudades, contenido idéntico, filtrado fuera del local pack.",
+        "result": "Páginas únicas por ciudad ligadas a GBP, schema LocalBusiness por ubicación, LCP sub-1.5s."
+      },
+      "aesthetics": {
+        "numLbl": "Leads de procedimiento",
+        "sector": "Estética",
+        "name": "Práctica de cirugía plástica",
+        "problem": "Galería before/after lenta, sin FAQ de procedimiento, riesgo de ad-pixel en formularios de consulta.",
+        "result": "Galería servida por CDN, schema de FAQ por procedimiento, conversiones del lado del servidor, tracking limpio de PHI."
+      }
+    }
+  }
+}

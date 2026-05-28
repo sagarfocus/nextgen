@@ -1,0 +1,58 @@
+import type { CaseCard } from '@/components/service/CaseStudies';
+
+export const CASES: CaseCard[] = [
+  {
+    emoji: '🦷',
+    num: '+187%',
+    numLbl: 'Booking conv.',
+    sector: 'Multi-location dental',
+    name: 'Regional dental group · 11 clinics',
+    problem: 'Legacy WordPress site, 4s LCP on mobile, single generic services page, zero local schema.',
+    result: 'Per-location landing pages with green CWV, ADA-defensible, booking widget wired to Athena.',
+  },
+  {
+    emoji: '💆',
+    num: '3.4×',
+    numLbl: 'Consult requests',
+    sector: 'Luxury medspa',
+    name: 'Solo medspa rebrand',
+    problem: 'Old Wix site reading like a 2018 spa brochure. Premium pricing, but brand was not earning it.',
+    result: 'Editorial visual system, 100 PageSpeed, time-on-site 6:42 → 9:18, organic consults tripled.',
+  },
+  {
+    emoji: '🏥',
+    num: '2.1×',
+    numLbl: 'Organic intake',
+    sector: 'Specialty surgery',
+    name: 'Multi-physician surgical group',
+    problem: 'Procedure pages buried 3 clicks deep, no FAQ schema, AI Overviews citing competitors.',
+    result: '#1 local rank for 14 procedures, FAQ + Physician schema, EHR-integrated patient intake.',
+  },
+  {
+    emoji: '🧠',
+    num: '−64%',
+    numLbl: 'Bounce rate',
+    sector: 'Mental health',
+    name: 'Group practice · 7 therapists',
+    problem: 'Therapist bios in PDF, no condition-level pages, intake form abandoned at 80%.',
+    result: 'Condition pillar pages with schema, 6-field progressive intake, encrypted form submissions.',
+  },
+  {
+    emoji: '👁️',
+    num: '+212%',
+    numLbl: 'Map-pack clicks',
+    sector: 'Vision care',
+    name: 'Optometry · 4 locations',
+    problem: 'One site for four cities, identical content, getting filtered out of the local pack.',
+    result: 'Unique city pages with GBP linkage, LocalBusiness schema per location, sub-1.5s LCP.',
+  },
+  {
+    emoji: '💉',
+    num: '+148%',
+    numLbl: 'Procedure leads',
+    sector: 'Aesthetics',
+    name: 'Plastic surgery practice',
+    problem: 'Before/after gallery slow, no procedure FAQ, ad-pixel risk on consult forms.',
+    result: 'CDN-served gallery, FAQ schema per procedure, server-side conversions, PHI-clean tracking.',
+  },
+];

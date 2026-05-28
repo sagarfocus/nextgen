@@ -1,0 +1,466 @@
+{
+  "seo": {
+    "title": "About TheNextGen — Healthcare-Only Marketing Agency in Texas",
+    "description": "Healthcare-only marketing team behind 200+ Texas practice partnerships. Our methodology, infrastructure, principles, and how we hold every channel accountable to revenue."
+  },
+  "hero": {
+    "eyebrow": "About Our Healthcare Marketing Agency",
+    "titleStart": "The Clinical Growth",
+    "titleAccent": "Operating System",
+    "titleEnd": ".",
+    "lede": "We are not a standard boutique firm. We are a <em>clinical growth operating system</em> bridging digital patient acquisition and front-desk operational capacity for healthcare providers across Texas.",
+    "trust": {
+      "practicesNum": "200",
+      "practicesLabel": "Practices Served",
+      "spendNum": "$10M",
+      "spendLabel": "Ad Spend Managed",
+      "hipaaNum": "98",
+      "hipaaSymbol": "%",
+      "hipaaLabel": "HIPAA Audit Pass"
+    },
+    "hubName": "TheNextGen",
+    "hubTag": "Healthcare",
+    "orbitPills": {
+      "patientAcquisition": "Patient Acquisition",
+      "hipaa": "HIPAA Compliance",
+      "localSeo": "Local SEO",
+      "automation": "Automation & AI",
+      "reputation": "Reputation",
+      "branding": "Brand Strategy"
+    }
+  },
+  "genesis": {
+    "eyebrow": "Why We Exist",
+    "title": "Transcending the vendor relationship.",
+    "p1": "Traditional agencies were <strong>actively harming high-volume clinics</strong>. Driving thousands of inquiries to Freestanding ERs and Urgent Cares while inadvertently crushing the front desk. Marketing was \"working,\" but the clinic was failing to process the volume.",
+    "p2": "So we became <strong>operational integrators</strong>. We don't just run Google Ads — we build the AI chatbots that answer them. We don't just do Local SEO — we build the digital intake forms that process the patients who find you.",
+    "principles": {
+      "healthcare": {
+        "title": "100% Healthcare",
+        "text": "No e-commerce, no real estate. We only scale medical practices."
+      },
+      "hipaa": {
+        "title": "HIPAA Native",
+        "text": "Compliance is the architecture, not an afterthought."
+      },
+      "empathy": {
+        "title": "Clinical Empathy",
+        "text": "Reduce staff burnout, improve patient experience."
+      },
+      "data": {
+        "title": "Data Verified",
+        "text": "Strict ROI. No vanity metrics, only Cost Per Acquisition."
+      }
+    }
+  },
+  "mission": {
+    "eyebrow": "Our Mission & Core Values",
+    "title": "Three principles that guide every campaign we launch.",
+    "subtitle": "Every decision we make is guided by these principles — from the campaigns we launch to the tools we build.",
+    "readMore": "Read more",
+    "readMoreAria": "Read more about {{title}}"
+  },
+  "values": {
+    "eyebrow": "Our values",
+    "title": "Values we hire and operate by",
+    "subtitle": "These aren't slogans on a wall — they show up in every campaign decision.",
+    "readMore": "Read more",
+    "items": {
+      "patientFirst": {
+        "title": "Patient-First Marketing",
+        "blurb": "Connect the right patient to the right provider — never manipulate either.",
+        "text": "Every campaign must serve the patient as much as the practice. We never employ dark patterns, misleading claims, or non-compliant advertising tactics. Marketing should connect the right patient to the right provider at the right time.",
+        "lead": "Marketing should connect the right patient to the right provider - never manipulate either.",
+        "body": "Every campaign we ship is audited for dark patterns, misleading claims, and tactics that prey on patients in vulnerable moments. We design every funnel as if a patient family member were the one clicking.",
+        "longBody1": "Healthcare marketing fails most patients on first contact. Misleading symptom-to-treatment promises, fake urgency, bait-and-switch landing pages — the patterns are well documented and the patient pays for them.",
+        "longBody2": "We refuse the pattern. Every campaign that ships from this studio passes a patient-first review before launch. The question is always the same: would I want a family member clicking this ad?",
+        "longBody3": "When the answer is no, the campaign doesn't ship. That's the whole policy. It costs us short-term clicks; it earns long-term trust — which is the only thing that compounds in healthcare.",
+        "dontTitle": "What we never do",
+        "dontList": [
+          "Fake urgency timers or \"only 2 spots left\" claims",
+          "Misleading symptom-to-treatment promises",
+          "Bait-and-switch landing pages",
+          "Tracking PHI without consent or BAA coverage",
+          "Dark patterns in forms or pricing"
+        ],
+        "doTitle": "What we do instead",
+        "doList": [
+          "Honest service descriptions, reviewed by clinicians",
+          "Verified provider profiles + credentials",
+          "Permission-based retargeting only",
+          "Transparent pricing wherever permitted",
+          "HIPAA-aware analytics implementations"
+        ],
+        "proofValue": "100%",
+        "proofLabel": "Campaigns audited monthly for compliance",
+        "faqs": [
+          {
+            "q": "How is the patient-first audit run?",
+            "a": "Every campaign passes a documented checklist before launch: clinical claims reviewed, urgency language flagged, dark patterns scored, BAA coverage on every tool. The audit log lives with the campaign so it can be re-checked anytime."
+          },
+          {
+            "q": "What if a tactic works but you flag it?",
+            "a": "It does not ship. We have lost short-term performance over this; we have never lost a long-term client over it. The policy is non-negotiable because the cost of being wrong in healthcare is not recoverable."
+          },
+          {
+            "q": "Do you review competitor practices too?",
+            "a": "Only as benchmark for ours. We do not audit competitor ethics, but if a peer is pulling patients with dark patterns we steer our client away from copying the tactic — and usually toward a more durable position."
+          }
+        ],
+        "visual": {
+          "bad1": "Dark patterns",
+          "bad2": "Fake urgency",
+          "good1": "Right patient",
+          "good2": "Right time"
+        }
+      },
+      "revenueAccountable": {
+        "title": "Revenue-Accountable Results",
+        "blurb": "Patients booked and revenue earned — not impressions and reach.",
+        "text": "We track actual patient registrations and revenue impact - not vanity metrics like impressions or reach. Our analytics dashboards show Cost Per Acquisition, appointment-to-show ratios, and real ROI tied to your bottom line.",
+        "lead": "We track patients booked and revenue earned - not impressions and reach.",
+        "body": "Every engagement ships with a live dashboard tied to your EHR or PM system. Numbers update weekly, exceptions get escalated, and your account lead can defend every dollar at the board meeting.",
+        "longBody1": "Most agency reporting is decorated noise. Impressions, reach, CTR — numbers that move while the practice's actual revenue stays flat. The dashboard looks good; the bank account does not.",
+        "longBody2": "We refuse to ship that report. Every engagement here starts with a single question: which numbers, when they move, mean the practice is healthier? Those are the numbers we track. Everything else is footnote.",
+        "longBody3": "The dashboard ties to your EHR or PM system, updates weekly, and travels with the engagement. When something underperforms it gets escalated before the next planning cycle — not buried in the appendix of a deck.",
+        "dontTitle": "Metrics we ignore",
+        "dontList": [
+          "Impressions and reach as primary KPIs",
+          "Clicks divorced from booked appointments",
+          "CTR % without conversion context",
+          "\"Engagement\" that doesn't move revenue"
+        ],
+        "doTitle": "Metrics we report weekly",
+        "doList": [
+          "Cost per acquired patient (by channel)",
+          "Appointment-to-show ratio",
+          "Average revenue per new patient",
+          "Channel-level ROI tied to PM data",
+          "Pipeline forecasted vs. delivered"
+        ],
+        "proofValue": "4.1×",
+        "proofLabel": "Median client ROAS, last 12 months",
+        "faqs": [
+          {
+            "q": "What if our EHR doesn't expose the data?",
+            "a": "We bridge to the data the EHR does expose — even if that means writing a server-side connector. Where data simply doesn't exist (some PMS systems still don't track show rate), we instrument the gap as part of the engagement."
+          },
+          {
+            "q": "How often does the dashboard update?",
+            "a": "Weekly at minimum. Most clients also get a daily refresh on paid spend so anomalies surface inside the same day rather than at the end of a billing cycle."
+          },
+          {
+            "q": "Can leadership see the same view we see?",
+            "a": "Yes. Every dashboard ships role-aware: a clinic-floor view for operations, a board view for leadership, and a channel view for the marketing team. Same source, different lens."
+          }
+        ],
+        "visual": {
+          "cpaLabel": "CPA",
+          "cpaValue": "$148",
+          "cpaDelta": "↓ 32%",
+          "showLabel": "Show rate",
+          "showValue": "86%",
+          "showDelta": "↑ 12%",
+          "roasLabel": "ROAS",
+          "roasValue": "4.1×",
+          "roasDelta": "real $"
+        }
+      },
+      "complianceWithoutCompromise": {
+        "title": "Compliance Without Compromise",
+        "blurb": "BAAs everywhere. Encryption everywhere. Compliance as foundation.",
+        "text": "We sign Business Associate Agreements (BAAs) with every client. Our infrastructure - from encrypted forms to secure hosting - is designed to protect patient data at every touchpoint. Compliance is not a feature; it is the foundation.",
+        "lead": "BAAs with every client. Encryption at every touchpoint. Compliance is the foundation, not the feature.",
+        "body": "Healthcare data leaks ruin practices. We treat compliance as a build-time constraint, not a post-launch checklist - and we audit our own stack quarterly so your team never has to second-guess ours.",
+        "longBody1": "Compliance failures in healthcare marketing are not survivable for most practices. One breach, one OCR letter, one pixel firing PHI to an ad platform — and the practice spends a year explaining it to regulators.",
+        "longBody2": "We build to avoid that outcome on day one. Every tool in our stack is BAA-covered. Every form is encrypted end-to-end. Every analytics implementation strips PHI before any signal leaves your environment.",
+        "longBody3": "And every quarter we audit our own stack — because the right time to find a compliance gap is before the regulator does, and because we will not be the vendor that ends a practice.",
+        "dontTitle": "What we won't risk",
+        "dontList": [
+          "Pixel-based tracking that captures PHI",
+          "Non-BAA-covered third-party tools in PHI paths",
+          "Plain-text patient data in transit",
+          "Vendor changes without compliance review"
+        ],
+        "doTitle": "Our compliance stack",
+        "doList": [
+          "HIPAA-aligned hosting + infrastructure",
+          "BAA signed with every vendor in the data chain",
+          "Encrypted form submission end-to-end",
+          "PHI-safe analytics implementations",
+          "Annual third-party security review"
+        ],
+        "proofValue": "100%",
+        "proofLabel": "BAAs signed with healthcare clients",
+        "faqs": [
+          {
+            "q": "Will you sign a BAA with us?",
+            "a": "Yes, with every healthcare client. The BAA is in place before any campaign goes live and covers every system in the data path — analytics, ad platforms, CRM, hosting."
+          },
+          {
+            "q": "What about Meta and Google ads?",
+            "a": "We use the BAA-eligible or BAA-equivalent configurations on both platforms, route conversion events through server-side, and strip PHI before any signal is sent. Where a platform cannot meet the bar, we do not run on it."
+          },
+          {
+            "q": "How often is the stack audited?",
+            "a": "Quarterly internal review, annual third-party security review. Findings are logged and remediated before the next quarter closes."
+          }
+        ],
+        "visual": {
+          "hipaa": "HIPAA Compliant",
+          "baa": "BAA Signed",
+          "encrypted": "Encrypted"
+        }
+      }
+    }
+  },
+  "spectrum": {
+    "eyebrow": "What We Do",
+    "title": "From digital patient acquisition to operational automation.",
+    "subtitle": "We cover every aspect of clinical growth — the full spectrum of healthcare marketing under one operating system.",
+    "pillars": {
+      "acquisition": {
+        "tag": "Digital Acquisition",
+        "title": "Patient Acquisition Channels",
+        "text": "Get found by patients actively searching for care in your area — and convert that intent into booked appointments across every channel that moves the needle.",
+        "features": {
+          "mapPack": {
+            "title": "Own the Local Map Pack",
+            "desc": "Rank in Google's top-3 local results for high-intent searches like \"urgent care near me\" — where 76% of bookings come from."
+          },
+          "paidMedia": {
+            "title": "HIPAA-Aware Paid Media",
+            "desc": "Google Ads, Meta, and YouTube campaigns engineered for healthcare — compliant tracking, real ROAS, no wasted spend."
+          },
+          "funnels": {
+            "title": "Multi-Channel Patient Funnels",
+            "desc": "Connect search, social, email, and SMS into one measurable acquisition system that follows the patient journey end-to-end."
+          }
+        },
+        "metricValue": "4.1×",
+        "metricLabel": "Median ROAS across healthcare clients"
+      },
+      "infrastructure": {
+        "tag": "Infrastructure & Brand",
+        "title": "Operational Foundation",
+        "text": "The foundation every modern practice needs — a HIPAA-compliant website, a trusted clinical brand, and analytics that prove what works.",
+        "features": {
+          "websiteDesign": {
+            "title": "Booking-First Website Design",
+            "desc": "HIPAA-compliant, conversion-engineered medical websites where every page leads patients toward a scheduled appointment."
+          },
+          "brand": {
+            "title": "Healthcare Brand Identity",
+            "desc": "Visual identity, voice, and tone systems built to read as competent and current across signage, screen, and exam room."
+          },
+          "analytics": {
+            "title": "Revenue-Tied Analytics",
+            "desc": "Real-time dashboards that connect every marketing dollar to booked visits, payer mix, and patient lifetime value."
+          }
+        },
+        "metricValue": "+38%",
+        "metricLabel": "Average lift in booking completion"
+      }
+    }
+  },
+  "methodology": {
+    "eyebrow": "Methodology",
+    "titleStart": "The Clinic Growth OS:",
+    "titleAccent": "Our Methodology",
+    "titleEnd": ".",
+    "subtitle": "We don't just generate leads — we build predictable patient acquisition systems that scale with your practice.",
+    "phases": {
+      "phase1": {
+        "num": "01",
+        "phase": "Phase 1",
+        "title": "Discovery & Technical Audit",
+        "body": "We conduct a comprehensive audit of your existing digital infrastructure — website performance, SEO health, Google Business Profile optimization, paid media efficiency, and front-desk call handling capacity. This reveals exactly where patients are being lost in your funnel.",
+        "foot": "Audit - Week 1–2"
+      },
+      "phase2": {
+        "num": "02",
+        "phase": "Phase 2",
+        "title": "Strategy & Infrastructure Build",
+        "body": "We design your custom growth strategy mapping service-specific keywords, competitive positioning, and patient journey touchpoints. Simultaneously, our development team deploys the automation infrastructure — AI chatbots, digital intake forms, call tracking, and real-time analytics dashboards.",
+        "foot": "Build - Week 3–4"
+      },
+      "phase3": {
+        "num": "03",
+        "phase": "Phase 3",
+        "title": "Launch & Accelerate",
+        "body": "Within the first 30 days, we launch SEO optimizations, paid media campaigns across Google and Meta, social media content calendars, and healthcare content publishing. You will see tangible operational changes in patient inquiry volume and front-desk efficiency from week one.",
+        "foot": "Launch - Day 1–30"
+      }
+    }
+  },
+  "infrastructure": {
+    "eyebrow": "The Infrastructure You Hire",
+    "title": "An entire department, integrated into your clinic.",
+    "subtitle": "When you partner with us, you aren't getting a single freelancer. You are integrating an entire department of specialized medical growth experts into your clinic operations.",
+    "learnMore": "Learn more",
+    "ariaLabel": "{{tag}} - read more",
+    "cards": {
+      "growthTeam": {
+        "tag": "The Growth Team",
+        "title": "Dedicated specialists driving patient volume.",
+        "text": "A senior, healthcare-fluent team focused entirely on driving qualified patient volume to your facility — integrated into your operations.",
+        "bullets": [
+          "Dedicated Ads Manager",
+          "SEO & AEO Strategist",
+          "Medical Content Writer",
+          "Social Media Manager"
+        ]
+      },
+      "compliance": {
+        "tag": "Compliance Protocol",
+        "title": "Built around healthcare data security.",
+        "text": "We understand the regulatory environment of healthcare. Our infrastructure is engineered around data security from day one.",
+        "bullets": [
+          "BAA Readiness & Execution",
+          "Strict HIPAA Data Routing",
+          "Encrypted Patient Intake",
+          "Secure Cloud Architecture"
+        ]
+      },
+      "sla": {
+        "tag": "Service Level Agreements",
+        "title": "Rapid response is a clinical necessity.",
+        "text": "In the medical sector, response time matters. We document guaranteed SLAs so you always know what to expect.",
+        "bullets": [
+          "Under 4 Hours for Critical Updates",
+          "24/7 Uptime Monitoring",
+          "Real-Time Dashboard Access",
+          "Documented Escalation Paths"
+        ]
+      }
+    }
+  },
+  "team": {
+    "eyebrow": "Leadership",
+    "title": "A small team that does big work for healthcare.",
+    "subtitle": "No overstaffed account managers. No outsourced execution. Every account is run by senior practitioners who have actually grown a clinic.",
+    "founder": {
+      "tag": "Founder & CEO",
+      "name": "Jay Dahal",
+      "role": "15 years in healthcare growth marketing",
+      "quote": "Healthcare marketing isn't about being clever. It's about being specific — specific to the specialty, specific to the patient, specific to the moment of decision.",
+      "bio": "Jay started his career running marketing for a regional urgent care chain before founding TheNextGen in 2019. He's spoken at AAFP and AHCA conferences, contributed to industry publications on compliant patient acquisition, and personally consults on every major account.",
+      "creds": [
+        "HIPAA Certified",
+        "Google Premier Partner",
+        "15 Years Healthcare",
+        "AAFP Speaker"
+      ]
+    },
+    "cta": "See all teams"
+  },
+  "faqs": {
+    "eyebrow": "Your Questions, Answered",
+    "titleStart": "Frequently",
+    "titleMid": "Asked",
+    "titleAccent": "Questions",
+    "titleEnd": ".",
+    "intro": "Everything you need to know about working with TheNextGen — from compliance and reporting to clinic specialties and engagement models.",
+    "still": {
+      "title": "Still have questions?",
+      "p1": "Every healthcare practice has different operational realities and compliance edges. If there's anything you'd like to clarify about how we work, pricing, or fit, our team is here to help.",
+      "p2": "Reach out anytime — we'll walk you through every detail before any commitment.",
+      "cta": "Contact Us"
+    },
+    "items": {
+      "hipaa": {
+        "q": "Are you actually HIPAA-compliant, or just claiming it?",
+        "aBefore": "We sign ",
+        "aBold1": "Business Associate Agreements (BAAs)",
+        "aMid": " with every client. Our infrastructure runs on BAA-ready hosting, encrypted forms, and audited data routing. Our Head of Compliance personally reviews every funnel before launch — we have a 98% HIPAA audit pass rate."
+      },
+      "onlyHealthcare": {
+        "q": "Do you only work with healthcare practices?",
+        "aBold1": "100% healthcare.",
+        "aAfter": " We turn down e-commerce, real estate, and general SaaS clients. Specialization is what lets us go deep on patient acquisition models, regulatory edges, and clinical workflow integration that generalists can't match."
+      },
+      "practicesType": {
+        "q": "What kind of practices do you typically work with?",
+        "aBefore": "Freestanding ERs, urgent care, MedSpas, dental, primary care, mental health, chiropractic, plastic surgery, ophthalmology, and dermatology — mostly Texas-based. We've served ",
+        "aBold1": "200+ practices",
+        "aAfter": " ranging from single-location clinics to multi-site groups."
+      },
+      "speed": {
+        "q": "How fast do you typically deliver results?",
+        "aBefore": "Paid channels usually drive measurable patient leads within ",
+        "aBold1": "14–30 days",
+        "aMid": " of launch. Local SEO is a 90–180 day curve depending on your starting position. Our average client sees a ",
+        "aBold2": "3× ROI lift within 90 days",
+        "aAfter": " — though high-acuity verticals (FSEDs, urgent care) often move faster."
+      },
+      "internalTeam": {
+        "q": "Do you replace or work alongside our internal team?",
+        "aBefore": "Either model works. Most clients use us as their ",
+        "aBold1": "full marketing department",
+        "aMid": " (no internal hires needed). Larger groups embed us alongside a marketing director for execution muscle. We're flexible — what matters is the patient acquisition outcome."
+      }
+    }
+  },
+  "servicesSpectrum": {
+    "eyebrow": "What we do",
+    "title": "The full spectrum of growth services",
+    "subtitle": "Integrated, not siloed."
+  },
+  "principles": {
+    "eyebrow": "Our principles",
+    "title": "What we believe about healthcare marketing",
+    "subtitle": "Four convictions shape every decision we make on your behalf."
+  },
+  "valueDetail": {
+    "backToAbout": "Back to About",
+    "relatedHeading": "Related values",
+    "ctaTitle": "Want to see this in practice?",
+    "ctaSubtitle": "Book a free 30-minute call. We'll walk you through how this value shows up in real client work.",
+    "ctaButton": "Book a Discovery Call",
+    "breadcrumbHome": "Home",
+    "breadcrumbAbout": "About",
+    "crumbCoreValue": "Core value: {{title}}",
+    "heroCta": "Talk to us about this",
+    "body": {
+      "eyebrow": "In practice",
+      "title": "How this principle holds across the work.",
+      "intro": "Three short reads — what we refuse to do, what we do instead, and the outcome that shows the principle is more than a marketing line.",
+      "challenge": "The challenge",
+      "approach": "Our approach",
+      "outcome": "The outcome"
+    },
+    "narrative": {
+      "aboutEyebrow": "About this principle",
+      "aboutTitle": "{{title}} — a built-in constraint, not a marketing line.",
+      "aboutFallback": "A foundational principle that shapes every campaign we ship from this studio.",
+      "approachEyebrow": "Our approach",
+      "approachTitle": "Our unique approach is what sets this principle apart.",
+      "approachFallback": "We treat this principle as a build-time constraint, audited internally on every campaign before it ships.",
+      "aboutCta": "Learn more",
+      "approachCta": "About page"
+    },
+    "faq": {
+      "eyebrow": "Frequently asked",
+      "title": "Questions we hear about this principle.",
+      "intro": "Recurring questions from leadership teams about how this principle is enforced — and what happens when something crosses the line."
+    },
+    "related": {
+      "eyebrow": "More principles",
+      "title": "The other principles that guide every campaign.",
+      "intro": "The two sibling principles that ship with this one — applied to every campaign, in every vertical, every time.",
+      "readMore": "Read more",
+      "readMoreAria": "Read more about {{title}}"
+    },
+    "closing": {
+      "pill": "Open for new engagements",
+      "titleLine1": "Want a marketing partner",
+      "titleLine2Start": "who works",
+      "titleLine2Em": "this way",
+      "titleLine2End": "?",
+      "body": "Start with the five-day audit. A real ranked plan for your practice, yours to keep — held to the same principles you just read.",
+      "primary": "Get my growth audit",
+      "secondary": "Back to About"
+    },
+    "seoTitle": "{{title}} — Core Value · About TheNextGen"
+  }
+}

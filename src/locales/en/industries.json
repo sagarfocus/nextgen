@@ -1,0 +1,517 @@
+{
+  "seo": {
+    "title": "Healthcare Marketing by Specialty — Clinics, MedSpas, Urgent Care, ERs",
+    "description": "Vertical-specific patient acquisition for clinics, medspas, urgent care, freestanding ERs, dental, mental health and more — built for the dynamics of each specialty."
+  },
+  "hero": {
+    "eyebrow": "Industries We Serve",
+    "titleLead": "Healthcare marketing tailored to your ",
+    "titleAccent": "specialty",
+    "titleTrail": ".",
+    "lede": "We don’t do generic. From freestanding ERs to MedSpas, we build patient-acquisition systems engineered for the specific dynamics of your vertical - high-acuity urgency, walk-in convenience, or longevity-driven retention.",
+    "ctaPrimary": "Get an Estimated Quote",
+    "ctaSecondary": "Schedule a Call",
+    "trustLabel": "Trusted by 200+ Texas Practices",
+    "trust": {
+      "verticals": "Specialty Verticals",
+      "adSpend": "Ad Spend Managed",
+      "roi": "Avg. ROI Lift"
+    },
+    "floatCards": {
+      "leads": {
+        "value": "+312%",
+        "label": "Patient leads, 90 days"
+      },
+      "hipaa": {
+        "value": "HIPAA-Compliant",
+        "label": "Across all verticals"
+      }
+    }
+  },
+  "overview": {
+    "eyebrow": "Who We Serve",
+    "title": "We currently serve three healthcare verticals.",
+    "subtitle": "Each industry has its own patient psychology, regulatory landscape, and acquisition dynamics. We build playbooks - not templates - for each one.",
+    "linkLabel": "Explore industry deep-dives",
+    "cardAriaLabel": "Read more about {{label}}",
+    "cards": {
+      "freestandingEr": {
+        "meta": "High Acuity",
+        "title": "Freestanding Emergency Rooms",
+        "text": "Patient acquisition built for trauma searches, immediate visibility, and competitor overflow capture.",
+        "imageAlt": "Freestanding emergency room illustration"
+      },
+      "urgentCare": {
+        "meta": "Walk-In Volume",
+        "title": "Urgent Care & Walk-in Clinics",
+        "text": "Volume-driven patient acquisition with reputation systems and wait-time transparency.",
+        "imageAlt": "Urgent care clock illustration"
+      },
+      "medspa": {
+        "meta": "Longevity",
+        "title": "MedSpas & Wellness Clinics",
+        "text": "High-LTV patient acquisition with social-led lead generation and automated retention sequences.",
+        "imageAlt": "MedSpa wellness illustration"
+      }
+    }
+  },
+  "allIndustries": {
+    "eyebrow": "All Industries",
+    "title": "Explore All Industries We Serve.",
+    "subtitle": "Deep-dive into our tailored marketing strategies for each healthcare specialty - from urgent care to plastic surgery.",
+    "countNum": "10 Specialties",
+    "countLabel": "Tailored Playbooks",
+    "cardAriaLabel": "Read more about {{label}}",
+    "ready": "Ready",
+    "levers": "Levers",
+    "seeMore": "See more"
+  },
+  "deepDive": {
+    "eyebrow": "Industry Playbooks",
+    "title": "Specialized strategies for each vertical.",
+    "subtitle": "Click any subtype to see the exact tactics, channels, and KPIs we deploy - built around the specific patient psychology of your industry.",
+    "blocks": {
+      "emergencyRoom": {
+        "badge": "High Acuity",
+        "title": "Freestanding ERs (FSEDs)",
+        "desc": "High-acuity patient acquisition where every minute matters. Built for visibility, urgency, and trust at the moment of crisis.",
+        "tags": {
+          "trauma": "Trauma",
+          "localPack": "Local Pack",
+          "geofencing": "Geofencing"
+        },
+        "subs": {
+          "visibility": {
+            "category": "Visibility",
+            "title": "Zero-Click Maps",
+            "text": "Dominating the Local Pack for immediate visibility when seconds matter."
+          },
+          "searchIntent": {
+            "category": "Search Intent",
+            "title": "High-Acuity Keywords",
+            "text": "Bidding on trauma and severe symptom searches with dedicated landing pages."
+          },
+          "capture": {
+            "category": "Capture",
+            "title": "Competitor Geofencing",
+            "text": "Capturing overflow from saturated urgent cares with geo-targeted messaging."
+          },
+          "reputation": {
+            "category": "Reputation",
+            "title": "Trust at First Click",
+            "text": "Authority signals and social proof for crisis-moment decision-making."
+          }
+        }
+      },
+      "urgentCare": {
+        "badge": "Walk-In Volume",
+        "title": "Urgent Care & Walk-in Clinics",
+        "desc": "Convenience-driven patient acquisition built for high-volume throughput, transparency, and reputation at scale.",
+        "tags": {
+          "volume": "Volume",
+          "reviews": "Reviews",
+          "waitTimes": "Wait Times"
+        },
+        "subs": {
+          "throughput": {
+            "category": "Throughput",
+            "title": "Volume Optimization",
+            "text": "Scaling patient acquisition efficiently without sacrificing quality of care."
+          },
+          "trust": {
+            "category": "Trust",
+            "title": "Reputation Management",
+            "text": "Automated review generation that builds trust at scale across every location."
+          },
+          "convenience": {
+            "category": "Convenience",
+            "title": "Wait-Time Marketing",
+            "text": "Promoting transparency to win convenience-driven patients over competitors."
+          },
+          "coverage": {
+            "category": "Coverage",
+            "title": "Multi-Location SEO",
+            "text": "Hyper-local content per location with consistent NAP citations across directories."
+          }
+        }
+      },
+      "wellness": {
+        "badge": "Longevity",
+        "title": "Wellness & Longevity Clinics",
+        "desc": "High-LTV patient acquisition for elective and aesthetic services, with retention systems built around recurring revenue.",
+        "tags": {
+          "highLtv": "High LTV",
+          "socialLed": "Social-Led",
+          "retention": "Retention"
+        },
+        "subs": {
+          "acquisition": {
+            "category": "Acquisition",
+            "title": "Lead Generation",
+            "text": "Capturing high-intent prospects via social media with conversion-focused funnels."
+          },
+          "nurture": {
+            "category": "Nurture",
+            "title": "Automated Nurture",
+            "text": "Building trust through educational email sequences that convert leads to bookings."
+          },
+          "retention": {
+            "category": "Retention",
+            "title": "LTV Maximization",
+            "text": "Focusing on recurring revenue and patient retention beyond first treatment."
+          },
+          "brand": {
+            "category": "Brand",
+            "title": "Aesthetic Branding",
+            "text": "Visual identity and content systems that signal premium, transformative outcomes."
+          }
+        }
+      }
+    }
+  },
+  "faqs": {
+    "eyebrow": "Industry Questions, Answered",
+    "titleLead": "Vertical-specific ",
+    "titleAccent": "Questions",
+    "titleTrail": ".",
+    "intro": "How we tailor strategy, compliance, and timelines for every healthcare specialty we serve - from high-acuity ER traffic to elective aesthetic acquisition.",
+    "still": {
+      "title": "Don’t see your specialty?",
+      "body1": "We work across more verticals than we list. If you run a healthcare or wellness practice with patients to acquire, let’s talk - we’ll tell you honestly whether our playbook fits your specialty.",
+      "body2": "One call. No pitch deck. We’ll audit your current funnel and tell you the three biggest gaps in your vertical.",
+      "cta": "Book a Free Audit"
+    },
+    "items": {
+      "specialize": {
+        "q": "Do you specialize in specific healthcare verticals or work across all of them?",
+        "a": "We focus exclusively on <strong>healthcare and wellness</strong> - from Freestanding ERs and Urgent Care to MedSpas, Dental, Mental Health, Chiropractic, Plastic Surgery, Ophthalmology, and Dermatology. Each vertical gets its own tailored playbook because patient psychology, acquisition cost, and compliance rules differ dramatically across specialties."
+      },
+      "erVsMedspa": {
+        "q": "How does your strategy change between an Emergency Room and a MedSpa?",
+        "a": "ERs require <strong>24/7 high-acuity visibility</strong>, trauma-intent keyword capture, and competitor overflow strategy. MedSpas live on <strong>aesthetic-led social, Meta campaigns, and LTV-driven email nurturing</strong>. We don’t reuse templates - ER ad copy speaks to urgency and trust; MedSpa creative speaks to outcomes, aspiration, and financing options."
+      },
+      "multiSpecialty": {
+        "q": "Can you handle multi-specialty practices or location networks?",
+        "a": "Yes. Multi-location and multi-specialty groups are one of our strengths. We build <strong>per-service-line landing pages</strong>, location-level GBP optimization, and unified reporting that rolls up by region or specialty - so your CMO sees the whole picture and each clinic gets credit for its own lift."
+      },
+      "timing": {
+        "q": "How long until I see results for my specific industry?",
+        "a": "High-intent verticals (Urgent Care, ER, Dental emergencies) typically show paid-media leads within <strong>2–3 weeks</strong>. Elective verticals (MedSpa, Plastic Surgery, LASIK) need 30–60 days to warm up retargeting audiences. Organic + Local SEO compounds across <strong>months 3–6</strong> for every vertical."
+      },
+      "compliance": {
+        "q": "How do you handle compliance across different industries?",
+        "a": "Every vertical has different exposure - Mental Health is HIPAA plus state telehealth rules, MedSpas balance FDA cosmetic claim limits, ERs work with EMTALA-adjacent messaging. We use <strong>server-side tracking, BAA-ready vendors, and pre-approved creative libraries</strong> tailored to each specialty’s regulatory landscape."
+      }
+    }
+  },
+  "detailPage": {
+    "breadcrumbHome": "Home",
+    "breadcrumbIndustries": "Industries",
+    "industryTag": "Industry · {{meta}}",
+    "whatWeShip": "What we ship",
+    "talkTo": "Talk to us about {{label}}",
+    "bodyEyebrow": "The playbook",
+    "bodyTitle": "How we ship {{label}} growth.",
+    "bodyIntro": "The patient psychology, the regulatory edges, and the funnel mechanics that make {{label}} its own discipline — not a generic healthcare playbook.",
+    "bodyOverlayTitle": "Inside the playbook.",
+    "bodyOverlayCta": "Discover",
+    "narrative": {
+      "aboutEyebrow": "About {{label}}",
+      "aboutTitle": "{{label}} marketing, built around the patients your practice was made for.",
+      "aboutFallbackBody": "A focused growth playbook for {{label}} practices, tuned to the patient psychology and regulatory edges of the vertical.",
+      "aboutCta": "Learn more",
+      "approachEyebrow": "Our approach",
+      "approachTitle": "Our unique approach is what sets {{label}} growth apart.",
+      "approachFallbackBody": "A documented, repeatable system that ties every campaign back to revenue per chair-hour — not impressions, not reach.",
+      "approachCta": "About page"
+    },
+    "faqEyebrow": "Frequently asked",
+    "faqTitle": "Questions we hear about {{label}}.",
+    "faqIntro": "Recurring questions from {{label}} owners and growth leads — answered before the first conversation.",
+    "relatedEyebrow": "More industries",
+    "relatedTitle": "Other healthcare verticals we serve.",
+    "relatedIntro": "Other clinics running the same growth operating system, tuned to their patient psychology and regulatory edge.",
+    "relatedCardAria": "Read more about {{label}}",
+    "relatedSector": "Industry",
+    "closingPill": "Now booking · Q3 2026",
+    "closingTitleLead": "Ready to ship this playbook for ",
+    "closingTitleEm": "your",
+    "closingTitleTail": " {{label}} practice?",
+    "closingBody": "The five-day audit hands you a real ranked plan for your practice - yours to keep, agency or not.",
+    "closingCtaPrimary": "Get my growth audit",
+    "closingCtaSecondary": "Back to Industries",
+    "seoTitle": "{{label}} Marketing — Healthcare Patient Acquisition"
+  },
+  "entries": {
+    "dental": {
+      "label": "Dental",
+      "meta": "New patient acquisition & recall",
+      "description": "Patient acquisition for general + specialty dental practices. We engineer recall and reactivation alongside new-patient flow so chairs stay full year-round, not just during back-to-school season.",
+      "longBody1": "Dental marketing wins on two fronts at once: new-patient acquisition and the dormant-patient base sitting in your PMS. Most practices over-invest in the first and quietly leak the second, then wonder why chair utilisation never holds.",
+      "longBody2": "We build for both. Local SEO and GBP tuned per-office so each location ranks on its own catchment without cannibalising the rest. Recall + reactivation automation that brings the lapsed patient back without sending the cadence the patient base resents.",
+      "longBody3": "The result is a dental practice that fills the schedule from two sides - and a per-office cost-per-patient that compounds down as the recall engine matures.",
+      "services": [
+        "Local SEO + GBP for clinic clusters",
+        "Recall + reactivation automation",
+        "Treatment-bundle landing pages",
+        "Review velocity engine",
+        "Insurance + financing intake flows"
+      ],
+      "metricValue": "+47%",
+      "metricLabel": "New patient bookings, 90d",
+      "faqs": [
+        {
+          "q": "Does this work for a solo office?",
+          "a": "Yes - solo offices typically see the fastest payback because the recall layer activates a base that already exists. Networks layer on the brand and per-location SEO work that scales the same engine."
+        },
+        {
+          "q": "Will the recall feel pushy?",
+          "a": "It is cadence-aware and respects the patient's prior engagement. Reminders are written like the front desk would, if the front desk had time - not like a marketing template."
+        }
+      ]
+    },
+    "urgent-care": {
+      "label": "Urgent Care",
+      "meta": "Walk-in volume & reputation",
+      "description": "Walk-in clinics live and die on volume. We build the reputation systems, wait-time transparency, and intent-aware paid funnels that keep your locations full all year - not just during flu season.",
+      "longBody1": "Urgent care is the most volume-sensitive vertical in healthcare marketing. The cost structure assumes a busy clinic, and a quiet week burns the entire month's margin.",
+      "longBody2": "We build the systems that hold volume across seasonality. Wait-time transparency pages that win the comparison shop. A review velocity engine that keeps your rating ahead of the chain across town. After-hours paid that captures the 8pm parent before the national landing page does.",
+      "longBody3": "The result is a clinic that holds its baseline through flu season and the slow months alike - and a cost per walk-in that drops as the reputation engine compounds.",
+      "services": [
+        "Wait-time + queue transparency pages",
+        "Reputation + review velocity engine",
+        "Same-day intent paid campaigns",
+        "GBP + service-area page network",
+        "After-hours intake automation"
+      ],
+      "metricValue": "+92%",
+      "metricLabel": "Same-day bookings, 6mo",
+      "faqs": [
+        {
+          "q": "Can you compete with national chains?",
+          "a": "Yes - by winning on local detail. ETAs, in-network specifics, parking, after-hours phone. A national landing page can't match it; a properly tuned local presence wins."
+        },
+        {
+          "q": "How fast until volume moves?",
+          "a": "Most urgent-care clients see same-day booking volume shift within the first three weeks, with the lower cost-per-walk-in holding from month two onward."
+        }
+      ]
+    },
+    "medspa": {
+      "label": "MedSpa",
+      "meta": "Aesthetic conversions & LTV",
+      "description": "MedSpas earn their margin on the second and third visit, not the first. We model paid acquisition around lifetime value, then layer the retention sequences and loyalty mechanics that turn one-off bookings into multi-year patient relationships.",
+      "longBody1": "Aesthetics is a lifetime-value game disguised as a first-visit market. Practices that build for the discount-driven first visit train the patient base they end up regretting six months later.",
+      "longBody2": "We re-price acquisition around LTV. Memberships, treatment bundles, and financing flows replace one-off promo offers as the primary new-patient route. Retention sequences hold the second and third visit - which is where the margin actually lives.",
+      "longBody3": "The result is a medspa that compounds across seasons instead of running monthly discount cycles to backfill churn.",
+      "services": [
+        "LTV-modelled paid acquisition",
+        "Social-led lead generation",
+        "Membership + loyalty programmes",
+        "Aftercare + recall automation",
+        "Treatment-bundle creative + landing pages"
+      ],
+      "metricValue": "+62%",
+      "metricLabel": "AOV, six months",
+      "faqs": [
+        {
+          "q": "Do we have to drop discount offers entirely?",
+          "a": "Discounts move to retention triggers - reactivation, loyalty rewards - rather than first-visit acquisition. The acquisition funnel anchors on financing and bundles instead."
+        },
+        {
+          "q": "Do you handle social creative?",
+          "a": "Yes - we direct shoots, brief edits, and run the iteration loop with platform-policy review on every asset."
+        }
+      ]
+    },
+    "freestanding-er": {
+      "label": "Freestanding ER",
+      "meta": "High-acuity trauma keywords",
+      "description": "Emergency-care acquisition isn't optimised paid search - it's a closed loop of clinical intent, payer-mix routing, and overflow capture from hospital partners. We rebuild that loop end-to-end so every booked visit moves revenue.",
+      "longBody1": "Freestanding ERs lose money in two ways: paying for impressions that crowd the lobby with non-emergent complaints, and missing the high-acuity searches that map to billable, revenue-positive visits.",
+      "longBody2": "We rebuild the acquisition loop around true ED intent. Trauma SEO. Wait-time landing pages. Insurance verification flows that complete before arrival. A GBP profile tuned for the emergent terms.",
+      "longBody3": "The result is an ER that fills the slots it has capacity for - including overnight - and stops paying for the traffic it can't bill.",
+      "services": [
+        "Trauma intent SEO + GBP",
+        "Wait-time landing pages",
+        "Insurance verification flows",
+        "Geo-fenced display + connected TV",
+        "EmergencyMedicalService schema"
+      ],
+      "metricValue": "+318%",
+      "metricLabel": "Booked visits, 90d",
+      "faqs": [
+        {
+          "q": "How do you reduce low-acuity traffic?",
+          "a": "By targeting clinical-need intent instead of broad emergency-care keywords. Trauma-specific landing pages and a GBP profile tuned for emergent terms self-select the patients you want."
+        },
+        {
+          "q": "Is the insurance verification HIPAA-safe?",
+          "a": "The flow runs under your BAA-covered eligibility tools. We instrument the marketing funnel up to that handoff, not inside it."
+        }
+      ]
+    },
+    "mental-health": {
+      "label": "Mental Health",
+      "meta": "Compliant, sensitive lead-gen",
+      "description": "Mental health acquisition that respects intent. Compliant, sensitive lead-gen flows that prioritise the patient relationship over click-rate optimisation - and route prospective patients to the right modality on the first touch.",
+      "longBody1": "Mental health marketing is more about tone than tactics. The patient is anxious, the search is private, and the wrong word at the wrong step sends them back to Google.",
+      "longBody2": "We write for the actual person at the actual moment. Modality-specific landing pages. Anonymous-friendly inquiry flows. Insurance and sliding-scale intake that respects the patient's prior research.",
+      "longBody3": "The result is a practice that books the right patient on the first touch, without forcing them through a checkout-style funnel that destroys the relationship before it starts.",
+      "services": [
+        "HIPAA-aware paid acquisition",
+        "Modality-specific landing pages",
+        "Anonymous-friendly inquiry flows",
+        "Insurance + sliding-scale intake",
+        "Provider-match recommendation engines"
+      ],
+      "metricValue": "+58%",
+      "metricLabel": "Qualified inquiries, 6mo",
+      "faqs": [
+        {
+          "q": "Are crisis-line ads handled differently?",
+          "a": "Yes - through an explicit compliance review and only on platforms with documented safety guardrails. They never run on standard engagement optimisation."
+        },
+        {
+          "q": "How do you protect patient privacy in tracking?",
+          "a": "Server-side conversion tracking that strips PHI before any signal leaves your environment. Ad platforms only receive the metadata they need to optimise - never the patient detail."
+        }
+      ]
+    },
+    "primary-care": {
+      "label": "Primary Care",
+      "meta": "Annual visits & insurance match",
+      "description": "Panel growth and payer-mix optimisation. We grow your panel with the patients your panel actually needs - by payer, by zip, by visit type. Volume that lifts revenue, not just utilisation.",
+      "longBody1": "Primary care marketing is often utilisation marketing - more visits, more visits, more visits - even when the panel doesn't need more volume, it needs better mix.",
+      "longBody2": "We model the panel first. Which payers, which zips, which visit types lift revenue per chair-hour. Then we route paid spend and SEO toward the patients that match - and quietly steer the rest to clinics where they're a better fit.",
+      "longBody3": "The result is a panel that gets healthier, not just bigger. Annual wellness funnels, same-day-visit ads for capacity gaps, and care-gap closure flows that move the metrics value-based contracts care about.",
+      "services": [
+        "Panel-growth campaigns",
+        "Payer-mix landing pages",
+        "Annual wellness funnels",
+        "Same-day-visit ads",
+        "Care-gap closure flows"
+      ],
+      "metricValue": "+24%",
+      "metricLabel": "Commercial payer mix shift",
+      "faqs": [
+        {
+          "q": "Can this work under a value-based contract?",
+          "a": "Yes - the campaigns tune to the metrics that matter under the contract: care-gap closure, AWV completion, attribution. Reporting runs against the contract scorecard."
+        },
+        {
+          "q": "Is payer-mix targeting legal?",
+          "a": "Yes - it runs through landing pages and audiences tuned to the zips and demographics that map to the payer mix you need, never through any restricted data."
+        }
+      ]
+    },
+    "chiropractic": {
+      "label": "Chiropractic",
+      "meta": "Pain-point & injury leads",
+      "description": "Pain-point and injury-led acquisition. We map the patient journey from the moment back pain hits Google to the first appointment confirmation - and engineer the funnels that close in days, not weeks.",
+      "longBody1": "Chiropractic practices win on the first three days of patient consideration. Back pain hits, the search happens, and a decision is made fast. Most practices show up too late, or show up looking generic.",
+      "longBody2": "We build for that window. Pain + injury intent SEO. Same-week appointment flows. Auto-injury landing pages for the claim-driven cohort. Review velocity for the trust-driven cohort.",
+      "longBody3": "The result is a practice that wins the search the moment it happens - and the membership funnel that holds the patient for the next twelve months.",
+      "services": [
+        "Pain + injury intent SEO",
+        "Auto-injury claim landing pages",
+        "Membership + wellness plan funnels",
+        "Same-week appointment flows",
+        "Review velocity for trust-driven bookings"
+      ],
+      "metricValue": "+71%",
+      "metricLabel": "New patient bookings, 90d",
+      "faqs": [
+        {
+          "q": "Do you handle auto-injury leads?",
+          "a": "Yes - the claim-driven cohort has its own landing pages, language, and intake flow because it pays differently and needs a different consent layer."
+        },
+        {
+          "q": "How fast do new patients book?",
+          "a": "Most close inside the first 72 hours of search. The funnel is engineered for that window; anything slower is a lost patient."
+        }
+      ]
+    },
+    "plastic-surgery": {
+      "label": "Plastic Surgery",
+      "meta": "High-ticket consult acquisition",
+      "description": "High-ticket consult acquisition with a long consideration window. We engineer the nurture sequences and trust signals that close patients who research for months - without dropping the consult-to-procedure rate.",
+      "longBody1": "Plastic surgery is the longest consideration window in healthcare. Patients research for months before booking a consult, and most marketing breaks that journey by pushing too hard, too early.",
+      "longBody2": "We respect the timeline. Procedure-specific paid acquisition that lands in the right phase. Long-form education content for the research phase. Financing and consultation funnels for the decision phase.",
+      "longBody3": "The result is a practice that closes the patients who took six months to decide - without the discount-driven shortcuts that drop the procedure rate.",
+      "services": [
+        "Procedure-specific paid acquisition",
+        "Long-form education content",
+        "Consultation booking funnels",
+        "Financing + payment plan flows",
+        "Before/after gallery systems"
+      ],
+      "metricValue": "+44%",
+      "metricLabel": "Consult-to-procedure rate",
+      "faqs": [
+        {
+          "q": "Do you handle before/after photography?",
+          "a": "Yes - with explicit patient consent and platform-policy review on every asset. The gallery is a long-term compounding asset; it gets treated that way."
+        },
+        {
+          "q": "How long are nurture sequences?",
+          "a": "They map to the procedure type. A facelift nurture might run 90+ days; a quick injectable consult might run 7. The cadence is calibrated to historical decision timelines."
+        }
+      ]
+    },
+    "ophthalmology": {
+      "label": "Ophthalmology",
+      "meta": "LASIK & specialty leads",
+      "description": "LASIK and specialty leads. We separate elective surgical acquisition from routine eye-care growth so neither cannibalises the other - and route candidates by clinical fit, not just click intent.",
+      "longBody1": "Ophthalmology practices run two businesses at once: routine eye care and elective surgical (LASIK, cataracts, specialty). They have different patient psychologies, different margins, and they cannibalise each other when run on the same funnel.",
+      "longBody2": "We split them properly. LASIK candidate scoring routes only the right prospects into the surgical funnel. Specialty referral pages capture the post-cataract and macular-degeneration cohorts. Routine care holds its own SEO and recall layer.",
+      "longBody3": "The result is each business growing independently - and a surgical pipeline that closes on clinical fit, not just click intent.",
+      "services": [
+        "LASIK candidate scoring + paid acquisition",
+        "Specialty referral landing pages",
+        "Insurance + self-pay routing",
+        "Surgical consultation funnels",
+        "Post-procedure recall automation"
+      ],
+      "metricValue": "+39%",
+      "metricLabel": "Qualified LASIK consults",
+      "faqs": [
+        {
+          "q": "Does LASIK candidate scoring slow conversion?",
+          "a": "It increases conversion by routing unqualified leads to a different funnel. The surgical consult slot is too expensive to fill with non-candidates."
+        },
+        {
+          "q": "Can routine and surgical share creative?",
+          "a": "No - they share brand, never creative. The patient psychology is different enough that one set of creative drags both down."
+        }
+      ]
+    },
+    "dermatology": {
+      "label": "Dermatology",
+      "meta": "Cosmetic + medical hybrid",
+      "description": "Cosmetic and medical dermatology acquisition under one roof. We route patients by intent so cosmetic leads don't displace medical capacity - and your providers see the patient mix they're built for.",
+      "longBody1": "Dermatology practices that do both cosmetic and medical work face a routing problem: cosmetic queries can drown medical capacity, and medical queries can quietly miss the cosmetic upsell window.",
+      "longBody2": "We route patients by intent from the search itself. Cosmetic-vs-medical landing architecture. Mohs and skin-condition referral funnels separate from aesthetic membership programmes.",
+      "longBody3": "The result is a practice where the cosmetic margin grows without the medical pipeline drying up - and providers see the patient mix the practice was built around.",
+      "services": [
+        "Cosmetic-vs-medical intent routing",
+        "Skin condition landing pages",
+        "Aesthetic membership programmes",
+        "Mohs + specialty referral flows",
+        "Insurance verification automation"
+      ],
+      "metricValue": "+53%",
+      "metricLabel": "Cosmetic procedure bookings",
+      "faqs": [
+        {
+          "q": "How do you separate cosmetic from medical traffic?",
+          "a": "At the keyword level first, then through landing pages, then through booking flows. Each layer reinforces the routing so neither pipeline contaminates the other."
+        },
+        {
+          "q": "Can membership programmes share with the medical side?",
+          "a": "No - they run on parallel patient identities. The medical patient may opt into cosmetic over time, but the funnels do not assume it."
+        }
+      ]
+    }
+  }
+}

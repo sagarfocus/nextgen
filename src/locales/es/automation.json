@@ -1,0 +1,1419 @@
+{
+  "seo": {
+    "title": "Biblioteca de automatización para salud — Flujos gratuitos compatibles con HIPAA",
+    "description": "Ahorra más de 20 horas a la semana a tu recepción. Flujos listos para intake de pacientes, recordatorios, reseñas, verificación de seguros y chat con IA — compatibles con HIPAA, gratis y en producción en menos de una hora."
+  },
+  "breadcrumb": {
+    "automation": "Automatización",
+    "moreInfo": "Automatización · Más información",
+    "templates": "Plantillas",
+    "playbook": "Playbook"
+  },
+  "hero": {
+    "eyebrow": "Biblioteca de automatización compatible con HIPAA",
+    "titlePart1": "Automatización ",
+    "titleAccent": "más inteligente",
+    "titlePart2": " para cada punto de contacto con el paciente.",
+    "lede": "Ahorra más de 20 horas a la semana a tu recepción. Implementa flujos probados para intake de pacientes, recordatorios, reseñas, verificación de seguros y chat con IA — compatibles con HIPAA, gratis y en marcha en tu clínica en menos de una hora.",
+    "ctaPrimary": "Obtener las plantillas",
+    "ctaSecondary": "Agendar una llamada",
+    "trustLabel": "Más de 350 equipos clínicos confían en nosotros",
+    "trustLogosLabel": "Clientes destacados",
+    "trustLogos": {
+      "logo1": "ER of White Rock",
+      "logo2": "Naperville H&W",
+      "logo3": "Irving Health"
+    }
+  },
+  "whatIs": {
+    "title": "¿Qué es la automatización en salud?",
+    "text": "La automatización en salud consiste en desplegar flujos inteligentes que se encargan de tareas repetitivas de recepción, back-office y comunicación con pacientes — directamente dentro de los sistemas que tu clínica ya utiliza. Sin reemplazar nada, sin migrar. Solo menos trabajo manual.",
+    "moreInfo": "Más información"
+  },
+  "solutionsLibrary": {
+    "eyebrow": "Biblioteca de soluciones",
+    "title": "Explora todas las soluciones de automatización",
+    "subtitle": "Guías detalladas para cada flujo de automatización que ofrecemos. Elige una categoría para ver la plantilla completa, los pasos de configuración y el mapa de integraciones.",
+    "items": {
+      "aiChatbot": {
+        "title": "Chatbot con IA",
+        "desc": "Calificación de pacientes y captación de leads con GPT, 24/7."
+      },
+      "patientIntake": {
+        "title": "Intake de pacientes",
+        "desc": "Del formulario al registro en el EHR en segundos, con seguro pre-verificado."
+      },
+      "reviewCollection": {
+        "title": "Recolección de reseñas",
+        "desc": "Solicitudes de reseña en Google enrutadas por sentimiento que protegen tu reputación."
+      },
+      "appointmentReminders": {
+        "title": "Recordatorios de cita",
+        "desc": "Recordatorios por SMS y correo a 24 h y 2 h que reducen las ausencias hasta un 40%."
+      },
+      "insuranceVerification": {
+        "title": "Verificación de seguro",
+        "desc": "Elegibilidad en tiempo real, consulta de copagos y envío de pre-autorizaciones."
+      },
+      "patientRecall": {
+        "title": "Campañas de recuperación de pacientes",
+        "desc": "Secuencias automatizadas para pacientes inactivos o atrasados."
+      },
+      "socialPosting": {
+        "title": "Publicación en redes sociales",
+        "desc": "Subtítulos generados por IA publicados automáticamente en Facebook e Instagram todos los días."
+      },
+      "reportingDashboards": {
+        "title": "Dashboards de reportes",
+        "desc": "Tableros en vivo que integran Ads, GA4 y tu CRM en un solo lugar."
+      }
+    }
+  },
+  "impact": {
+    "live": "En vivo",
+    "reminder": "Recordatorio",
+    "steps": {
+      "step1": "Trigger recibido",
+      "step2": "Verificando elegibilidad",
+      "step3": "Registro EHR creado",
+      "step4": "Confirmaciones enviadas",
+      "confirmed": "Paciente confirmado",
+      "slack": "Slack notificado"
+    },
+    "eyebrow": "Automatización en acción",
+    "title": "El impacto real de poner los flujos de salud en piloto automático",
+    "lede": "Cada plantilla de nuestra biblioteca ha sido probada con clínicas reales. Estos son los resultados promedio que reportan nuestros partners en los primeros 60 días con nuestro stack de automatización.",
+    "stats": {
+      "hoursSaved": {
+        "label": "Horas ahorradas",
+        "value": "8+",
+        "desc": "Horas de recepción recuperadas por semana, por profesional"
+      },
+      "noShowDrop": {
+        "label": "Reducción de ausencias",
+        "value": "40%",
+        "desc": "Reducción promedio de ausencias tras activar los recordatorios"
+      },
+      "roi": {
+        "label": "ROI / año",
+        "value": "12K",
+        "desc": "Ahorro anual estimado por sede de clínica, en USD"
+      }
+    },
+    "badge": "Soporte sábado y domingo incluido",
+    "note": "* Los números reflejan promedios de clínicas partner de TheNextGen y no incluyen tarifas de plataforma."
+  },
+  "useCases": {
+    "eyebrow": "Casos de uso",
+    "titleLine1": "Automatizaciones reales",
+    "titleLine2": "corriendo en producción",
+    "sub": "Tres flujos en los que nuestras clínicas partner confían todos los días. Haz clic en cualquier caso para ver lo que corre por debajo.",
+    "items": {
+      "case1": {
+        "num": "/01",
+        "titleLine1": "Intake de pacientes",
+        "titleLine2": "sin toque humano",
+        "shortTitle": "Intake de pacientes sin toque humano",
+        "tag": "CASO DE USO #01:",
+        "heading": "Intake de pacientes sin toque humano",
+        "body": "Un paciente nuevo envía su información en línea. n8n verifica automáticamente su cobertura de seguro, crea un registro en tu EHR, lo guarda todo en una hoja de seguimiento y envía un correo de bienvenida — todo en menos de 3 segundos. Tu recepción nunca tiene que tocarlo.",
+        "bullets": [
+          "Webhook captura los datos del formulario del paciente",
+          "Elegibilidad del seguro verificada en tiempo real",
+          "Registro EHR creado automáticamente",
+          "Correo de confirmación + notificación a Slack enviados"
+        ]
+      },
+      "case2": {
+        "num": "/02",
+        "titleLine1": "Recolección inteligente",
+        "titleLine2": "de reseñas",
+        "shortTitle": "Recolección inteligente de reseñas",
+        "tag": "CASO DE USO #02:",
+        "heading": "Recolección inteligente de reseñas",
+        "body": "Después de la visita, el sistema espera 2 horas y analiza la satisfacción del paciente. Los pacientes contentos (4–5 estrellas) reciben una solicitud de reseña en Google por SMS y correo. Los pacientes por debajo del umbral son dirigidos a un formulario privado de feedback, protegiendo tu reputación en línea.",
+        "bullets": [
+          "Trigger post-visita con retraso inteligente",
+          "Análisis de sentimiento enruta a los pacientes según corresponda",
+          "Pacientes contentos → enlace a reseña en Google",
+          "Inquietudes → formulario privado de feedback (nunca público)"
+        ]
+      },
+      "case3": {
+        "num": "/03",
+        "titleLine1": "Captación de leads",
+        "titleLine2": "con IA",
+        "shortTitle": "Captación de leads con IA",
+        "tag": "CASO DE USO #03:",
+        "heading": "Captación de leads con IA",
+        "body": "Un chatbot con GPT-4 en tu sitio web califica a cada visitante. Recopila datos de contacto, identifica el interés en el servicio y la urgencia, crea entradas en el CRM y envía alertas urgentes a Slack para pacientes de alta prioridad — todo sin intervención humana.",
+        "bullets": [
+          "Impulsado por GPT-4 con guardarraíles de salud",
+          "Extrae nombre, teléfono, correo e interés de servicio",
+          "Leads de alta urgencia → alerta instantánea en Slack",
+          "Entrada automática en el CRM + correo de seguimiento"
+        ]
+      }
+    }
+  },
+  "howItWorks": {
+    "eyebrow": "Cómo funciona",
+    "title": "Comienza en 4 pasos simples",
+    "sub": "De la descarga al despliegue en menos de 30 minutos. Sin necesidad de programar.",
+    "steps": {
+      "step1": {
+        "title": "Descarga una plantilla",
+        "text": "Elige entre nuestras plantillas gratuitas de flujos n8n listas para HIPAA. Cada una resuelve un cuello de botella operativo específico."
+      },
+      "step2": {
+        "title": "Importa en n8n",
+        "text": "Abre tu instancia de n8n (cloud o auto-hospedada), ve a Workflows → Import y pega el JSON. Todos los nodos están preconfigurados."
+      },
+      "step3": {
+        "title": "Conecta tus herramientas",
+        "text": "Conecta tus claves del API del EHR, credenciales de Twilio, Google Sheets y workspace de Slack. Cada nodo tiene instrucciones claras de configuración."
+      },
+      "step4": {
+        "title": "Activa y escala",
+        "text": "Activa el flujo y míralo correr 24/7. Monitorea ejecuciones, ajusta triggers y escala entre sedes."
+      }
+    },
+    "ctaPrimary": "Ver todas las plantillas",
+    "ctaSecondary": "Leer la guía de configuración"
+  },
+  "templatesSlider": {
+    "freePill": "100% gratis - sin registro",
+    "title": "Plantillas n8n plug-and-play",
+    "subtitle": "Descarga archivos JSON de flujos listos para importar. Cada plantilla es una automatización completa - solo conecta tus credenciales y actívala.",
+    "downloadJson": "Descargar plantilla JSON",
+    "prevAria": "Plantillas anteriores",
+    "nextAria": "Plantillas siguientes",
+    "footQuestion": "¿Necesitas un flujo personalizado para tu EHR o práctica específica?",
+    "footCta": "Solicitar plantilla personalizada",
+    "items": {
+      "patientIntake": {
+        "desc": "Recopila automáticamente la información del paciente vía webhook, verifica el seguro, crea registros en el EHR, los guarda en Google Sheets y envía correos de confirmación más alertas a Slack - todo sin que la recepción se involucre.",
+        "tags": ["Intake", "Seguro", "EHR"],
+        "title": "Automatización de intake de pacientes",
+        "nodes": "7 nodos · flujo n8n"
+      },
+      "appointmentReminder": {
+        "desc": "Recordatorios automatizados por SMS y correo a 24 y 2 horas vía Twilio. Reduce ausencias hasta un 40% con cero esfuerzo del personal y se alimenta de tu calendario existente.",
+        "tags": ["SMS", "Recordatorios", "Ausencias"],
+        "title": "Recordatorio de cita y recuperación de ausencias",
+        "nodes": "8 nodos · flujo n8n"
+      },
+      "reviewCollection": {
+        "desc": "Enrutamiento por sentimiento: los pacientes contentos reciben una solicitud de reseña en Google, los demás van a un formulario privado. La gestión de reputación se ejecuta sola, sin triage manual.",
+        "tags": ["Reseñas", "Reputación", "Google"],
+        "title": "Recolección de reseñas en Google",
+        "nodes": "8 nodos · flujo n8n"
+      },
+      "insuranceVerification": {
+        "desc": "Verificaciones de elegibilidad en tiempo real, consulta de copagos y deducibles, envío automático de pre-autorizaciones y alertas a Slack para recepción y facturación - cada paciente verificado antes de llegar.",
+        "tags": ["Seguro", "Facturación", "Verificación"],
+        "title": "Bot de verificación de seguros",
+        "nodes": "9 nodos · flujo n8n"
+      },
+      "aiChatbot": {
+        "desc": "Un chatbot con GPT califica leads, extrae datos de contacto, crea entradas en el CRM y avisa a Slack cuando un paciente de alta prioridad llega a tu sitio - sin intervención humana.",
+        "tags": ["IA", "Chatbot", "Generación de leads"],
+        "title": "Captación de leads con chatbot IA",
+        "nodes": "10 nodos · flujo n8n"
+      },
+      "socialAutoPoster": {
+        "desc": "Subtítulos generados por IA desde tu calendario de contenido se publican automáticamente en Facebook e Instagram a diario, con notificaciones al equipo y cola de revisión. Configúralo una vez, publica todos los días.",
+        "tags": ["Redes sociales", "Contenido IA", "Marketing"],
+        "title": "Publicador automático en redes sociales",
+        "nodes": "9 nodos · flujo n8n"
+      }
+    }
+  },
+  "moreInfo": {
+    "seo": {
+      "title": "Playbook de automatización en salud — Guía de flujos seguros con HIPAA",
+      "description": "Una guía práctica para desplegar automatización orientada al paciente sin romper cumplimiento, alcance ni la cordura de la recepción — escrita por el equipo detrás de más de 200 flujos clínicos en vivo."
+    },
+    "hero": {
+      "eyebrow": "Automatización en salud, a fondo",
+      "title": "El playbook completo de automatización en salud.",
+      "lede": "Una guía práctica para desplegar automatización orientada al paciente sin romper cumplimiento, alcance ni la cordura de tu recepción - escrita por el equipo detrás de más de 200 flujos clínicos en vivo.",
+      "ctaPrimary": "Inicia tu auditoría de automatización",
+      "ctaSecondary": "Explorar el playbook",
+      "bannerAlt": "El playbook completo de automatización en salud"
+    },
+    "pillars": {
+      "label": "/ 01   Los principios",
+      "title": "Tres reglas sobre las que construimos cada flujo de salud.",
+      "items": {
+        "p1": {
+          "title": "Primero el flujo",
+          "desc": "Cada automatización mapea un flujo clínico real - intake, seguimiento, recordatorios, facturación - no un caso de uso genérico de SaaS."
+        },
+        "p2": {
+          "title": "Compatible con HIPAA",
+          "desc": "Transporte cifrado, stack de proveedores con BAA, tracking del lado del servidor. El cumplimiento es lo predeterminado, nunca un agregado."
+        },
+        "p3": {
+          "title": "Lanza en días",
+          "desc": "Importa la plantilla, conecta tu stack y sal en vivo. La mayoría de las clínicas pasan del kickoff al primer paciente automatizado en menos de una semana."
+        }
+      }
+    },
+    "about": {
+      "label": "/ 02   Lo que obtienes",
+      "title": "Hecho para clínicas que se mueven rápido - sin romper lo que ya funciona.",
+      "lede": "Cada automatización que entregamos se monta sobre tu PM, EHR y calendario actuales - nunca en su lugar. Mismo sistema de registro, mismos proveedores, mucho menos trabajo manual.",
+      "tagLive": "Flujo en vivo",
+      "tagName": "Intake de pacientes",
+      "checklist": [
+        "Plantillas plug-and-play para n8n, Zapier y Make",
+        "Integraciones preconstruidas con los principales sistemas PM / EHR",
+        "Logs de auditoría y captura de consentimiento listos para usar",
+        "Rutas de escalamiento documentadas para intervención humana",
+        "Revisión trimestral de cumplimiento con nuestro equipo de crecimiento",
+        "Reemplazos directos para más de 20 tareas manuales de recepción"
+      ],
+      "back": "Volver a la biblioteca de plantillas"
+    },
+    "solutions": {
+      "label": "/ 03   La biblioteca",
+      "title": "Tres categorías que recuperan más tiempo e ingresos.",
+      "sub": "Empezamos por el carril con la mayor fuga en tu clínica. Los otros dos se suman cuando el primero ya corre limpio.",
+      "readWorkflow": "Leer el flujo",
+      "items": {
+        "s1": {
+          "tag": "Recepción",
+          "title": "Intake y verificación de pacientes",
+          "desc": "Formularios, captura de seguro, verificación de elegibilidad y preparación del expediente - todo listo antes de que el paciente llegue."
+        },
+        "s2": {
+          "tag": "Recordatorios",
+          "title": "Recordatorios SMS y correo bidireccionales",
+          "desc": "Cadencias de recordatorios multi-toque con enlaces de reagendamiento automático. Recupera el 18% de las ausencias en los primeros 60 días."
+        },
+        "s3": {
+          "tag": "Ingresos",
+          "title": "Reseñas, recuperaciones y reactivaciones",
+          "desc": "Solicitudes de reseña compatibles con HIPAA, campañas de recuperación y reactivación de pacientes inactivos que crecen mes tras mes."
+        }
+      }
+    },
+    "process": {
+      "label": "/ 04   Cómo operamos",
+      "title": "De la auditoría al lanzamiento en cuatro movimientos deliberados.",
+      "steps": {
+        "step1": {
+          "title": "Auditar",
+          "desc": "Mapeamos cada tarea manual y la rankeamos por horas ahorradas e impacto en ingresos."
+        },
+        "step2": {
+          "title": "Construir",
+          "desc": "Configuramos las plantillas dentro de tu stack - EHR, PM, calendario, mensajería."
+        },
+        "step3": {
+          "title": "Lanzar",
+          "desc": "Sal en vivo con un único punto de contacto, luego suma el siguiente cuando esté estable."
+        },
+        "step4": {
+          "title": "Optimizar",
+          "desc": "Afinamos cadencias, copy y triggers cada semana. Tú eres dueño de los datos y los dashboards."
+        }
+      }
+    },
+    "cta": {
+      "eyebrow": "Contáctanos",
+      "title": "Agenda una sesión gratuita de 30 minutos sobre automatización.",
+      "text": "Trae tus tres principales tareas manuales. Te mostraremos qué plantilla encaja, qué incluye y qué tan rápido puede estar en vivo en tu stack.",
+      "bullets": [
+        "Sin presentación, sin pitch - solo una sesión de trabajo.",
+        "Incluye un resumen de una página que puedes compartir internamente.",
+        "Gratis, aunque decidas no trabajar con nosotros."
+      ],
+      "formAria": "Solicitud de sesión",
+      "fields": {
+        "name": "Nombre",
+        "email": "Correo",
+        "clinic": "Clínica",
+        "task": "Tarea manual principal",
+        "message": "¿Qué automatizarías primero?"
+      },
+      "submit": "Solicitar sesión",
+      "subjectPrefix": "Solicitud de sesión de automatización",
+      "bodyLabels": {
+        "name": "Nombre",
+        "email": "Correo",
+        "clinic": "Clínica",
+        "task": "Tarea manual principal",
+        "message": "Qué automatizaría primero"
+      }
+    }
+  },
+  "templates": {
+    "eyebrow": "Plantillas",
+    "title": "Flujos de automatización listos para desplegar",
+    "subtitle": "Preconstruidos, configurables y compatibles con HIPAA. En producción en tu práctica en días, no meses.",
+    "tryIt": "Probar esta plantilla",
+    "viewDetails": "Ver detalles",
+    "items": {
+      "patientIntake": {
+        "title": "Flujo de intake de pacientes",
+        "desc": "Formulario automatizado → envío al EHR → confirmación."
+      },
+      "reminderCadence": {
+        "title": "Cadencia de recordatorios",
+        "desc": "Recordatorios de cita por SMS y correo con lógica para reducir ausencias."
+      },
+      "reviewCollection": {
+        "title": "Recolección de reseñas",
+        "desc": "Solicitudes de reseña post-visita enrutadas a Google, Yelp y Facebook."
+      },
+      "eligibilityBot": {
+        "title": "Bot de elegibilidad",
+        "desc": "Verificación de elegibilidad del seguro antes de que el paciente llegue."
+      },
+      "gptChatbot": {
+        "title": "Chatbot GPT",
+        "desc": "Chatbot en el sitio que agenda citas y responde preguntas frecuentes."
+      },
+      "socialAutoPoster": {
+        "title": "Publicador automático de redes",
+        "desc": "Publicaciones multi-canal con calendario de contenido."
+      }
+    },
+    "page": {
+      "seoTitle": "Plantillas gratuitas de automatización en salud — Seis flujos n8n verificados con HIPAA",
+      "seoDescription": "Seis plantillas de automatización de grado clínico entregadas como specs de n8n — intake de pacientes, recordatorios, reseñas, verificación de seguros, chat con IA, publicación social. Verificadas con HIPAA, gratis para conservar.",
+      "hero": {
+        "chipLibrary": "Biblioteca de plantillas · 2026",
+        "chipWorkflows": "flujos",
+        "chipCategory": "flujos de {{cat}}",
+        "railFiled": "ARCHIVADO",
+        "railFiledValue": "Operaciones de salud",
+        "railPlatform": "PLATAFORMA",
+        "railPlatformValue": "N8N",
+        "railEdition": "EDICIÓN",
+        "railEditionValue": "2026.Q2",
+        "eyebrow": "Biblioteca de automatización · Gratis para conservar",
+        "titleNumber": "Seis",
+        "titleRest": " Automatizaciones de grado clínico.",
+        "titleQuiet": "En tu stack esa misma tarde.",
+        "lede": "Cada flujo se entrega como un spec de n8n, verificado para los límites de HIPAA y afinado para los momentos en que la mayoría de las clínicas pierde horas cada semana sin darse cuenta.",
+        "ctaPrimary": "Obtener la biblioteca",
+        "ctaSecondary": "Explorar abajo",
+        "figCaption": "FIG. 01 — ESPÉCIMEN DE AUTOMATIZACIÓN"
+      },
+      "dataBand": {
+        "ariaLabel": "Metadatos de la biblioteca",
+        "workflows": "Flujos",
+        "workflowsValue": "06",
+        "totalSetup": "Configuración total",
+        "totalSetupValue": "~5 hrs",
+        "combinedSavings": "Ahorro combinado",
+        "combinedSavingsValue": "30+ hrs/sem",
+        "platform": "Plataforma",
+        "platformValue": "N8N · auto-hospedado",
+        "complianceModes": "Modos de cumplimiento",
+        "complianceModesValue": "3"
+      },
+      "tldr": {
+        "ariaLabel": "Resumen",
+        "label": "TL;DR",
+        "text": "Seis specs de flujo de grado clínico. Cada uno se entrega con los nodos, la superficie de consentimiento y la postura de cumplimiento que tu clínica realmente necesita — listos para importar en n8n en menos de una hora, gratis para conservar."
+      },
+      "atAGlance": {
+        "label": "/ 01   De un vistazo",
+        "title": "La biblioteca, en tres números.",
+        "intro": "Lo que vale la biblioteca — medido en horas de configuración, días de payback y tiempo de recepción recuperado cada semana.",
+        "stats": {
+          "s1": {
+            "label": "Tamaño de la biblioteca",
+            "desc": "Flujos que cubren los seis momentos en los que la mayoría de las clínicas pierde horas cada semana."
+          },
+          "s2": {
+            "label": "Payback mediano",
+            "desc": "La mayoría de las clínicas ve el primer flujo pagar su configuración en menos de dos semanas."
+          },
+          "s3": {
+            "label": "Valor combinado",
+            "desc": "La biblioteca a plena implementación recupera más de treinta horas de recepción por semana."
+          }
+        }
+      },
+      "filterBar": {
+        "ariaLabel": "Filtrar por categoría",
+        "eyebrow": "/ 02 · Filtrar la biblioteca",
+        "hintAll": "Mostrando los seis flujos.",
+        "hintCategory": "Mostrando solo el flujo de {{category}}.",
+        "filters": {
+          "All": "Todos",
+          "Intake": "Intake",
+          "Reminders": "Recordatorios",
+          "Reviews": "Reseñas",
+          "Insurance": "Seguro",
+          "AI": "IA",
+          "Social": "Social"
+        }
+      },
+      "library": {
+        "label": "/ 03   La biblioteca",
+        "title": "Seis flujos. Cada uno entregado como spec.",
+        "intro": "Explora la biblioteca. Cada tarjeta tiene sus propios nodos, postura de cumplimiento y línea base de tiempo ahorrado — elige el que tu clínica realmente vaya a usar primero.",
+        "emptyText": "Aún no hay plantillas en esta categoría — ",
+        "emptyLink": "solicita una construcción a medida",
+        "card": {
+          "build": "Construcción",
+          "setup": "Configuración",
+          "value": "Valor",
+          "compliance": "Cumplimiento",
+          "cta": "Obtener este flujo",
+          "ctaAria": "Obtener el flujo {{title}}"
+        }
+      },
+      "imageBreak": {
+        "caption": "FIG. 09 — EN LA PRÁCTICA",
+        "text": "Cada flujo se entrega como un spec de n8n con la postura de cumplimiento documentada en cada nodo."
+      },
+      "howItWorks": {
+        "label": "/ 04   Cómo funciona",
+        "title": "Cuatro movimientos: de la biblioteca al flujo en vivo.",
+        "intro": "La misma cadencia de despliegue que usamos dentro de proyectos pagos — sin el retainer. La biblioteca hace lo difícil; los cuatro movimientos hacen el resto.",
+        "steps": {
+          "s1": {
+            "title": "Explora",
+            "desc": "Elige el flujo que mapea la fuga de horas que quieres tapar primero — por categoría, postura de cumplimiento o ROI."
+          },
+          "s2": {
+            "title": "Importa",
+            "desc": "Mete el spec en tu instancia de n8n — cada nodo está documentado, cada slot de credenciales está etiquetado."
+          },
+          "s3": {
+            "title": "Personaliza",
+            "desc": "Cambia a tu CRM, tu scheduler, tu stack de mensajería. Aplica tu marca a las superficies que ve el paciente."
+          },
+          "s4": {
+            "title": "Lanza",
+            "desc": "Corre un piloto de 24 horas, luego enciende el flujo para la recepción. La mayoría se paga sola en menos de dos semanas."
+          }
+        }
+      },
+      "compliance": {
+        "label": "/ 05   Postura de cumplimiento",
+        "title": "Tres modos. Una biblioteca.",
+        "intro": "Cada flujo declara su postura de cumplimiento de entrada — para que la recepción, el responsable de cumplimiento y TI vean el mismo límite antes de que algo se lance.",
+        "countSingular": "{{count}} flujo",
+        "countPlural": "{{count}} flujos",
+        "tiers": {
+          "baa": {
+            "key": "BAA requerido",
+            "desc": "Toca PHI directamente. Corre solo bajo un BAA firmado con cada proveedor de la ruta."
+          },
+          "hipaa": {
+            "key": "Compatible con HIPAA",
+            "desc": "Toca metadatos de agendamiento y mensajería — sin PHI clínico. Construido para respetar los límites de HIPAA por diseño."
+          },
+          "phiFree": {
+            "key": "Sin PHI",
+            "desc": "El flujo opera completamente fuera de la superficie de PHI. Reseñas, social, captación de leads — solo de cara al público."
+          }
+        }
+      },
+      "whoFor": {
+        "label": "/ 06   Para quién es",
+        "title": "Tres roles para los que se escribió la biblioteca.",
+        "intro": "La biblioteca es un solo recurso, pero la levantan tres lectores — cada uno buscando un límite distinto, un número distinto, una prueba distinta.",
+        "items": {
+          "w1": {
+            "label": "Líder de recepción",
+            "desc": "Quieres cada punto de contacto con el paciente registrado, recordado y reseñado — sin tener que adueñarte de una herramienta nueva."
+          },
+          "w2": {
+            "label": "Director de operaciones",
+            "desc": "Quieres las fugas de horas cerradas y el SOP documentado en un solo lugar que cada clínica pueda auditar."
+          },
+          "w3": {
+            "label": "Líder de marketing",
+            "desc": "Quieres el motor de reseñas corriendo, la captación de leads calificando y el feed social publicando — diariamente, en automático."
+          }
+        }
+      },
+      "pullQuote": {
+        "ariaLabel": "Cita destacada",
+        "text": "La hora más barata que una clínica recupera es la que un flujo deja de pedirle a la recepción.",
+        "avatar": "FN",
+        "cite": "TheNextGen Healthcare Marketing · Mesa de automatización"
+      },
+      "promise": {
+        "label": "/ 07   La promesa",
+        "title": "Lo que la biblioteca hará y lo que no.",
+        "intro": "Cuatro compromisos que valen para cada flujo de la biblioteca — y para cada personalización que entregamos a clientes pagos.",
+        "items": [
+          "Cada flujo es tuyo para conservarlo — sin retainer, sin tope de uso.",
+          "Cada spec está documentado en lenguaje claro, no solo en sopa de nodos.",
+          "Cada postura de cumplimiento se declara de entrada, antes de desplegar.",
+          "Cada flujo viene con un SOP que tu equipo puede auditar."
+        ]
+      },
+      "ctaBanner": {
+        "eyebrow": "¿Necesitas uno que no hemos hecho?",
+        "title": "Agenda una sesión de construcción de 15 minutos.",
+        "text": "Gratis, sin pitch. Definimos el flujo en la llamada y entregamos el spec esa misma semana — tuyo para conservar, con agencia o sin ella.",
+        "ctaPrimary": "Reservar la sesión",
+        "ctaSecondary": "Volver a Automatización"
+      },
+      "related": {
+        "label": "/ 08   Seguir leyendo",
+        "title": "Más de la mesa de automatización.",
+        "intro": "Recursos seleccionados que extienden la biblioteca — proceso, auditoría y el sistema operativo en el que se conectan los flujos.",
+        "read": "Leer",
+        "items": {
+          "r1": {
+            "cat": "Resumen",
+            "title": "Automatización, de punta a punta.",
+            "desc": "Cómo se enganchan la biblioteca, las construcciones a medida y la capa de operaciones."
+          },
+          "r2": {
+            "cat": "Proceso",
+            "title": "Cómo construimos automatizaciones.",
+            "desc": "La cadencia descubrimiento → spec → lanzamiento que seguimos en cada flujo que sale del estudio."
+          },
+          "r3": {
+            "cat": "Auditoría",
+            "title": "La auditoría de crecimiento gratuita.",
+            "desc": "Una auditoría de cinco días que detecta las fugas de horas que tu biblioteca cerrará primero."
+          }
+        }
+      },
+      "templateBlurbs": {
+        "patientIntake": {
+          "title": "Intake de pacientes y verificación de seguro.",
+          "blurb": "Un paquete pre-visita que captura consentimiento, demográficos y elegibilidad antes de que el paciente llegue — recepción sin tocar.",
+          "pull": "Recepción sin tocar.",
+          "effort": "~45 min de setup",
+          "saves": "Ahorra 6–9 hrs/semana",
+          "imgAlt": "Ilustración del flujo de intake de pacientes y verificación de seguro."
+        },
+        "reminderCadence": {
+          "title": "Cadencia de recordatorios SMS + correo.",
+          "blurb": "Una cadencia de dos canales que sube la tasa de asistencia sin spam — opt-in respetado, horas tranquilas aplicadas, ICS adjunto.",
+          "pull": "40% menos ausencias.",
+          "effort": "~30 min de setup",
+          "saves": "Ahorra 4–6 hrs/semana",
+          "imgAlt": "Ilustración del flujo de cadencia de recordatorios SMS y correo."
+        },
+        "reviewCollection": {
+          "title": "Recolección de reseñas enrutada por sentimiento.",
+          "blurb": "Los pacientes contentos van a Google; los descontentos van primero a tu bandeja. Motor de reputación que crece sin avergonzar.",
+          "pull": "La reputación corre sola.",
+          "effort": "~40 min de setup",
+          "saves": "5× velocidad de reseñas",
+          "imgAlt": "Ilustración del flujo de recolección de reseñas enrutada por sentimiento."
+        },
+        "eligibilityBot": {
+          "title": "Bot de elegibilidad en tiempo real.",
+          "blurb": "Verifica la cobertura antes de la cita — clearinghouse → CRM → dashboard de recepción, todo en menos de treinta segundos.",
+          "pull": "Verificado antes de cruzar la puerta.",
+          "effort": "~60 min de setup",
+          "saves": "Ahorra 8–12 hrs/semana",
+          "imgAlt": "Ilustración del flujo del bot de elegibilidad de seguros en tiempo real."
+        },
+        "gptChatbot": {
+          "title": "Chatbot GPT para captación de leads.",
+          "blurb": "Un asistente GPT acotado que califica leads, enruta por intención y agenda — sin inventar nunca una respuesta clínica.",
+          "pull": "Califica mientras duermes.",
+          "effort": "~75 min de setup",
+          "saves": "Captación de leads 24/7",
+          "imgAlt": "Ilustración del flujo de chatbot GPT para captación de leads."
+        },
+        "socialAutoPoster": {
+          "title": "Publicador automático diario con IA.",
+          "blurb": "Un goteo diario de contenido en LinkedIn, Instagram y X — desde tu blog, con subtítulos on-brand, agendado alrededor de tu calendario.",
+          "pull": "Configura una vez, publica diario.",
+          "effort": "~50 min de setup",
+          "saves": "3 hrs/semana creativas",
+          "imgAlt": "Ilustración del flujo de publicador automático diario en redes con IA."
+        }
+      }
+    }
+  },
+  "workflow": {
+    "backToTemplates": "Volver a plantillas",
+    "overviewHeading": "Resumen",
+    "howItWorksHeading": "Cómo funciona",
+    "stepsHeading": "Pasos",
+    "integrationsHeading": "Integraciones",
+    "complianceHeading": "Notas de cumplimiento",
+    "ctaTitle": "¿Quieres esto corriendo en tu práctica?",
+    "ctaSubtitle": "Agenda una llamada de 30 minutos. Lo definimos y lo lanzamos.",
+    "ctaButton": "Agendar llamada de descubrimiento",
+    "common": {
+      "shift": "El cambio",
+      "before": "Antes",
+      "after": "Después",
+      "today": "hoy",
+      "automated": "Automatizado",
+      "howItWorks": "Cómo funciona",
+      "whatYouGet": "Lo que obtienes",
+      "setup": "Configuración",
+      "compliance": "Cumplimiento",
+      "readyWhenYouAre": "Listo cuando tú lo estés",
+      "getThisWorkflow": "Obtener este flujo",
+      "seeHowItWorks": "Ver cómo funciona",
+      "seeAllSix": "Ver los seis flujos",
+      "yoursToKeep": "Tuyo para conservar",
+      "workflowNodesAria": "Nodos del flujo en orden",
+      "setupStepsAria": "Pasos de configuración",
+      "complianceAria": "Requisito de cumplimiento",
+      "stepLabel": "Paso {{n}}: {{label}}",
+      "reviewBaa": "Revisar BAA",
+      "seeThePolicy": "Ver la política",
+      "nodesUnit": "{{count}} nodos",
+      "nodesSpec": "n8n · {{count}} nodos",
+      "baaOnSigning": "BAA al firmar",
+      "phiFreeDeploy": "Despliegue sin PHI",
+      "hipaaSendRules": "Reglas de envío compatibles con HIPAA",
+      "nodeSpec": "Spec n8n de {{count}} nodos",
+      "ctaTrailingText": "Mete el flujo en tu instancia de n8n esta tarde."
+    },
+    "patientIntake": {
+      "fig": "FIG. 02",
+      "category": "INTAKE",
+      "titlePart1": "Intake de pacientes",
+      "titleAmp": " & ",
+      "titleItalic": "verificación de seguro.",
+      "lede": "Un paquete pre-visita que captura consentimiento, demográficos y elegibilidad antes de que el paciente llegue — ",
+      "ledeEm": "recepción sin tocar.",
+      "stats": {
+        "s1": { "value": "7 nodos", "label": "Flujo n8n" },
+        "s2": { "value": "~45 min", "label": "Tiempo de setup" },
+        "s3": { "value": "6–9 hrs", "label": "Ahorradas/semana" },
+        "s4": { "value": "BAA", "label": "Sensible a HIPAA" }
+      },
+      "shiftTitle": "Del amontonamiento en el lobby a una mañana tranquila.",
+      "beforeTitle": "La recepción hace malabares.",
+      "before": [
+        "Formularios en papel entregados al check-in.",
+        "Recepción en espera con las aseguradoras.",
+        "Demográficos capturados dos veces.",
+        "Sorpresas de elegibilidad en el mostrador."
+      ],
+      "afterTitle": "El flujo se encarga.",
+      "after": [
+        "Paquete pre-visita enviado automáticamente.",
+        "Consentimiento + demográficos capturados en línea.",
+        "Elegibilidad verificada antes de llegar.",
+        "Incidencias marcadas en la bandeja del staff, no en el lobby."
+      ],
+      "howTitle": "Siete nodos, de punta a punta.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Cita reservada",
+          "copy": "El trigger dispara en el momento en que se reserva un slot en el scheduler."
+        },
+        {
+          "n": "02",
+          "label": "Enviar formulario de intake",
+          "copy": "El paciente recibe un enlace pre-visita con tu marca por SMS y correo."
+        },
+        {
+          "n": "03",
+          "label": "Recoger consentimiento y demográficos",
+          "copy": "Formularios firmados y datos del paciente van directo al expediente."
+        },
+        {
+          "n": "04",
+          "label": "Verificar elegibilidad del seguro",
+          "copy": "Una verificación en tiempo real con el clearinghouse confirma cobertura y copago."
+        },
+        {
+          "n": "05",
+          "label": "Marcar incidencias",
+          "copy": "Lo que falte o esté vencido se enruta a la cola de revisión del staff."
+        },
+        {
+          "n": "06",
+          "label": "Compilar paquete pre-visita",
+          "copy": "Un PDF limpio aterriza en el expediente — listo antes que el paciente."
+        },
+        {
+          "n": "07",
+          "label": "Notificar al staff",
+          "copy": "Un único resumen matutino le dice a la recepción qué esperar."
+        }
+      ],
+      "whatTitle": "Cuatro resultados tranquilos, cada mañana.",
+      "outcomes": [
+        {
+          "label": "Paquete del paciente pre-llenado",
+          "copy": "Cada formulario completo antes de cruzar la puerta."
+        },
+        {
+          "label": "Elegibilidad confirmada",
+          "copy": "Cobertura, copago y deducible verificados con antelación."
+        },
+        {
+          "label": "Consentimiento capturado",
+          "copy": "Firmado, con sello de tiempo y archivado al expediente automáticamente."
+        },
+        {
+          "label": "Recepción liberada",
+          "copy": "Se acabó la música de espera y los portapapeles en el check-in."
+        }
+      ],
+      "setupTitle": "En vivo en menos de una hora.",
+      "setupIntro": "Tres pasos, ~45 minutos en total. Sin código. Tu scheduler, clearinghouse y stack de mensajería siguen exactamente donde están.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Importar el spec",
+          "copy": "Mete el JSON de n8n en tu instancia — cada nodo está etiquetado.",
+          "minutes": "10 min"
+        },
+        {
+          "n": "02",
+          "title": "Conectar credenciales",
+          "copy": "Scheduler, clearinghouse y mensajería — slot por slot.",
+          "minutes": "20 min"
+        },
+        {
+          "n": "03",
+          "title": "Piloto y encendido",
+          "copy": "Corre una pasada en sombra de 24 horas, luego enruta citas en vivo.",
+          "minutes": "15 min"
+        }
+      ],
+      "complianceTitle": "BAA requerido — este flujo toca PHI.",
+      "complianceText": "Firmarás un Business Associate Agreement antes del go-live. Almacenamiento, transporte y logs de auditoría están alineados con HIPAA por defecto.",
+      "complianceCta": "Revisar BAA",
+      "ctaQuote": "Recepción sin tocar.",
+      "ctaText": "Mete el flujo en tu instancia de n8n esta tarde. Conectamos tu scheduler, clearinghouse y mensajería en una llamada gratuita de 30 minutos.",
+      "footerBadges": ["BAA al firmar", "Spec n8n de 7 nodos", "Tuyo para conservar"]
+    },
+    "reminderCadence": {
+      "fig": "FIG. 03",
+      "category": "RECORDATORIOS",
+      "titlePart1": "SMS y correo",
+      "titleSep": " · ",
+      "titleItalic": "cadencia de recordatorios.",
+      "lede": "Una cadencia de dos canales que sube la tasa de asistencia ",
+      "ledeEm": "sin el spam",
+      "ledeRest": " — opt-in respetado, horas tranquilas aplicadas, ICS adjunto.",
+      "stats": {
+        "s1": { "value": "8 nodos", "label": "Flujo n8n" },
+        "s2": { "value": "~30 min", "label": "Tiempo de setup" },
+        "s3": { "value": "4–6 hrs", "label": "Ahorradas/semana" },
+        "s4": { "value": "HIPAA", "label": "Consciente de PHI" }
+      },
+      "shiftTitle": "De los mensajes a medianoche a una cadencia respetada.",
+      "beforeTitle": "La recepción persigue a cada paciente.",
+      "before": [
+        "Recepción marcando recordatorios a mano.",
+        "Los pacientes olvidan — la tasa de ausencias sube.",
+        "Mensajes incómodos a altas horas y bandejas perdidas.",
+        "Reagendamientos enterrados en el correo de voz."
+      ],
+      "afterTitle": "La cadencia corre sola, según el calendario.",
+      "after": [
+        "Cadencia de SMS y correo en piloto automático.",
+        "Opt-in honrado, horas tranquilas aplicadas.",
+        "ICS adjunto — un toque para añadirlo al calendario.",
+        "Respuestas capturadas, calendario en sincronía."
+      ],
+      "howTitle": "Ocho nodos, tres toques, cero spam.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Cita agendada",
+          "copy": "El trigger dispara en el momento en que se reserva un slot en el scheduler."
+        },
+        {
+          "n": "02",
+          "label": "Verificar opt-in",
+          "copy": "El flujo se detiene en seco si el paciente no ha consentido recibir mensajes."
+        },
+        {
+          "n": "03",
+          "label": "Construir el calendario de recordatorios",
+          "copy": "Una cadencia de tres toques: 7 días antes, 1 día antes, 2 horas antes."
+        },
+        {
+          "n": "04",
+          "label": "Aplicar horas tranquilas",
+          "copy": "Lo que caiga entre las 9pm y las 8am se retiene hasta la mañana."
+        },
+        {
+          "n": "05",
+          "label": "Enviar recordatorio SMS",
+          "copy": "Breve, con tu marca y firmado por la clínica — nunca una explosión de marketing."
+        },
+        {
+          "n": "06",
+          "label": "Enviar correo + ICS",
+          "copy": "Una invitación lista para el calendario llega a la bandeja del paciente."
+        },
+        {
+          "n": "07",
+          "label": "Capturar respuesta",
+          "copy": "Confirmaciones, reagendamientos y cancelaciones se analizan en un paso."
+        },
+        {
+          "n": "08",
+          "label": "Actualizar calendario y registrar",
+          "copy": "El resultado vuelve al expediente — cada toque queda auditado."
+        }
+      ],
+      "whatTitle": "Cuatro toques, cada tasa de asistencia elevada.",
+      "outcomes": [
+        {
+          "label": "Mayor tasa de asistencia",
+          "copy": "Una caída medible en ausencias durante los primeros treinta días."
+        },
+        {
+          "label": "Cobertura de dos canales",
+          "copy": "SMS para los empujones, correo para la invitación de calendario — ambos opt-in."
+        },
+        {
+          "label": "Cumplimiento respetado",
+          "copy": "Horas tranquilas, opt-outs y consentimiento se aplican en cada envío."
+        },
+        {
+          "label": "Reagendamientos resueltos",
+          "copy": "Una respuesta mueve el slot, actualiza el calendario y registra el cambio."
+        }
+      ],
+      "setupTitle": "En vivo en media hora.",
+      "setupIntro": "Tres pasos, ~30 minutos en total. Sin código. Tu scheduler, proveedor de SMS y stack de correo siguen exactamente donde están.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Importar el spec",
+          "copy": "Mete el JSON de n8n en tu instancia — cada nodo está etiquetado.",
+          "minutes": "5 min"
+        },
+        {
+          "n": "02",
+          "title": "Conectar canales",
+          "copy": "Scheduler, proveedor de SMS y correo — credenciales slot por slot.",
+          "minutes": "15 min"
+        },
+        {
+          "n": "03",
+          "title": "Piloto y encendido",
+          "copy": "Corre una pasada en sombra de un día, luego enruta citas en vivo.",
+          "minutes": "10 min"
+        }
+      ],
+      "complianceTitle": "Compatible con HIPAA — solo metadatos de cita.",
+      "complianceText": "Ningún detalle clínico se envía nunca por SMS. Opt-in, horas tranquilas y trazas de auditoría están alineados con HIPAA por defecto.",
+      "complianceCta": "Ver la política",
+      "ctaQuote": "40% menos ausencias.",
+      "ctaText": "Mete la cadencia en tu instancia de n8n esta tarde. Conectamos tu scheduler, proveedor de SMS y correo en una llamada gratuita de 30 minutos.",
+      "footerBadges": ["Reglas de envío compatibles con HIPAA", "Spec n8n de 8 nodos", "Tuyo para conservar"]
+    },
+    "reviewCollection": {
+      "fig": "FIG. 05",
+      "category": "RESEÑAS",
+      "titlePart1": "Enrutada por sentimiento",
+      "titleSep": " · ",
+      "titleItalic": "recolección de reseñas.",
+      "lede": "Los pacientes contentos aterrizan en Google; los descontentos aterrizan primero en tu bandeja. Un motor de reputación que ",
+      "ledeEm": "crece sin avergonzar",
+      "ledeRest": ".",
+      "stats": {
+        "s1": { "value": "8 nodos", "label": "Flujo n8n" },
+        "s2": { "value": "~40 min", "label": "Tiempo de setup" },
+        "s3": { "value": "5× velocidad", "label": "Ritmo de reseñas" },
+        "s4": { "value": "Sin PHI", "label": "Sin datos de pacientes" }
+      },
+      "shiftTitle": "De jugársela al azar a enrutar cada respuesta.",
+      "beforeTitle": "Tu reputación se mueve sola.",
+      "before": [
+        "El staff pide reseñas solo cuando se acuerda.",
+        "Pacientes frustrados lo dejan primero en Google.",
+        "Sin señales tempranas cuando el sentimiento se vuelve negativo.",
+        "La reputación se mueve sin que nadie la vigile."
+      ],
+      "afterTitle": "Cada señal llega a donde debe.",
+      "after": [
+        "Encuesta enviada en el momento justo, cada visita.",
+        "El sentimiento enruta la respuesta automáticamente.",
+        "El manager recibe alerta en privado antes de cualquier cosa pública.",
+        "El dashboard sigue la tendencia de reputación en el tiempo."
+      ],
+      "howTitle": "Ocho nodos — una señal, dos caminos.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Visita marcada como completa",
+          "copy": "El trigger dispara en el momento en que la cita se cierra en el expediente."
+        },
+        {
+          "n": "02",
+          "label": "Retraso breve",
+          "copy": "Una pausa medida — lo suficiente para dejar una impresión real."
+        },
+        {
+          "n": "03",
+          "label": "Enviar micro-encuesta",
+          "copy": "Una calificación de un toque llega a la bandeja del paciente, con tu marca."
+        },
+        {
+          "n": "04",
+          "label": "Capturar calificación",
+          "copy": "La puntuación se analiza y se ata al paciente y al proveedor."
+        },
+        {
+          "n": "05",
+          "label": "Ramificación por sentimiento",
+          "copy": "Un nodo IF divide el flujo según el umbral de calificación que definas."
+        },
+        {
+          "n": "06",
+          "label": "Contento → Google",
+          "copy": "Un enlace directo a tu página pública de reseñas — fricción en cero."
+        },
+        {
+          "n": "07",
+          "label": "Descontento → bandeja privada",
+          "copy": "El manager recibe la alerta; el paciente recibe una respuesta humana y discreta."
+        },
+        {
+          "n": "08",
+          "label": "Registrar en el dashboard",
+          "copy": "Cada señal alimenta la gráfica de reputación — tendencias visibles cada semana."
+        }
+      ],
+      "whatTitle": "Cuatro señales, cada reseña capturada.",
+      "outcomes": [
+        {
+          "label": "Más reseñas en Google",
+          "copy": "Los pacientes contentos siguen un camino sin fricción a la página pública."
+        },
+        {
+          "label": "Feedback malo detectado a tiempo",
+          "copy": "Las inquietudes llegan primero a tu bandeja, no a una reseña de 1 estrella."
+        },
+        {
+          "label": "Dashboard de reputación",
+          "copy": "Líneas de tendencia por proveedor, por sede, por semana — todo a la vista."
+        },
+        {
+          "label": "Bucle de sentimiento del paciente",
+          "copy": "Cada visita cierra con una señal sobre la que actuar, no una suposición."
+        }
+      ],
+      "setupTitle": "En vivo en cuarenta minutos.",
+      "setupIntro": "Tres pasos, ~40 minutos en total. Sin código. Tu herramienta de encuestas, perfil de Google y bandeja siguen exactamente donde están.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Importar el spec",
+          "copy": "Mete el JSON de n8n en tu instancia — cada nodo está etiquetado.",
+          "minutes": "10 min"
+        },
+        {
+          "n": "02",
+          "title": "Conectar canales",
+          "copy": "Herramienta de encuestas, enlace de reseñas de Google y alertas de bandeja — slot por slot.",
+          "minutes": "15 min"
+        },
+        {
+          "n": "03",
+          "title": "Piloto y encendido",
+          "copy": "Corre una pasada en sombra de 48 horas, luego enruta visitas en vivo.",
+          "minutes": "15 min"
+        }
+      ],
+      "complianceTitle": "Sin PHI — ningún dato de paciente sale del expediente.",
+      "complianceText": "El flujo maneja una señal de visita y una puntuación de satisfacción. Sin diagnóstico, sin notas, sin contenido clínico. Seguro de desplegar sin BAA.",
+      "complianceCta": "Ver la política",
+      "ctaQuote": "La reputación corre sola.",
+      "ctaText": "Mete el flujo en tu instancia de n8n esta tarde. Conectamos tu herramienta de encuestas, enlace de reseñas de Google y bandeja en una llamada gratuita de 30 minutos.",
+      "footerBadges": ["Despliegue sin PHI", "Spec n8n de 8 nodos", "Tuyo para conservar"]
+    },
+    "eligibilityBot": {
+      "fig": "FIG. 06",
+      "category": "SEGURO",
+      "titlePart1": "En tiempo real",
+      "titleSep": " · ",
+      "titleItalic": "bot de elegibilidad.",
+      "lede": "Verifica la cobertura antes de la cita — clearinghouse → CRM → dashboard de recepción, todo en ",
+      "ledeEm": "menos de treinta segundos",
+      "ledeRest": ".",
+      "stats": {
+        "s1": { "value": "9 nodos", "label": "Flujo n8n" },
+        "s2": { "value": "~60 min", "label": "Tiempo de setup" },
+        "s3": { "value": "8–12 hrs", "label": "Ahorradas/semana" },
+        "s4": { "value": "BAA", "label": "Sensible a HIPAA" }
+      },
+      "shiftTitle": "De la música de espera a la cobertura verificada.",
+      "beforeTitle": "La elegibilidad es un problema de llamadas.",
+      "before": [
+        "Staff en espera con aseguradoras, una llamada a la vez.",
+        "Sorpresas de cobertura discutidas en el mostrador.",
+        "Copagos mal cotizados, reclamos rechazados después.",
+        "Elegibilidad verificada el día de la cita, si acaso."
+      ],
+      "afterTitle": "La elegibilidad es una respuesta en el dashboard.",
+      "after": [
+        "Cobertura verificada en el momento en que se reserva el slot.",
+        "Copago y deducible impresos antes de la llegada.",
+        "Planes inactivos o mal pareados marcados temprano.",
+        "El dashboard de recepción muestra el estado de cada paciente."
+      ],
+      "howTitle": "Nueve nodos — de reservado a verificado, en segundos.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Cita reservada",
+          "copy": "El trigger dispara en el momento en que se reserva un slot en el scheduler."
+        },
+        {
+          "n": "02",
+          "label": "Extraer datos del CRM",
+          "copy": "Demográficos del paciente y seguro extraídos del sistema de registro."
+        },
+        {
+          "n": "03",
+          "label": "Formatear solicitud",
+          "copy": "El payload se moldea al formato listo para el clearinghouse."
+        },
+        {
+          "n": "04",
+          "label": "Enviar al clearinghouse",
+          "copy": "La verificación de elegibilidad sale — típicamente se resuelve en menos de treinta segundos."
+        },
+        {
+          "n": "05",
+          "label": "Recibir respuesta",
+          "copy": "La respuesta cruda se captura, se marca con sello de tiempo y se almacena."
+        },
+        {
+          "n": "06",
+          "label": "Parsear cobertura",
+          "copy": "Cobertura, copago, deducible y estatus de la póliza se extraen."
+        },
+        {
+          "n": "07",
+          "label": "Marcar incidencias",
+          "copy": "Planes inactivos, no coincidentes y datos faltantes se enrutan a revisión."
+        },
+        {
+          "n": "08",
+          "label": "Enviar al dashboard",
+          "copy": "Los resultados aterrizan en la vista de recepción, ordenados por hora de cita."
+        },
+        {
+          "n": "09",
+          "label": "Notificar al staff",
+          "copy": "Solo los casos marcados avisan a un humano — las verificaciones limpias quedan en silencio."
+        }
+      ],
+      "whatTitle": "Cuatro chequeos, cada visita preparada.",
+      "outcomes": [
+        {
+          "label": "Cobertura verificada temprano",
+          "copy": "Elegibilidad confirmada en el mismo minuto en que se reserva la cita."
+        },
+        {
+          "label": "Claridad en el copago",
+          "copy": "Los pacientes llegan sabiendo lo que deben — sin sorpresas en el mostrador."
+        },
+        {
+          "label": "Incidencias detectadas temprano",
+          "copy": "Planes inactivos escalan días antes de la visita, no minutos."
+        },
+        {
+          "label": "Se acabó la música de espera",
+          "copy": "El staff dedica sus horas a los pacientes, no a las líneas de seguros."
+        }
+      ],
+      "setupTitle": "En vivo en menos de una hora.",
+      "setupIntro": "Tres pasos, ~60 minutos en total. Sin código. Tu CRM, clearinghouse y dashboard de recepción siguen exactamente donde están.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Importar el spec",
+          "copy": "Mete el JSON de n8n en tu instancia — cada nodo está etiquetado.",
+          "minutes": "10 min"
+        },
+        {
+          "n": "02",
+          "title": "Conectar sistemas",
+          "copy": "CRM, clearinghouse y dashboard de recepción — credenciales slot por slot.",
+          "minutes": "35 min"
+        },
+        {
+          "n": "03",
+          "title": "Piloto y encendido",
+          "copy": "Corre una pasada en sombra de 24 horas, luego enruta citas en vivo.",
+          "minutes": "15 min"
+        }
+      ],
+      "complianceTitle": "BAA requerido — este flujo toca PHI.",
+      "complianceText": "Identificadores de paciente y datos de seguro viajan por el cable en cada verificación. Firmarás un Business Associate Agreement antes del go-live.",
+      "complianceCta": "Revisar BAA",
+      "ctaQuote": "Verificado antes de cruzar la puerta.",
+      "ctaText": "Mete el flujo en tu instancia de n8n esta tarde. Conectamos tu CRM, clearinghouse y dashboard de recepción en una llamada gratuita de 30 minutos.",
+      "footerBadges": ["BAA al firmar", "Spec n8n de 9 nodos", "Tuyo para conservar"]
+    },
+    "gptChatbot": {
+      "fig": "FIG. 06-01",
+      "category": "IA",
+      "titlePart1": "Chatbot GPT",
+      "titleSep": " · ",
+      "titleItalic": "captación de leads.",
+      "lede": "Un asistente GPT acotado que califica leads, enruta por intención y agenda — ",
+      "ledeEm": "sin inventar nunca una respuesta clínica",
+      "ledeRest": ".",
+      "stats": {
+        "s1": { "value": "10 nodos", "label": "Flujo n8n" },
+        "s2": { "value": "~75 min", "label": "Tiempo de setup" },
+        "s3": { "value": "24/7", "label": "Captación de leads" },
+        "s4": { "value": "Sin PHI", "label": "Sin datos de pacientes" }
+      },
+      "shiftTitle": "De bandejas silenciosas a leads calificados.",
+      "beforeTitle": "El sitio se queda en silencio a las 5pm.",
+      "before": [
+        "Los leads llegan a medianoche, respondidos al día siguiente.",
+        "Formularios de consulta sin seguimiento real.",
+        "Auto-respuestas fuera de marca que no llevan a nada.",
+        "Riesgo de que un chatbot invente una respuesta clínica."
+      ],
+      "afterTitle": "Un asistente acotado responde, a cada hora.",
+      "after": [
+        "Visitante recibido en segundos, a cualquier hora.",
+        "Acotado a tus FAQs — sin adivinanzas clínicas, nunca.",
+        "Leads calificados llegan a tu CRM, listos para llamar.",
+        "Las reservas caen en el calendario sin ti."
+      ],
+      "howTitle": "Diez nodos, con guardarraíles de punta a punta.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Chat abierto",
+          "copy": "El trigger dispara en el momento en que el widget recibe su primer mensaje."
+        },
+        {
+          "n": "02",
+          "label": "Saludar y capturar",
+          "copy": "Un saludo cálido y on-brand pregunta qué vino a buscar el visitante."
+        },
+        {
+          "n": "03",
+          "label": "GPT clasifica la intención",
+          "copy": "La intención se analiza: reserva, pregunta general, clínica u otra."
+        },
+        {
+          "n": "04",
+          "label": "Guardarraíl de conocimiento",
+          "copy": "Las respuestas se anclan a tu FAQ — las preguntas clínicas escalan."
+        },
+        {
+          "n": "05",
+          "label": "¿Lead calificado?",
+          "copy": "Un nodo IF divide el flujo según la intención y una breve verificación de calificación."
+        },
+        {
+          "n": "06",
+          "label": "Recoger contacto",
+          "copy": "Nombre, correo y mejor número — capturados en dos turnos cortos."
+        },
+        {
+          "n": "07",
+          "label": "Verificar disponibilidad",
+          "copy": "Una lectura en vivo del scheduler devuelve los próximos tres slots abiertos."
+        },
+        {
+          "n": "08",
+          "label": "Reservar cita",
+          "copy": "El visitante elige un slot y se crea el evento en el calendario."
+        },
+        {
+          "n": "09",
+          "label": "Enviar al CRM",
+          "copy": "El registro del lead aterriza en tu CRM con la transcripción completa adjunta."
+        },
+        {
+          "n": "10",
+          "label": "Notificar y confirmar",
+          "copy": "La alerta al staff dispara; el paciente recibe una confirmación con tu marca en segundos."
+        }
+      ],
+      "whatTitle": "Cuatro movimientos, cada lead calificado.",
+      "outcomes": [
+        {
+          "label": "Captación de leads 24/7",
+          "copy": "Consultas atendidas en tiempo real — fines de semana y after-hours incluidos."
+        },
+        {
+          "label": "Respuestas acotadas y seguras",
+          "copy": "El bot solo habla desde tu contenido sancionado — nunca inventa."
+        },
+        {
+          "label": "Visitas auto-reservadas",
+          "copy": "Los leads calificados eligen un slot dentro del chat, sin necesidad de devolver la llamada."
+        },
+        {
+          "label": "Pipeline alimentado por el CRM",
+          "copy": "Cada conversación llega etiquetada, transcrita y lista para accionar."
+        }
+      ],
+      "setupTitle": "En vivo antes del almuerzo.",
+      "setupIntro": "Tres pasos, ~75 minutos en total. Sin código. Tu clave GPT, base de conocimiento, scheduler y CRM siguen exactamente donde están.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Importar el spec",
+          "copy": "Mete el JSON de n8n en tu instancia — cada nodo está etiquetado.",
+          "minutes": "10 min"
+        },
+        {
+          "n": "02",
+          "title": "Configurar y conectar",
+          "copy": "Clave GPT, base de conocimiento, scheduler y CRM — credenciales y prompts.",
+          "minutes": "45 min"
+        },
+        {
+          "n": "03",
+          "title": "Piloto y encendido",
+          "copy": "Lanzamiento suave en una página oculta, luego pon el widget en tu homepage.",
+          "minutes": "20 min"
+        }
+      ],
+      "complianceTitle": "Sin PHI — acotado a Q&A de cara al público.",
+      "complianceText": "Las preguntas clínicas escalan automáticamente a un humano y el bot nunca lee del expediente. Seguro de desplegar sin BAA.",
+      "complianceCta": "Ver la política",
+      "ctaQuote": "Califica mientras duermes.",
+      "ctaText": "Mete el flujo en tu instancia de n8n esta tarde. Conectamos el alcance de GPT, scheduler y CRM en una llamada gratuita de 30 minutos.",
+      "footerBadges": ["Despliegue sin PHI", "Spec n8n de 10 nodos", "Tuyo para conservar"]
+    },
+    "socialAutoPoster": {
+      "fig": "FIG. 07",
+      "category": "SOCIAL",
+      "titlePart1": "Diario con IA",
+      "titleSep": " · ",
+      "titleItalic": "publicador automático en redes.",
+      "lede": "Un goteo diario de contenido en LinkedIn, Instagram y X — desde tu blog, con subtítulos on-brand, ",
+      "ledeEm": "agendado alrededor de tu calendario",
+      "ledeRest": ".",
+      "stats": {
+        "s1": { "value": "9 nodos", "label": "Flujo n8n" },
+        "s2": { "value": "~50 min", "label": "Tiempo de setup" },
+        "s3": { "value": "3 hrs", "label": "Creativas ahorradas/sem" },
+        "s4": { "value": "Sin PHI", "label": "Sin datos de pacientes" }
+      },
+      "shiftTitle": "De publicaciones esporádicas a un goteo diario.",
+      "beforeTitle": "La cadencia de contenido corre por fuerza de voluntad.",
+      "before": [
+        "La cadencia de publicación se desvía cuando la semana se complica.",
+        "Reformateo manual para cada canal, cada vez.",
+        "Subtítulos fuera de marca se cuelan bajo presión.",
+        "Sin un registro limpio de qué se publicó o cuándo."
+      ],
+      "afterTitle": "La cadencia de contenido corre según el calendario.",
+      "after": [
+        "Un goteo diario en LinkedIn, Instagram y X.",
+        "Subtítulos on-brand, desde tu propio contenido.",
+        "Verificación de voz de marca antes de cualquier publicación.",
+        "Cada post registrado con engagement, en un solo reporte."
+      ],
+      "howTitle": "Nueve nodos — contenido entra, posts salen.",
+      "nodes": [
+        {
+          "n": "01",
+          "label": "Trigger cron diario",
+          "copy": "Dispara una vez al día a la hora en que tu audiencia está más activa."
+        },
+        {
+          "n": "02",
+          "label": "Traer contenido fuente",
+          "copy": "El último post del blog o item del RSS se trae como el ancla del día."
+        },
+        {
+          "n": "03",
+          "label": "GPT genera subtítulo",
+          "copy": "Subtítulos on-brand escritos en tu voz, afinados por plataforma."
+        },
+        {
+          "n": "04",
+          "label": "Generar / elegir imagen",
+          "copy": "Una imagen que combine se genera o se selecciona de tu biblioteca."
+        },
+        {
+          "n": "05",
+          "label": "Verificación de voz de marca",
+          "copy": "Tono, afirmaciones y frases prohibidas se filtran antes de publicar."
+        },
+        {
+          "n": "06",
+          "label": "Formatear por plataforma",
+          "copy": "LinkedIn long-form, IG cuadrado, X corto — formateado automáticamente."
+        },
+        {
+          "n": "07",
+          "label": "Verificar calendario",
+          "copy": "El flujo revisa tu calendario de contenido para evitar publicaciones dobles."
+        },
+        {
+          "n": "08",
+          "label": "Programar y publicar",
+          "copy": "Los posts salen en vivo, o se agendan en tu herramienta social favorita."
+        },
+        {
+          "n": "09",
+          "label": "Registrar post y reportar",
+          "copy": "Cada envío se registra — el resumen semanal llega a tu bandeja."
+        }
+      ],
+      "whatTitle": "Cuatro hábitos, en automático.",
+      "outcomes": [
+        {
+          "label": "Posts multicanal diarios",
+          "copy": "LinkedIn, Instagram y X alimentados sin un esfuerzo manual de último momento."
+        },
+        {
+          "label": "On-brand, cada vez",
+          "copy": "Subtítulos sacados de tu propio contenido — sin relleno genérico."
+        },
+        {
+          "label": "Sin choques de calendario",
+          "copy": "El flujo respeta tu plan de contenido y tus campañas existentes."
+        },
+        {
+          "label": "Reporting integrado",
+          "copy": "El resumen semanal muestra qué se publicó, dónde y cómo rindió."
+        }
+      ],
+      "setupTitle": "En vivo en menos de una hora.",
+      "setupIntro": "Tres pasos, ~50 minutos en total. Sin código. Tu blog, clave GPT, herramientas sociales y guía de marca siguen exactamente donde están.",
+      "setupSteps": [
+        {
+          "n": "01",
+          "title": "Importar el spec",
+          "copy": "Mete el JSON de n8n en tu instancia — cada nodo está etiquetado.",
+          "minutes": "10 min"
+        },
+        {
+          "n": "02",
+          "title": "Conectar canales",
+          "copy": "Fuente de contenido, clave GPT, herramientas sociales y guía de marca — todo dentro.",
+          "minutes": "25 min"
+        },
+        {
+          "n": "03",
+          "title": "Piloto y encendido",
+          "copy": "Corre una pasada en modo borrador de 48 horas, luego activa la publicación en vivo.",
+          "minutes": "15 min"
+        }
+      ],
+      "complianceTitle": "Sin PHI — solo contenido, sin datos de pacientes.",
+      "complianceText": "El flujo lee tu blog público y publica posts públicos. Sin expediente, sin scheduler, sin identificadores de paciente. Seguro de desplegar sin BAA.",
+      "complianceCta": "Ver la política",
+      "ctaQuote": "Configura una vez, publica diario.",
+      "ctaText": "Mete el flujo en tu instancia de n8n esta tarde. Conectamos tu blog, clave GPT y canales sociales en una llamada gratuita de 30 minutos.",
+      "footerBadges": ["Despliegue sin PHI", "Spec n8n de 9 nodos", "Tuyo para conservar"]
+    }
+  }
+}

@@ -1,0 +1,74 @@
+import { NextRequest, NextResponse } from 'next/server';
+import { prisma } from '@server/prisma';
+import { requireAdmin } from '@server/auth';
+import { sanitizeText } from '@server/sanitize';
+
+export async function GET(req: NextRequest) {
+  try {
+    const slug = req.nextUrl.searchParams.get('slug')?.trim();
+    if (slug) {
+      const post = await prisma.post.findUnique({
+        where: { slug },
+        include: { author: true, categories: true, tags: true },
+      });
+      if (!post) return NextResponse.json({ error: 'Not found' }, { status: 404 });
+      return NextResponse.json(post, {
+        headers: { 'Cache-Control': 'public, max-age=60, stale-while-revalidate=600' },
+      });
+    }
+    const posts = await prisma.post.findMany({
+      where: { publishedAt: { not: null } },
+      orderBy: { publishedAt: 'desc' },
+      select: {
+        id: true,
+        title: true,
+        slug: true,
+        excerpt: true,
+        coverImage: true,
+        coverImageAlt: true,
+        publishedAt: true,
+        updatedAt: true,
+      },
+    });
+    return NextResponse.json(posts, {
+      headers: { 'Cache-Control': 'public, max-age=30, stale-while-revalidate=300' },
+    });
+  } catch (err) {
+    console.error('GET /api/posts error:', err);
+    return NextResponse.json({ error: 'Failed to fetch posts' }, { status: 500 });
+  }
+}
+
+export async function POST(req: NextRequest) {
+  const guard = await requireAdmin();
+  if (guard instanceof NextResponse) return guard;
+
+  try {
+    const body = (await req.json().catch(() => ({}))) as Record<string, any>;
+    if (!body.title || !body.slug) {
+      return NextResponse.json({ error: 'title and slug are required' }, { status: 400 });
+    }
+    const existing = await prisma.post.findUnique({ where: { slug: body.slug } });
+    if (existing) {
+      return NextResponse.json({ error: 'A post with that slug already exists' }, { status: 409 });
+    }
+    const post = await prisma.post.create({
+      data: {
+        title: String(body.title).slice(0, 250),
+        slug: String(body.slug).slice(0, 250),
+        excerpt: body.excerpt ? String(body.excerpt).slice(0, 500) : null,
+        content: body.content ? sanitizeText(body.content, 50000) : '',
+        coverImage: body.coverImage || null,
+        coverImageAlt: body.coverImageAlt || null,
+        seoTitle: body.seoTitle || null,
+        metaDesc: body.metaDesc || null,
+        canonical: body.canonical || null,
+        publishedAt: body.publishedAt ? new Date(body.publishedAt) : null,
+      },
+    });
+    return NextResponse.json(post, { status: 201 });
+  } catch (err) {
+    console.error('POST /api/posts error:', err);
+    return NextResponse.json({ error: 'Failed to create post' }, { status: 500 });
+  }
+}

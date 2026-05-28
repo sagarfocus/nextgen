@@ -1,0 +1,345 @@
+{
+  "brand": {
+    "name": "TheNextGen Healthcare Marketing",
+    "shortName": "TheNextGen",
+    "tagline": "Healthcare Growth Partner",
+    "description": "Full-service healthcare marketing agency. SEO, Google Ads, social media, website design, and HIPAA-compliant automation for clinics."
+  },
+  "buttons": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "viewMore": "View More",
+    "seeMore": "See More",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "send": "Send",
+    "sendMessage": "Send Message",
+    "subscribe": "Subscribe",
+    "bookConsultation": "Book a Consultation",
+    "bookCall": "Book a Call",
+    "bookDiscoveryCall": "Book a Discovery Call",
+    "bookStrategyCall": "Book a Strategy Call",
+    "scheduleCall": "Schedule a Call",
+    "scheduleDemo": "Schedule a Demo",
+    "freeAudit": "Get a Free Audit",
+    "freeGrowthAudit": "Get a Free Growth Audit",
+    "requestAudit": "Request an Audit",
+    "requestProposal": "Request a Proposal",
+    "requestQuote": "Request a Quote",
+    "contactUs": "Contact Us",
+    "contactSales": "Contact Sales",
+    "talkToExpert": "Talk to an Expert",
+    "talkToStrategist": "Talk to a Strategist",
+    "exploreServices": "Explore Services",
+    "seeOurWork": "See Our Work",
+    "viewCaseStudies": "View Case Studies",
+    "viewCaseStudy": "View Case Study",
+    "viewPricing": "View Pricing",
+    "viewPlans": "View Plans",
+    "viewDetails": "View Details",
+    "viewAllServices": "View All Services",
+    "viewAllIndustries": "View All Industries",
+    "loadMore": "Load More",
+    "loading": "Loading…",
+    "close": "Close",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "playVideo": "Play Video",
+    "downloadGuide": "Download Guide",
+    "startProject": "Start a Project",
+    "getInTouch": "Get in Touch",
+    "ctaSubscribeNewsletter": "Subscribe to Newsletter"
+  },
+  "language": {
+    "changeLanguage": "Change language",
+    "selectLanguage": "Select language",
+    "english": "English",
+    "spanish": "Español"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPhone": "Please enter a valid phone number",
+    "generic": "Something went wrong. Please try again.",
+    "networkError": "Network error. Please check your connection.",
+    "submitFailed": "Submission failed. Please try again.",
+    "notFoundTitle": "Page Not Found",
+    "notFoundDescription": "Sorry, we couldn't find the page you're looking for.",
+    "notFoundCta": "Go to Home"
+  },
+  "labels": {
+    "name": "Name",
+    "fullName": "Full Name",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "emailAddress": "Email Address",
+    "phone": "Phone",
+    "phoneNumber": "Phone Number",
+    "company": "Company",
+    "practiceName": "Practice Name",
+    "website": "Website",
+    "message": "Message",
+    "howCanWeHelp": "How can we help?",
+    "service": "Service",
+    "interestedIn": "Interested in",
+    "budget": "Budget",
+    "timeline": "Timeline",
+    "industry": "Industry",
+    "role": "Role",
+    "location": "Location",
+    "city": "City",
+    "state": "State",
+    "country": "Country",
+    "yourEmail": "Your email address",
+    "yourName": "Your name",
+    "yourMessage": "Your message",
+    "yourPhone": "Your phone number",
+    "selectOption": "Select an option",
+    "optional": "(optional)"
+  },
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "all": "All",
+    "more": "More",
+    "less": "Less",
+    "new": "New",
+    "featured": "Featured",
+    "popular": "Popular",
+    "bestseller": "Bestseller",
+    "free": "Free",
+    "comingSoon": "Coming Soon",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "category": "Category",
+    "categories": "Categories",
+    "tag": "Tag",
+    "tags": "Tags",
+    "author": "Author",
+    "publishedOn": "Published on",
+    "readingTime": "{{minutes}} min read",
+    "share": "Share",
+    "shareOn": "Share on {{platform}}",
+    "scrollToTop": "Scroll to top",
+    "breadcrumb": "Breadcrumb",
+    "page": "Page",
+    "of": "of",
+    "from": "from",
+    "to": "to",
+    "and": "and",
+    "or": "or",
+    "min": "min",
+    "hour": "hour",
+    "hours": "hours",
+    "day": "day",
+    "days": "days",
+    "week": "week",
+    "weeks": "weeks",
+    "month": "month",
+    "months": "months",
+    "year": "year",
+    "years": "years"
+  },
+  "newsletter": {
+    "title": "Get weekly marketing tips",
+    "description": "Healthcare growth insights, delivered to your inbox.",
+    "placeholder": "Your email address",
+    "submit": "Subscribe",
+    "ariaLabel": "Newsletter signup",
+    "successMessage": "Thank you! You'll get updates soon.",
+    "errorMessage": "Subscription failed. Please try again."
+  },
+  "footer": {
+    "servicesHeading": "Services",
+    "companyHeading": "Company",
+    "contactHeading": "Contact",
+    "socialAriaLabel": "Social media",
+    "copyright": "© {{year}} {{name}}. All rights reserved.",
+    "allRightsReserved": "All rights reserved.",
+    "madeWith": "Made with care in Texas."
+  },
+  "social": {
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter",
+    "youtube": "YouTube",
+    "whatsapp": "WhatsApp",
+    "email": "Email"
+  },
+  "modal": {
+    "bookingTitle": "Book a Call",
+    "bookingSubtitle": "Pick a time that works for you. We'll send a confirmation.",
+    "closeAriaLabel": "Close modal"
+  },
+  "booking": {
+    "closeAriaLabel": "Close booking",
+    "eyebrowBeforeBook": "Free 30-min Call",
+    "eyebrowConfirmed": "Hold confirmed",
+    "titleBeforeBook": "Book a free consultation with a healthcare growth specialist.",
+    "titleConfirmed": "You're on the calendar.",
+    "descriptionBeforeBook": "We'll review your current funnel, identify quick-win opportunities, and outline a custom growth roadmap for your practice.",
+    "descriptionConfirmedPrefix": "We've reserved",
+    "descriptionConfirmedJoin": "at",
+    "descriptionConfirmedSuffix": ". A confirmation email with the call link will arrive within the next business hour.",
+    "listBeforeBook": {
+      "audit": "Personalized funnel audit",
+      "roadmap": "Custom 90-day growth roadmap",
+      "compliance": "HIPAA-compliant, no commitment"
+    },
+    "listConfirmed": {
+      "invite": "Calendar invite + agenda within 1 business hour",
+      "preview": "A 1-page audit preview the morning of the call",
+      "prep": "No prep needed - bring your top 2 questions"
+    },
+    "footBeforeBook": "All times shown in your local timezone",
+    "footConfirmed": "Need to reschedule? Reply to the confirmation email.",
+    "confirmedBadge": "Confirmed",
+    "yourCallHeading": "Your call",
+    "formatLabel": "Format",
+    "formatValue": "Video call · 30 min",
+    "specialistLabel": "Specialist",
+    "specialistValue": "Assigned by vertical",
+    "prevMonthAriaLabel": "Previous month",
+    "nextMonthAriaLabel": "Next month",
+    "datesGridAriaLabel": "Available dates",
+    "timesAriaLabel": "Available time slots",
+    "timesEmpty": "Pick a date to see available times",
+    "confirmSelectDateTime": "Select a date & time",
+    "confirmPickTime": "Pick a time",
+    "confirmFormat": "Confirm: {{date}} at {{time}}",
+    "weekdays": {
+      "sun": "Sun",
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat"
+    },
+    "months": {
+      "0": "January",
+      "1": "February",
+      "2": "March",
+      "3": "April",
+      "4": "May",
+      "5": "June",
+      "6": "July",
+      "7": "August",
+      "8": "September",
+      "9": "October",
+      "10": "November",
+      "11": "December"
+    }
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "defaultSection": "Resources"
+  },
+  "components": {
+    "industryHero": {
+      "rootLabel": "Industries"
+    },
+    "industryCTA": {
+      "bookStrategyCall": "Book a strategy call"
+    },
+    "industrySnapshots": {
+      "defaultEyebrow": "In practice"
+    },
+    "industryNumbers": {
+      "title": "The numbers we move.",
+      "eyebrow": "Headline metric"
+    },
+    "industryPlaybook": {
+      "titlePart1": "The playbook,",
+      "titleEm": "step by step.",
+      "sub": "The same shape every engagement - tuned for this vertical."
+    },
+    "industrySpecialties": {
+      "title": "Specialties we serve."
+    },
+    "serviceHero": {
+      "rootLabel": "Services",
+      "getFreeAudit": "Get Free Audit",
+      "seeHowItWorks": "See how it works"
+    },
+    "serviceCTA": {
+      "defaultEyebrow": "Free audit · No commitment",
+      "defaultTitle": "Let's make this work.",
+      "defaultDescription": "A 30-minute call. We'll audit your current setup and share the closest case study from this library - whether you sign with us or not.",
+      "defaultPrimaryLabel": "Book strategy call"
+    },
+    "serviceFAQ": {
+      "defaultTitle": "Questions we hear most.",
+      "defaultMeta": "More on the\nresources page",
+      "sectionLabel": "Common questions",
+      "faqSchemaName": "{{serviceName}} - frequently asked questions"
+    },
+    "problemOutcome": {
+      "sectionNum": "01 - Problem → Outcome",
+      "titlePart1": "From",
+      "titleEm": "stuck",
+      "titlePart2": "to scaling.",
+      "metaLine1": "Side-by-side",
+      "metaLine2": "before / after",
+      "outcomeEyebrow": "After 90 days",
+      "outcomeHeading": "Measurable, predictable, repeatable growth."
+    },
+    "howItWorks": {
+      "sectionNum": "02 - How it works",
+      "titlePart1": "Four phases.",
+      "titleEm": "Sixty days.",
+      "metaLine1": "Same shape",
+      "metaLine2": "every engagement",
+      "phasePrefix": "Phase"
+    },
+    "results": {
+      "sectionNum": "03 - Results",
+      "titlePart1": "Real numbers,",
+      "titleEm": "real practices.",
+      "metaLine1": "Audited",
+      "metaLine2": "aggregate",
+      "heroEyebrow": "Headline metric"
+    },
+    "caseStudies": {
+      "sectionNum": "05 - Case studies",
+      "titlePart1": "Six recent",
+      "titleEm": "engagements.",
+      "metaLine1": "Swipe or",
+      "metaLine2": "click through",
+      "problemLabel": "Problem",
+      "resultLabel": "Result",
+      "prevAriaLabel": "Previous",
+      "nextAriaLabel": "Next",
+      "viewAllCases": "View all case studies"
+    },
+    "relatedServices": {
+      "defaultTitle": "Pair this with another lever.",
+      "defaultIntro": "These services compound when run together - pick the next layer that matches your bottleneck.",
+      "sectionLabel": "Related services",
+      "explore": "Explore"
+    },
+    "serviceScenario": {
+      "comparisonHeaders": {
+        "lever": "Lever",
+        "before": "Most clinics today",
+        "after": "With our engagement"
+      },
+      "sketchDisclaimer": "Illustrative scenario · Composite, not a single engagement"
+    },
+    "whatWeDo": {
+      "sectionNum": "01 - What we do",
+      "titlePart1": "Six ways we",
+      "titleEm": "move the needle.",
+      "metaLine1": "Every retainer",
+      "metaLine2": "covers all six",
+      "cornerstoneLabel": "Cornerstone capability",
+      "outcomeLensLabel": "Outcome lens"
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "seo": {
+    "title": "Healthcare Marketing for Clinics, MedSpas & Urgent Care in Texas",
+    "description": "Healthcare marketing built for clinics, medspas, urgent care & ERs. HIPAA-aware SEO, paid ads, websites, automation. 200+ Texas practices. Free 5-day growth audit."
+  },
+  "hero": {
+    "eyebrow": "Healthcare Growth Partner",
+    "titleLine1": "We Market Healthcare.",
+    "titleAccent": "Relentlessly.",
+    "lede": "SEO, paid ads, branding, content, and websites built for clinics, medspas, urgent care centers, and healthcare brands that want measurable growth.",
+    "ctaPrimary": "Get a Free Growth Audit",
+    "ctaSecondary": "See Our Work",
+    "hubName": "TheNextGen",
+    "hubTag": "Healthcare",
+    "pills": {
+      "seoLocal": "SEO & Local",
+      "paidMedia": "Paid Media",
+      "branding": "Branding",
+      "automation": "Automation",
+      "webDesign": "Web Design",
+      "content": "Content"
+    }
+  },
+  "certStrip": {
+    "title": "Trusted by 200+ healthcare practices",
+    "subtitle": "Compliant by design, measurable by default.",
+    "ariaLabel": "Capabilities and compliance",
+    "label": "Trusted & Certified",
+    "items": {
+      "hipaa": "HIPAA Aware",
+      "google": "Google Certified",
+      "meta": "Meta Certified",
+      "seo": "SEO",
+      "paidAds": "Paid Ads",
+      "webDesign": "Website Design"
+    }
+  },
+  "aboutUs": {
+    "eyebrow": "About Us",
+    "title": "Built for the healthcare practices ready to grow.",
+    "partnerStat": {
+      "value": "200+",
+      "label": "Partner Practices"
+    },
+    "introText": "We help healthcare practices grow faster with marketing systems built specifically for clinics, medspas, and wellness brands — HIPAA-aware, ROI-tracked, and engineered to compound month over month so your patient pipeline never goes quiet.",
+    "feature": {
+      "title": "Healthcare Growth Engine",
+      "desc": "Integrated SEO, paid media, and automation — every channel optimized for patient acquisition and retention.",
+      "ariaLabel": "Learn more about the Healthcare Growth Engine"
+    },
+    "floatStat": {
+      "value": "120+",
+      "label": "Programs Launched"
+    },
+    "learnMore": "Learn More",
+    "collab": {
+      "title": "Collaborate to build a patient-first growth system.",
+      "text": "We embed inside your team so strategy, execution, and reporting move as one. Every decision is grounded in patient data and real revenue impact — not vanity metrics.",
+      "pillars": {
+        "strategy": {
+          "title": "Built With Expert Strategy",
+          "desc": "Senior healthcare strategists owning every roadmap."
+        },
+        "revenue": {
+          "title": "Focused on Revenue",
+          "desc": "Appointments, retention, and patient lifetime value."
+        }
+      },
+      "quote": {
+        "title": "Collaboration is the Key of Success",
+        "text": "Embedded growth partners — not vendors."
+      },
+      "cta": "More About Us"
+    }
+  },
+  "advantages": {
+    "eyebrow": "Our Advantages",
+    "title": "One partner for healthcare growth.",
+    "intro": "SEO, paid media, automation, and reporting under one roof — so your team has one accountable partner, not five disconnected vendors.",
+    "stats": {
+      "retention": "Client retention rate",
+      "practices": "Healthcare practices grown",
+      "leadTime": "To first qualified leads"
+    },
+    "cards": {
+      "underOneRoof": {
+        "title": "Everything under one roof",
+        "desc": "SEO, paid media, content, automation, and reporting — one team, one source of truth. No vendor stitching, no finger-pointing across agencies."
+      },
+      "dedicatedLead": {
+        "title": "Your dedicated growth lead",
+        "desc": "A single accountable strategist who owns your roadmap, runs weekly reviews, and is reachable when patient volume needs to move now — not next sprint."
+      },
+      "fixedPricing": {
+        "title": "Fixed pricing & clear timelines",
+        "desc": "Transparent monthly plans with milestones you can map to your board. No surprise invoices, no buried retainer creep — what you sign is what you pay."
+      },
+      "hipaaSpecialists": {
+        "title": "HIPAA-aware specialists",
+        "desc": "Every campaign, pixel, and intake form is built by healthcare-trained operators using BAA-ready stacks and server-side tracking. Compliance is the default, not an afterthought."
+      }
+    }
+  },
+  "services": {
+    "head": {
+      "eyebrow": "Services",
+      "title": "Marketing built for healthcare practices.",
+      "sub": "Six core capabilities — one integrated growth engine for clinics, medspas, and wellness brands.",
+      "allLinkText": "View all services"
+    },
+    "items": {
+      "seo": {
+        "tag": "Search",
+        "title": "SEO Services",
+        "sub": "Full-suite SEO — technical, on-page, off-page, local, AEO, content.",
+        "ariaLabel": "SEO Services"
+      },
+      "social": {
+        "tag": "Social",
+        "title": "Social Media Marketing",
+        "sub": "Show up where your patients spend their time — consistently.",
+        "ariaLabel": "Social Media Marketing"
+      },
+      "googleAds": {
+        "tag": "Paid Media",
+        "title": "Google Ads",
+        "sub": "Search, PMax, Display, YouTube, Shopping, LSA — tuned weekly against ROAS.",
+        "ariaLabel": "Google Ads"
+      },
+      "field": {
+        "tag": "Field",
+        "title": "Onsite Field Marketing",
+        "sub": "In-clinic activations and community presence that convert locally.",
+        "ariaLabel": "Onsite Field Marketing"
+      },
+      "automation": {
+        "tag": "Automation",
+        "title": "Medical Automation",
+        "sub": "n8n & custom workflows that handle intake, follow-up, and reporting.",
+        "ariaLabel": "Medical Automation"
+      },
+      "email": {
+        "tag": "Lifecycle",
+        "title": "Email & Drip Campaigns",
+        "sub": "Nurture leads, recover no-shows, and re-engage past patients.",
+        "ariaLabel": "Email and Drip Campaigns"
+      }
+    }
+  },
+  "industries": {
+    "eyebrow": "Industries",
+    "title": "Industries We Serve",
+    "lead": "Specialized marketing for every type of healthcare facility — because an ER and a MedSpa require fundamentally different growth strategies.",
+    "pillarsLabel": "Every vertical varies on",
+    "stats": {
+      "campaigns": "campaigns launched",
+      "adSpend": "ad spend managed",
+      "roi": "average ROI"
+    },
+    "specialties": {
+      "er": {
+        "name": "Emergency Rooms",
+        "meta": "24/7 high-acuity acquisition"
+      },
+      "urgentCare": {
+        "name": "Urgent Care",
+        "meta": "Walk-in volume vs. health systems"
+      },
+      "medspa": {
+        "name": "MedSpas & Aesthetics",
+        "meta": "Social + targeted Meta campaigns"
+      },
+      "dental": {
+        "name": "Dental Practices",
+        "meta": "Locally-optimized growth"
+      },
+      "chiro": {
+        "name": "Chiropractic",
+        "meta": "Recurring local patient flow"
+      },
+      "mental": {
+        "name": "Mental Health",
+        "meta": "Discreet, demographic-driven"
+      },
+      "primary": {
+        "name": "Primary Care",
+        "meta": "Service-area patient demand"
+      },
+      "pediatrics": {
+        "name": "Pediatrics",
+        "meta": "Family-tailored growth strategy"
+      }
+    },
+    "tags": {
+      "er": "Emergency Room",
+      "urgentCare": "Urgent Care",
+      "medspa": "MedSpa",
+      "dental": "Dental",
+      "mental": "Mental Health",
+      "pediatrics": "Pediatrics"
+    },
+    "pillars": {
+      "cost": "Patient Acquisition Costs",
+      "competition": "Competitive Dynamics",
+      "compliance": "Compliance Requirements"
+    },
+    "strap": {
+      "brand": "Clinic Growth OS",
+      "after": " adapts to every clinical reality — from same-day appointment slots to 6-month elective procedure pipelines. Industry-specific playbooks, not a generic strategy."
+    }
+  },
+  "results": {
+    "head": {
+      "eyebrow": "Proof of Work",
+      "title": "Real results.",
+      "sub": "We don’t just talk — we deliver measurable outcomes for healthcare practices."
+    },
+    "featured": {
+      "tag": "MedSpa",
+      "label": "Increase in Instagram leads in 90 days — from a single optimized funnel and creative refresh.",
+      "ariaLabel": "312% increase in Instagram leads - MedSpa"
+    },
+    "stats": {
+      "er": {
+        "tag": "Emergency Room",
+        "label": "Increase in walk-in patients in six months.",
+        "ariaLabel": "47% increase in walk-in patients - Emergency Room"
+      },
+      "urgentCare": {
+        "tag": "Urgent Care",
+        "label": "Return on ad spend in the first quarter.",
+        "ariaLabel": "2.8x return on ad spend - Urgent Care"
+      },
+      "medspaNetwork": {
+        "tag": "MedSpa Network",
+        "label": "Revenue generated from Facebook ads in 12 months.",
+        "ariaLabel": "$1.2M revenue generated - MedSpa Network"
+      }
+    }
+  },
+  "testimonials": {
+    "head": {
+      "eyebrow": "Testimonials",
+      "title": "Trusted by healthcare leaders.",
+      "sub": "Join the practices that have transformed their patient acquisition with TheNextGen."
+    },
+    "items": {
+      "chen": {
+        "text": "TheNextGen rebuilt our entire patient pipeline. In 90 days, consults tripled and our cost per lead dropped by half.",
+        "name": "Dr. Sarah Chen",
+        "title": "Owner, Beverly Hills MedSpa"
+      },
+      "reynolds": {
+        "text": "Their HIPAA-aware paid media let us scale with confidence. We’ve seen consistent month-over-month growth for over a year.",
+        "name": "Mark Reynolds",
+        "title": "Practice Director, Premier Dental"
+      },
+      "rodriguez": {
+        "text": "Every decision is backed by clear reporting. The weekly optimization keeps our funnel sharp and our team aligned.",
+        "name": "Dr. Emily Rodriguez",
+        "title": "Founder, Wellness Collective"
+      },
+      "park": {
+        "text": "They understand healthcare. Compliance was seamless and ROI showed up in our very first quarter.",
+        "name": "James Park",
+        "title": "CEO, Urgent Care Network"
+      }
+    },
+    "nav": {
+      "groupLabel": "Testimonial slider navigation",
+      "prev": "Previous testimonial",
+      "next": "Next testimonial"
+    }
+  },
+  "faq": {
+    "head": {
+      "eyebrow": "Your Questions, Answered",
+      "titleLine1": "Frequently",
+      "titleLine2Lead": "Asked",
+      "titleLine2Accent": "Questions",
+      "intro": "Everything you need to know about working with TheNextGen — from compliance and reporting to timelines and engagement length."
+    },
+    "still": {
+      "title": "Still have questions?",
+      "para1": "We understand every clinic is different. If there’s anything you’d like to clarify about pricing, services, or how we’ll fit into your workflow, our team is here to help.",
+      "para2": "Reach out anytime — we’ll walk you through every detail to make sure you get the most out of our platform.",
+      "ctaText": "Book a Demo"
+    },
+    "items": {
+      "results": {
+        "q": "How quickly will I see results from your healthcare marketing?",
+        "aLead": "Most clients see ",
+        "aStrong": "tangible movement within 30 days",
+        "aRest": " — improved Google Business Profile visibility, faster page loads, and the first paid-media leads. Sustained organic growth from SEO typically compounds across months 3–6 as content, backlinks, and on-page work mature.",
+        "text": "Most clients see tangible movement within 30 days — improved Google Business Profile visibility, faster page loads, and the first paid-media leads. Sustained organic growth from SEO typically compounds across months 3–6 as content, backlinks, and on-page work mature."
+      },
+      "hipaa": {
+        "q": "Are your campaigns and tools HIPAA-aware?",
+        "a": "Yes. We follow HIPAA-aware practices across tracking, ad targeting, intake forms, and reporting — including server-side conversion tracking, compliant pixel use, and BAA-ready vendor selection where applicable. We are not a covered entity, so we work alongside your compliance officer to ensure end-to-end alignment.",
+        "text": "Yes. We follow HIPAA-aware practices across tracking, ad targeting, intake forms, and reporting — including server-side conversion tracking, compliant pixel use, and BAA-ready vendor selection where applicable. We are not a covered entity, so we work alongside your compliance officer to ensure end-to-end alignment."
+      },
+      "size": {
+        "q": "What size practices do you typically work with?",
+        "aLead": "From ",
+        "aStrong1": "single-location clinics and medspas",
+        "aMid": " to ",
+        "aStrong2": "multi-location healthcare networks",
+        "aRest": ". Our methodology scales: smaller practices benefit from the full Clinic Growth OS, while larger networks plug us into existing teams to amplify performance and reporting.",
+        "text": "From single-location clinics and medspas to multi-location healthcare networks. Our methodology scales: smaller practices benefit from the full Clinic Growth OS, while larger networks plug us into existing teams to amplify performance and reporting."
+      },
+      "monthly": {
+        "q": "What's included in your monthly engagement?",
+        "a": "Strategy, execution, and reporting across SEO, paid media (Google & Meta), social, content, automation, and weekly optimization — plus a dedicated growth lead and a real-time analytics dashboard. Every plan is tailored to your goals; nothing is bolted on.",
+        "text": "Strategy, execution, and reporting across SEO, paid media (Google & Meta), social, content, automation, and weekly optimization — plus a dedicated growth lead and a real-time analytics dashboard. Every plan is tailored to your goals; nothing is bolted on."
+      },
+      "contract": {
+        "q": "Do I need a long-term contract to work with you?",
+        "aLead": "No long lock-ins. We recommend a ",
+        "aStrong": "minimum 90-day engagement",
+        "aRest": " so the system has time to compound, but month-to-month options are available after the initial setup phase. Cancel, downgrade, or scale anytime — no hidden fees.",
+        "text": "No long lock-ins. We recommend a minimum 90-day engagement so the system has time to compound, but month-to-month options are available after the initial setup phase. Cancel, downgrade, or scale anytime — no hidden fees."
+      }
+    }
+  },
+  "contactSection": {
+    "head": {
+      "eyebrow": "Visit Us",
+      "title": "Find us in Irving, Texas.",
+      "sub": "Stop by the office or reach our team anytime — we’re happy to walk you through the Clinic Growth OS in person or over a call."
+    },
+    "card": {
+      "mapChip": "Office Location",
+      "headquartersEyebrow": "Headquarters",
+      "cityRegionHeading": "Irving, TX",
+      "hqName": "TheNextGen HQ",
+      "hoursLabel": "Mon–Fri, 9:00am–6:00pm CT",
+      "countryName": "United States",
+      "mapLinkAriaLabel": "Open location in Google Maps",
+      "getDirectionsText": "Get Directions"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+import { NextRequest, NextResponse } from 'next/server';
+import { requireAdmin } from '@server/auth';
+import { generateAndSave } from '@server/ai-blog';
+
+export async function POST(req: NextRequest) {
+  const guard = await requireAdmin();
+  if (guard instanceof NextResponse) return guard;
+
+  try {
+    const { topic, autoPublish } = (await req.json().catch(() => ({}))) as {
+      topic?: string;
+      autoPublish?: boolean;
+    };
+    const result = await generateAndSave({
+      topic: typeof topic === 'string' ? topic : undefined,
+      autoPublish: !!autoPublish,
+      withSeoScore: false,
+    });
+    return NextResponse.json(result);
+  } catch (err) {
+    console.error('/api/ai/generate-blog error:', err);
+    return NextResponse.json(
+      { success: false, error: err instanceof Error ? err.message : 'Generation failed' },
+      { status: 500 },
+    );
+  }
+}

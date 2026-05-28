@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Contacta a TheNextGen — Marketing en salud en Irving, Texas",
+    "description": "Cuéntanos sobre tu práctica — respondemos en menos de 4 horas hábiles con una hoja de ruta a medida. Llamadas, auditorías y cotizaciones para clínicas, medspas, urgent care y ERs."
+  },
+  "hero": {
+    "eyebrow": "Recibe tu cotización a medida",
+    "titleStart": "Cuéntanos sobre tu práctica.",
+    "titleAccent": "Te respondemos en 4 horas.",
+    "lede": "Responde 4 preguntas rápidas sobre tu instalación, escala, presupuesto y objetivos — te enviamos una hoja de ruta de marketing a medida en menos de medio día hábil."
+  },
+  "quote": {
+    "progressAria": "Progreso de la cotización",
+    "stepLabels": {
+      "facility": "Instalación",
+      "scale": "Escala",
+      "budget": "Presupuesto",
+      "goals": "Objetivos",
+      "contact": "Contacto"
+    },
+    "steps": {
+      "facility": {
+        "tag": "Paso 01 — Tipo de instalación",
+        "title": "¿Qué tipo de instalación operas?",
+        "sub": "Cada especialidad tiene su propia psicología de paciente y dinámica de adquisición. Te emparejamos con el playbook correcto.",
+        "choices": {
+          "fser": { "label": "Freestanding ER", "meta": "Alta agudeza / trauma" },
+          "urgent": { "label": "Urgent Care", "meta": "Volumen walk-in" },
+          "wellness": { "label": "Clínica de wellness", "meta": "Estética / longevidad" },
+          "multi": { "label": "Multi-especialidad", "meta": "Práctica combinada" }
+        }
+      },
+      "scale": {
+        "tag": "Paso 02 — Métricas de escala",
+        "title": "¿Cuántas ubicaciones físicas operas?",
+        "sub": "La escala lo cambia todo — desde la estrategia de SEO local hasta los sistemas de reputación multi-ubicación.",
+        "choices": {
+          "single": { "label": "1 ubicación", "meta": "Práctica de una sede" },
+          "small": { "label": "2 – 5 ubicaciones", "meta": "Grupo pequeño" },
+          "mid": { "label": "6 – 10 ubicaciones", "meta": "Red mediana" },
+          "enterprise": { "label": "10+ ubicaciones", "meta": "Empresa" }
+        }
+      },
+      "budget": {
+        "tag": "Paso 03 — Calificador financiero",
+        "title": "¿Gasto publicitario mensual actual o proyectado?",
+        "sub": "Esto nos ayuda a dimensionar el mix correcto de canales y proyectar una velocidad realista de adquisición de pacientes para tu práctica.",
+        "choices": {
+          "under5k": { "label": "Menos de $5,000", "meta": "Presupuesto starter" },
+          "growth": { "label": "$5K – $15K", "meta": "Fase de crecimiento" },
+          "scale": { "label": "$15K – $50K", "meta": "Escala" },
+          "enterprise": { "label": "$50,000+", "meta": "Empresa" }
+        }
+      },
+      "goals": {
+        "tag": "Paso 04 — Objetivos principales",
+        "title": "¿Cuáles son tus objetivos principales de crecimiento?",
+        "sub": "Selecciona todos los que apliquen — priorizaremos las tácticas correctas en tu hoja de ruta personalizada.",
+        "choices": {
+          "callVolume": { "label": "Aumentar volumen de llamadas", "meta": "Más consultas de pacientes" },
+          "frontDesk": { "label": "Reducir carga de recepción", "meta": "Automatización de intake con IA" },
+          "maps": { "label": "Mejorar posición en mapas", "meta": "Visibilidad en el local pack" },
+          "reviews": { "label": "Automatizar reseñas", "meta": "Gestión de reputación" },
+          "scheduling": { "label": "Agendamiento con IA", "meta": "Reservas automatizadas" },
+          "cpa": { "label": "Bajar Costo Por Adquisición", "meta": "Mejor ROI del gasto" }
+        }
+      },
+      "contact": {
+        "tag": "Paso 05 — Tu contacto",
+        "title": "¿A dónde te enviamos tu hoja de ruta?",
+        "sub": "Te enviaremos tu plan de crecimiento y precios a medida en menos de 4 horas hábiles — directo a tu bandeja.",
+        "nameLabel": "Nombre completo",
+        "namePlaceholder": "Dra. Jane Smith",
+        "emailLabel": "Correo de trabajo",
+        "emailPlaceholder": "jane@tupractica.com",
+        "required": "*"
+      }
+    },
+    "actions": {
+      "back": "Volver",
+      "continue": "Continuar",
+      "submit": "Enviar solicitud de cotización",
+      "stepsSuffix": "/ 05 pasos"
+    },
+    "success": {
+      "title": "Tu hoja de ruta va en camino.",
+      "body": "Recibimos tus datos y responderemos en menos de 4 horas hábiles con un plan de marketing a la medida de tu práctica."
+    }
+  },
+  "info": {
+    "eyebrow": "Otras formas de contactarnos",
+    "title": "¿Prefieres email o un mensaje rápido?",
+    "subtitle": "Envíanos una consulta general, suscríbete para recibir insights de marketing en salud o escribe a nuestro equipo por los canales de abajo."
+  },
+  "inquiry": {
+    "eyebrow": "Consulta general",
+    "title": "Envíanos un mensaje",
+    "text": "¿Tienes una pregunta, una queja o necesitas ayuda para elegir el servicio correcto para tu práctica? Escríbenos sin problema — solemos responder en menos de 4 horas.",
+    "firstName": "Nombre",
+    "firstNamePlaceholder": "Escribe tu nombre",
+    "lastName": "Apellido",
+    "lastNamePlaceholder": "Escribe tu apellido",
+    "email": "Correo",
+    "emailPlaceholder": "Escribe tu correo",
+    "phone": "Datos de contacto",
+    "phonePlaceholder": "Escribe tu número de contacto",
+    "countryCodeAria": "Código de país",
+    "message": "Mensaje",
+    "messagePlaceholder": "Escribe tu mensaje",
+    "submit": "Enviar mensaje",
+    "errors": {
+      "missing": "Completa nombre, apellido, correo y mensaje.",
+      "invalidEmail": "Escribe un correo válido."
+    },
+    "success": "¡Mensaje enviado! Te responderemos en menos de 4 horas."
+  },
+  "newsletter": {
+    "eyebrow": "Nuestro newsletter",
+    "title": "Crecimiento en salud, cada semana.",
+    "text": "Tácticas probadas en campo para adquisición de pacientes, novedades HIPAA y casos de más de 200 prácticas en Texas — cada martes en la mañana. Sin paja, sin spam.",
+    "placeholder": "Escribe tu correo de trabajo",
+    "submit": "Suscribirme",
+    "invalidEmail": "Escribe un correo válido.",
+    "success": "¡Gracias! Pronto recibirás novedades."
+  },
+  "help": {
+    "eyebrow": "¡Hola! Estamos aquí",
+    "title": "para ayudarte.",
+    "rows": {
+      "hotline": { "tag": "Línea directa", "value": "+1 (972) 848-1153" },
+      "sms": { "tag": "SMS / WhatsApp", "value": "+1 (972) 848-1153" },
+      "email": { "tag": "Correo" }
+    },
+    "social": "Conéctate con nosotros",
+    "socials": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "twitter": "X / Twitter"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+# robots.txt for TheNextGen Healthcare Marketing
+# https://thenextgenhealth.com/
+
+User-agent: *
+Allow: /
+
+# Block client-side preview paths if/when they ever exist.
+Disallow: /preview/
+Disallow: /draft/
+
+Sitemap: https://thenextgenhealth.com/sitemap.xml
