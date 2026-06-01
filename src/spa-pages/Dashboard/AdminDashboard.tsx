@@ -4828,9 +4828,10 @@ function NewsManagementSection({
   });
 
   useEffect(() => {
-    fetch('/api/news')
+    // Admin endpoint returns ALL articles incl. drafts — public /api/news filters to published only.
+    fetch('/api/admin/news')
       .then(res => res.json())
-      .then(data => { setArticles(data); setLoading(false); })
+      .then(data => { setArticles(Array.isArray(data) ? data : []); setLoading(false); })
       .catch(() => setLoading(false));
   }, []);
 
@@ -4923,9 +4924,9 @@ function NewsManagementSection({
       if (!res.ok || !data.success) throw new Error(data.error || 'Generation failed');
       
       // Refresh article list
-      const articlesRes = await fetch('/api/news');
+      const articlesRes = await fetch('/api/admin/news');
       const articlesData = await articlesRes.json();
-      setArticles(articlesData);
+      setArticles(Array.isArray(articlesData) ? articlesData : []);
       
       // Show success notification
       updateBackgroundTask(
@@ -4962,9 +4963,9 @@ function NewsManagementSection({
       const data = await res.json();
       if (!res.ok || !data.success) throw new Error(data.error || 'Generation failed');
       
-      const articlesRes = await fetch('/api/news');
+      const articlesRes = await fetch('/api/admin/news');
       const articlesData = await articlesRes.json();
-      setArticles(articlesData);
+      setArticles(Array.isArray(articlesData) ? articlesData : []);
       
       updateBackgroundTask(
         taskId, 

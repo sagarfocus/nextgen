@@ -1,8 +1,6 @@
 import { useTranslation } from 'react-i18next';
 import NewsHead from './NewsHead';
-import NewsHeroGrid from './NewsHeroGrid';
-import NewsThreeColumn from './NewsThreeColumn';
-import TrendingRail from './TrendingRail';
+import NewsroomStrip from './NewsroomStrip';
 import NewsletterStrip from './NewsletterStrip';
 import Seo from '@/components/Seo';
 import { buildBreadcrumbList } from '@/lib/schema';
@@ -37,9 +35,7 @@ const HealthcareNews = () => {
       />
 
       <NewsHead />
-      <NewsHeroGrid />
-      <NewsThreeColumn />
-      <TrendingRail />
+      <NewsroomStrip />
       <NewsletterStrip />
     </>
   );

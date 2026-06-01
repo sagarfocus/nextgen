@@ -79,6 +79,8 @@ import AdminBlogList from './spa-pages/Dashboard/admin/BlogList';
 import AdminBlogNew from './spa-pages/Dashboard/admin/BlogNew';
 import AdminBlogEdit from './spa-pages/Dashboard/admin/BlogEdit';
 import AdminNewsList from './spa-pages/Dashboard/admin/NewsList';
+import AdminNewsNew from './spa-pages/Dashboard/admin/NewsNew';
+import AdminNewsEdit from './spa-pages/Dashboard/admin/NewsEdit';
 import { SitePreferencesProvider } from './spa-pages/Dashboard/components/SitePreferencesProvider';
 import { AdminPreferencesProvider } from './spa-pages/Dashboard/components/AdminPreferencesProvider';
 import { AuthProvider } from './lib/AuthContext';
@@ -247,6 +249,8 @@ const App = () => {
           <Route path="/dashboard/admin/blog/new" element={<AdminGate><AdminBlogNew /></AdminGate>} />
           <Route path="/dashboard/admin/blog/edit/:id" element={<AdminGate><AdminBlogEdit /></AdminGate>} />
           <Route path="/dashboard/admin/news" element={<AdminGate><AdminNewsList /></AdminGate>} />
+          <Route path="/dashboard/admin/news/new" element={<AdminGate><AdminNewsNew /></AdminGate>} />
+          <Route path="/dashboard/admin/news/edit/:id" element={<AdminGate><AdminNewsEdit /></AdminGate>} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </PageTransition>

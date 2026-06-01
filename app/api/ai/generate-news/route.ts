@@ -1,9 +1,27 @@
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import { requireAdmin } from '@server/auth';
-import { notConfigured } from '@server/stubs';
+import { generateAndSaveNews } from '@server/ai-news';
 
-export async function POST() {
+export async function POST(req: NextRequest) {
   const guard = await requireAdmin();
   if (guard instanceof NextResponse) return guard;
-  return notConfigured('AI news generator');
+
+  try {
+    const { topic, autoPublish } = (await req.json().catch(() => ({}))) as {
+      topic?: string;
+      autoPublish?: boolean;
+    };
+    const result = await generateAndSaveNews({
+      topic: typeof topic === 'string' ? topic : undefined,
+      autoPublish: !!autoPublish,
+      withScore: false,
+    });
+    return NextResponse.json(result);
+  } catch (err) {
+    console.error('/api/ai/generate-news error:', err);
+    return NextResponse.json(
+      { success: false, error: err instanceof Error ? err.message : 'Generation failed' },
+      { status: 500 },
+    );
+  }
 }

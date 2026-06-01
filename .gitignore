@@ -9,3 +9,5 @@ build/
 uploads/
 *.log
 tsconfig.tsbuildinfo
+
+.vercel

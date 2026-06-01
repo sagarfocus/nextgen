@@ -1,10 +1,211 @@
-import { useParams, Navigate } from 'react-router-dom';
+import { useEffect, useState } from 'react';
+import { useParams, Navigate, Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import Breadcrumb from '@/components/Breadcrumb';
 import Seo from '@/components/Seo';
 import { buildBreadcrumbList } from '@/lib/schema';
 import { SITE } from '@/content/site';
 import { NEWS_ARTICLES, newsBySlug, CATEGORY_TONES, type NewsArticle } from './news.data';
+
+/* ─── Admin-authored article (from DB) ───────────────────────────
+   Renders articles created in /dashboard/admin News Management. Used as
+   a fallback when the slug isn't in the static NEWS_ARTICLES set. */
+
+interface DbNewsArticle {
+  id: number;
+  title: string;
+  slug: string;
+  excerpt: string | null;
+  content: string;
+  coverImage: string | null;
+  coverImageAlt: string | null;
+  publisher: string | null;
+  source: string | null;
+  sourceUrl: string | null;
+  publishedAt: string | null;
+}
+
+type DbState = 'loading' | 'ready' | 'not-found' | 'error';
+
+const DbNewsArticleView = ({ slug }: { slug: string }) => {
+  const [article, setArticle] = useState<DbNewsArticle | null>(null);
+  const [state, setState] = useState<DbState>('loading');
+
+  useEffect(() => {
+    let cancelled = false;
+    fetch(`/api/news?slug=${encodeURIComponent(slug)}`)
+      .then(async (res) => {
+        if (res.status === 404) return { _missing: true } as const;
+        if (!res.ok) throw new Error('Failed to load');
+        return (await res.json()) as DbNewsArticle;
+      })
+      .then((data) => {
+        if (cancelled) return;
+        if ('_missing' in data) {
+          setState('not-found');
+          return;
+        }
+        setArticle(data);
+        setState('ready');
+      })
+      .catch(() => !cancelled && setState('error'));
+    return () => {
+      cancelled = true;
+    };
+  }, [slug]);
+
+  if (state === 'loading') {
+    return (
+      <section style={{ padding: '120px 0', textAlign: 'center' }}>
+        <div
+          aria-hidden="true"
+          style={{
+            margin: '0 auto',
+            width: 32,
+            height: 32,
+            border: '3px solid rgba(15,23,42,0.1)',
+            borderTopColor: '#0a9968',
+            borderRadius: '50%',
+            animation: 'spin 0.8s linear infinite',
+          }}
+        />
+        <style>{`@keyframes spin { to { transform: rotate(360deg); } }`}</style>
+      </section>
+    );
+  }
+  if (state === 'not-found') return <Navigate to="/healthcare-news" replace />;
+  if (state === 'error' || !article) {
+    return (
+      <section style={{ padding: '120px 0', textAlign: 'center', color: '#b91c1c' }}>
+        Couldn't load this article right now.
+      </section>
+    );
+  }
+
+  const published = article.publishedAt
+    ? new Date(article.publishedAt).toLocaleDateString('en-US', {
+        month: 'long',
+        day: 'numeric',
+        year: 'numeric',
+      })
+    : '';
+
+  return (
+    <>
+      <Seo
+        title={article.title}
+        description={article.excerpt || article.title}
+        path={`/healthcare-news/${article.slug}`}
+      />
+      <section className="ph-page-head">
+        <div className="container-shell">
+          <Breadcrumb
+            items={[
+              { label: 'Healthcare News', to: '/healthcare-news' },
+              { label: article.title.slice(0, 48) + (article.title.length > 48 ? '…' : '') },
+            ]}
+          />
+          <div style={{ marginTop: 32, maxWidth: 760 }}>
+            <div
+              style={{
+                fontSize: 11,
+                fontWeight: 800,
+                letterSpacing: '0.2em',
+                textTransform: 'uppercase',
+                color: '#0a9968',
+                marginBottom: 14,
+              }}
+            >
+              {article.source || article.publisher || 'Newsroom'} · {published}
+            </div>
+            <h1
+              style={{
+                margin: 0,
+                fontSize: 'clamp(30px, 4.4vw, 52px)',
+                lineHeight: 1.06,
+                letterSpacing: '-0.025em',
+                fontWeight: 800,
+                color: '#1A2438',
+              }}
+            >
+              {article.title}
+            </h1>
+            {article.excerpt && (
+              <p
+                style={{
+                  marginTop: 18,
+                  fontSize: 'clamp(15px, 1.2vw, 18px)',
+                  lineHeight: 1.6,
+                  color: '#4A5568',
+                }}
+              >
+                {article.excerpt}
+              </p>
+            )}
+          </div>
+        </div>
+      </section>
+
+      {article.coverImage && (
+        <section style={{ padding: '24px 0 0' }}>
+          <div className="container-shell">
+            <img
+              src={article.coverImage}
+              alt={article.coverImageAlt || ''}
+              style={{
+                width: '100%',
+                maxHeight: 520,
+                objectFit: 'cover',
+                borderRadius: 18,
+                display: 'block',
+              }}
+            />
+          </div>
+        </section>
+      )}
+
+      <section style={{ padding: 'clamp(40px, 5vw, 80px) 0' }}>
+        <div className="container-shell">
+          <article
+            style={{
+              maxWidth: 760,
+              margin: '0 auto',
+              fontSize: 17,
+              lineHeight: 1.75,
+              color: '#2D3748',
+            }}
+            dangerouslySetInnerHTML={{ __html: article.content || '' }}
+          />
+          {article.sourceUrl && (
+            <p
+              style={{
+                maxWidth: 760,
+                margin: '36px auto 0',
+                fontSize: 13,
+                color: '#64748b',
+              }}
+            >
+              Original source:{' '}
+              <a
+                href={article.sourceUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ color: '#0a9968' }}
+              >
+                {article.source || article.sourceUrl}
+              </a>
+            </p>
+          )}
+          <div style={{ maxWidth: 760, margin: '40px auto 0' }}>
+            <Link to="/healthcare-news" style={{ color: '#0a9968', fontWeight: 700 }}>
+              ← Back to Healthcare News
+            </Link>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+};
 
 const COLORS = {
   navy: '#1A2438',
@@ -180,6 +381,8 @@ const NewsDetail = () => {
   const article = slug ? newsBySlug(slug) : undefined;
 
   if (!article) {
+    // Slug not in static set → try the DB (admin-authored article).
+    if (slug) return <DbNewsArticleView slug={slug} />;
     return <Navigate to="/healthcare-news" replace />;
   }
 
